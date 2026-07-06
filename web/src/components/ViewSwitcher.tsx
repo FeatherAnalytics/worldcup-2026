@@ -4,6 +4,7 @@ const TABS: { key: ViewMode; label: string }[] = [
   { key: "diaspora", label: "Diaspora" },
   { key: "squad", label: "Squads" },
   { key: "factories", label: "Origins" },
+  { key: "bracket", label: "Bracket" },
 ];
 
 interface ViewSwitcherProps {

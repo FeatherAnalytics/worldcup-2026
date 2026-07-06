@@ -1,4 +1,17 @@
-export type ViewMode = "diaspora" | "squad" | "factories";
+export type ViewMode = "diaspora" | "squad" | "factories" | "bracket";
+
+export interface Match {
+  round: string;
+  stage: "group" | "knockout";
+  date: string;
+  team_a: string;
+  team_b: string;
+  score_a: number | null;
+  score_b: number | null;
+  winner: string | null;
+  penalties_a?: number;
+  penalties_b?: number;
+}
 
 export interface Player {
   name: string;

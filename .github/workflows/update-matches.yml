@@ -1,0 +1,63 @@
+name: Update Match Data
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"  # Every 4 hours at :17
+  workflow_dispatch:         # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # Stop running after tournament ends (Final: Jul 19, 2026)
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule != '' && vars.TOURNAMENT_ENDED != 'true')
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check tournament end date
+        id: tournament
+        run: |
+          if [ "$(date -u +%Y-%m-%d)" \> "2026-07-20" ]; then
+            echo "Tournament has ended. Skipping."
+            echo "ended=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ended=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip if tournament ended
+        if: steps.tournament.outputs.ended == 'true'
+        run: echo "Skipping — tournament is over." && exit 0
+
+      - uses: actions/setup-python@v5
+        if: steps.tournament.outputs.ended == 'false'
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        if: steps.tournament.outputs.ended == 'false'
+        run: pip install httpx beautifulsoup4 lxml truststore
+
+      - name: Scrape match results
+        if: steps.tournament.outputs.ended == 'false'
+        run: python scripts/update_matches.py
+
+      - name: Check for changes
+        if: steps.tournament.outputs.ended == 'false'
+        id: changes
+        run: |
+          if git diff --quiet web/public/data/matches.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.tournament.outputs.ended == 'false' && steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/public/data/matches.json
+          git commit -m "data: update match results from Wikipedia"
+          git push
