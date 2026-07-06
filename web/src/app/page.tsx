@@ -12,18 +12,22 @@ import { TeamSummary } from "@/components/TeamSummary";
 import { PlayerCard } from "@/components/PlayerCard";
 import { ColorLegend } from "@/components/ColorLegend";
 import { CountryDetail } from "@/components/CountryDetail";
+import { BracketPanel } from "@/components/BracketPanel";
 import { createDiasporaLayers } from "@/components/DiasporaLayer";
 import { createSquadLayer } from "@/components/SquadLayer";
 import { createFactoriesLayer } from "@/components/FactoriesLayer";
+import { createBracketLayers, geoNameToTeam } from "@/components/BracketLayer";
 import { computeCentroids, type CountryCentroid } from "@/lib/geo";
+import { participatingTeams, type StageKey } from "@/lib/bracket";
 import {
   loadPlayers,
   loadSummary,
+  loadMatches,
   uniqueTeams,
   uniqueConfederations,
   uniqueBirthCountries,
 } from "@/lib/data";
-import type { Player, Summary, ViewMode, TooltipInfo } from "@/lib/types";
+import type { Player, Match, Summary, ViewMode, TooltipInfo } from "@/lib/types";
 import type { FeatureCollection, Feature } from "geojson";
 import type { PickingInfo } from "deck.gl";
 
@@ -58,12 +62,18 @@ export default function Home() {
   /* Factories state */
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
 
+  /* Bracket state */
+  const [matches, setMatches] = useState<Match[]>([]);
+  const [selectedStage, setSelectedStage] = useState<StageKey>("r16");
+  const [bracketTeam, setBracketTeam] = useState<string | null>(null);
+
   /* ------------------------------------------------------------------ */
   /*  Data loading                                                       */
   /* ------------------------------------------------------------------ */
   useEffect(() => {
     loadPlayers().then(setPlayers);
     loadSummary().then(setSummary);
+    loadMatches().then(setMatches);
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
     fetch(`${basePath}/data/countries.geojson`)
       .then((r) => r.json())
@@ -107,6 +117,21 @@ export default function Home() {
     [players, selectedTeam]
   );
 
+  const activeTeams = useMemo(
+    () => participatingTeams(matches, selectedStage),
+    [matches, selectedStage]
+  );
+
+  const bracketTeamPlayers = useMemo(
+    () => bracketTeam ? players.filter((p) => p.team_country === bracketTeam) : [],
+    [players, bracketTeam]
+  );
+
+  const getConfederation = useCallback(
+    (team: string) => players.find((p) => p.team_country === team)?.team_confederation ?? "",
+    [players]
+  );
+
   /* ------------------------------------------------------------------ */
   /*  View change handler — reset transient state                        */
   /* ------------------------------------------------------------------ */
@@ -116,6 +141,7 @@ export default function Home() {
       setTooltip(null);
       setSelectedPlayer(null);
       setSelectedCountry(null);
+      setBracketTeam(null);
       // Reset squad selection to first team when entering squad view
       if (v === "squad" && selectedTeam === "" && allTeams.length > 0) {
         setSelectedTeam(allTeams[0]);
@@ -165,8 +191,11 @@ export default function Home() {
       }));
       return [createFactoriesLayer(geojson, foreignBirthCountries)];
     }
+    if (activeView === "bracket" && geojson && players.length > 0 && centroids.size > 0) {
+      return createBracketLayers(geojson, players, activeTeams, centroids, bracketTeam, getConfederation);
+    }
     return [];
-  }, [activeView, diasporaPlayers, centroids, squadPlayers, selectedPlayer, geojson, players]);
+  }, [activeView, diasporaPlayers, centroids, squadPlayers, selectedPlayer, geojson, players, activeTeams, bracketTeam, getConfederation]);
 
   /* ------------------------------------------------------------------ */
   /*  Hover handler                                                      */
@@ -210,6 +239,24 @@ export default function Home() {
             </div>
           ),
         });
+      } else if (activeView === "bracket") {
+        const obj = info.object as Player | Feature;
+        if ("name" in obj && "team_country" in obj) {
+          const player = obj as Player;
+          setTooltip({
+            x: info.x,
+            y: info.y,
+            content: (
+              <div>
+                <p className="font-medium">{player.name}</p>
+                <p className="text-stone-500">{player.team_country} &middot; {player.position}</p>
+                <p className="text-xs text-stone-400">{player.birth_city}, {player.birth_country}</p>
+              </div>
+            ),
+          });
+        } else {
+          setTooltip(null);
+        }
       } else if (activeView === "factories") {
         const feature = info.object as Feature;
         const name = (feature.properties?.NAME ?? feature.properties?.ADMIN ?? "") as string;
@@ -240,6 +287,25 @@ export default function Home() {
       if (activeView === "squad" && info.object) {
         const player = info.object as Player;
         if (player.name) setSelectedPlayer(player);
+      }
+      if (activeView === "bracket") {
+        if (info.object) {
+          const obj = info.object as Record<string, unknown>;
+          let teamName: string | null = null;
+          if ("team_country" in obj && typeof obj.team_country === "string") {
+            teamName = obj.team_country;
+          } else if ("properties" in obj) {
+            const feat = obj as unknown as Feature;
+            const geoName = (feat.properties?.NAME ?? feat.properties?.ADMIN ?? "") as string;
+            teamName = geoNameToTeam(geoName);
+            if (!activeTeams.has(teamName)) teamName = null;
+          }
+          if (teamName) {
+            setBracketTeam((prev) => prev === teamName ? null : teamName);
+          }
+        } else {
+          setBracketTeam(null);
+        }
       }
       if (activeView === "factories" && info.object) {
         const feature = info.object as Feature;
@@ -316,6 +382,18 @@ export default function Home() {
             <p className="text-xs text-stone-400">Click a country to see which teams its players represent</p>
           )}
         </div>
+      );
+    }
+    if (activeView === "bracket") {
+      return (
+        <BracketPanel
+          matches={matches}
+          selectedStage={selectedStage}
+          onStageChange={setSelectedStage}
+          selectedTeam={bracketTeam}
+          onTeamClick={(team) => setBracketTeam((prev) => prev === team ? null : team)}
+          teamPlayers={bracketTeamPlayers}
+        />
       );
     }
     return null;

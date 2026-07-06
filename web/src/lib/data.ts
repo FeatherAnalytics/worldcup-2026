@@ -1,9 +1,10 @@
-import type { Player, Summary } from "./types";
+import type { Match, Player, Summary } from "./types";
 
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 let playersCache: Player[] | null = null;
 let summaryCache: Summary | null = null;
+let matchesCache: Match[] | null = null;
 
 export async function loadPlayers(): Promise<Player[]> {
   if (playersCache) return playersCache;
@@ -17,6 +18,13 @@ export async function loadSummary(): Promise<Summary> {
   const resp = await fetch(`${BASE}/data/summary.json`);
   summaryCache = (await resp.json()) as Summary;
   return summaryCache;
+}
+
+export async function loadMatches(): Promise<Match[]> {
+  if (matchesCache) return matchesCache;
+  const resp = await fetch(`${BASE}/data/matches.json`);
+  matchesCache = (await resp.json()) as Match[];
+  return matchesCache;
 }
 
 export function filterPlayers(
