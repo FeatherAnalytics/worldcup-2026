@@ -64,7 +64,8 @@ export default function Home() {
   useEffect(() => {
     loadPlayers().then(setPlayers);
     loadSummary().then(setSummary);
-    fetch("/data/countries.geojson")
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+    fetch(`${basePath}/data/countries.geojson`)
       .then((r) => r.json())
       .then((data: FeatureCollection) => {
         setGeojson(data);
