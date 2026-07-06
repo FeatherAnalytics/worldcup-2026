@@ -1,0 +1,1249 @@
+name,team_country,team_confederation,position,club,club_country,birth_date,birth_city,birth_country,birth_lat,birth_lon,caps,goals,is_foreign_born,birth_country_known
+Matěj Kovář,Czech Republic,UEFA,Goalkeeper,PSV Eindhoven,Netherlands,2000-05-17,Uherské Hradiště,Czech Republic,49.069757549526,17.459691353499,20,0,false,true
+David Zima,Czech Republic,UEFA,Defender,Slavia Prague,Czech Republic,2000-11-08,Olomouc,Czech Republic,49.593888888889,17.250833333333,25,1,false,true
+Tomáš Holeš,Czech Republic,UEFA,Defender,Slavia Prague,Czech Republic,1993-03-31,Polička,Czech Republic,49.714679390589,16.265478874053,41,2,false,true
+Robin Hranáč,Czech Republic,UEFA,Defender,TSG Hoffenheim,Germany,2000-01-29,Plzeň,Czech Republic,49.741388888889,13.3825,14,1,false,true
+Vladimír Coufal,Czech Republic,UEFA,Defender,TSG Hoffenheim,Germany,1992-08-22,Prague,Czech Republic,50.0875,14.421388888888888,62,2,false,true
+Štěpán Chaloupek,Czech Republic,UEFA,Defender,Slavia Prague,Czech Republic,2003-03-08,Meziboří,Czech Republic,50.621246387357,13.598802095006,5,0,false,true
+Ladislav Krejčí,Czech Republic,UEFA,Defender,Wolverhampton Wanderers,England,1999-04-20,Rosice,Czech Republic,49.1823520088,16.387885945617,27,5,false,true
+Vladimír Darida,Czech Republic,UEFA,Midfielder,Hradec Králové,Czech Republic,1990-08-08,Plzeň,Czech Republic,49.741388888889,13.3825,79,8,false,true
+Adam Hložek,Czech Republic,UEFA,Forward,TSG Hoffenheim,Germany,2002-07-25,Ivančice,Czech Republic,49.101477851144,16.377529198529,43,5,false,true
+Patrik Schick,Czech Republic,UEFA,Forward,Bayer Leverkusen,Germany,1996-01-24,Prague,Czech Republic,50.0875,14.421388888888888,53,26,false,true
+Jan Kuchta,Czech Republic,UEFA,Forward,Sparta Prague,Czech Republic,1997-01-08,Liberec,Austria–Hungary,50.766666666666666,15.05,31,3,true,true
+Lukáš Červ,Czech Republic,UEFA,Midfielder,Viktoria Plzeň,Czech Republic,2001-04-10,Prague,Czech Republic,50.0875,14.421388888888888,17,2,false,true
+Mojmír Chytil,Czech Republic,UEFA,Forward,Slavia Prague,Czech Republic,1999-04-29,Skalka,Czech Republic,49.403099721183,17.169833127602,22,6,false,true
+David Jurásek,Czech Republic,UEFA,Defender,Slavia Prague,Czech Republic,2000-08-07,Uherské Hradiště,Czech Republic,49.069757549526,17.459691353499,18,1,false,true
+Pavel Šulc,Czech Republic,UEFA,Forward,Lyon,France,2000-12-29,Karlovy Vary,Czech Republic,50.230555555556,12.8725,21,5,false,true
+Jindřich Staněk,Czech Republic,UEFA,Goalkeeper,Slavia Prague,Czech Republic,1996-04-27,Strakonice,Czech Republic,49.261497897079,13.902396874574,14,0,false,true
+Lukáš Provod,Czech Republic,UEFA,Midfielder,Slavia Prague,Czech Republic,1996-10-23,Plzeň,Czech Republic,49.741388888889,13.3825,38,3,false,true
+Michal Sadílek,Czech Republic,UEFA,Midfielder,Slavia Prague,Czech Republic,1999-05-31,Uherské Hradiště,Czech Republic,49.069757549526,17.459691353499,35,1,false,true
+Tomáš Chorý,Czech Republic,UEFA,Forward,Slavia Prague,Czech Republic,1995-01-26,Olomouc,Czech Republic,49.593888888889,17.250833333333,22,7,false,true
+Jaroslav Zelený,Czech Republic,UEFA,Defender,Sparta Prague,Czech Republic,1992-08-20,Hradec Králové,Czech Republic,50.209166666667,15.831944444444,23,0,false,true
+David Douděra,Czech Republic,UEFA,Defender,Slavia Prague,Czech Republic,1998-05-31,Brandýs nad Labem-Stará Boleslav,Czech Republic,50.187160680032,14.663332953497,17,2,false,true
+Tomáš Souček,Czech Republic,UEFA,Midfielder,West Ham United,England,1995-02-27,Havlíčkův Brod,Czech Republic,49.607899638305,15.580727658514,90,17,false,true
+Lukáš Horníček,Czech Republic,UEFA,Goalkeeper,Braga,Portugal,2002-07-13,Vysoké Mýto,Czech Republic,49.953240035812,16.161752006464,1,0,false,true
+Alexandr Sojka,Czech Republic,UEFA,Midfielder,Viktoria Plzeň,Czech Republic,2003-04-02,Klatovy,Czech Republic,49.395625338265,13.29508891337,2,0,false,true
+Hugo Sochůrek,Czech Republic,UEFA,Midfielder,Sparta Prague,Czech Republic,2008-06-07,Tábor,Czech Republic,49.414485338494,14.657835974031,1,0,false,true
+Denis Višinský,Czech Republic,UEFA,Forward,Viktoria Plzeň,Czech Republic,2003-03-21,Mělník,Czech Republic,50.35057067972,14.474193495734,2,1,false,true
+Raúl Rangel,Mexico,CONCACAF,Goalkeeper,Guadalajara,Mexico,2000-02-25,Zapotlán el Grande Municipality,Mexico,19.7,-103.51666666666667,14,0,false,true
+Jorge Sánchez,Mexico,CONCACAF,Defender,PAOK,Greece,1997-12-10,Torreón,Mexico,25.54389,-103.41898,59,3,false,true
+César Montes,Mexico,CONCACAF,Defender,Lokomotiv Moscow,Russia,1997-02-24,Hermosillo,Mexico,29.075,-110.95833333333333,67,4,false,true
+Edson Álvarez,Mexico,CONCACAF,Defender,Fenerbahçe,Turkey,1997-10-24,Tlalnepantla de Baz Municipality,Mexico,19.54,-99.16666666666667,98,7,false,true
+Johan Vásquez,Mexico,CONCACAF,Defender,Genoa,Italy,1998-10-22,Navojoa,Mexico,27.081666666666667,-109.44555555555556,46,3,false,true
+Érik Lira,Mexico,CONCACAF,Midfielder,Cruz Azul,Mexico,2000-05-08,Cuauhtémoc,Mexico,19.443055555556,-99.144722222222,25,0,false,true
+Luis Romo,Mexico,CONCACAF,Midfielder,Guadalajara,Mexico,1995-06-05,Ahome Municipality,Mexico,25.833333333333332,-109.05,63,4,false,true
+Álvaro Fidalgo,Mexico,CONCACAF,Midfielder,Real Betis,Spain,1997-04-09,Siero,Spain,43.391469,-5.660866,4,0,true,true
+Raúl Jiménez,Mexico,CONCACAF,Forward,Fulham,England,1991-05-05,Tepeji del Río de Ocampo Municipality,Mexico,19.905277777778,-99.341666666667,124,44,false,true
+Alexis Vega,Mexico,CONCACAF,Forward,Toluca,Mexico,1997-11-25,Cuauhtémoc,Mexico,19.443055555556,-99.144722222222,52,7,false,true
+Santiago Giménez,Mexico,CONCACAF,Forward,Milan,Italy,2001-04-18,Buenos Aires,Argentina,-34.599722222222,-58.381944444444,47,6,true,true
+Carlos Acevedo,Mexico,CONCACAF,Goalkeeper,Santos Laguna,Mexico,1996-04-19,Torreón,Mexico,25.54389,-103.41898,7,0,false,true
+Guillermo Ochoa,Mexico,CONCACAF,Goalkeeper,AEL Limassol,Cyprus,1985-07-13,Guadalajara,Mexico,20.676388888888887,-103.34222222222222,152,0,false,true
+Armando González,Mexico,CONCACAF,Forward,Guadalajara,Mexico,2003-04-20,Celaya,Mexico,20.528888888889,-100.815,7,1,false,true
+Israel Reyes,Mexico,CONCACAF,Defender,América,Mexico,2000-05-23,Autlán de Navarro Municipality,Mexico,19.75,-104.3,34,2,false,true
+Julián Quiñones,Mexico,CONCACAF,Forward,Al-Qadsiah,Saudi Arabia,1997-03-24,Magüí Payán,Colombia,1.7658333333333,-78.182777777778,22,2,true,true
+Orbelín Pineda,Mexico,CONCACAF,Midfielder,AEK Athens,Greece,1996-03-24,Coyuca de Catalán Municipality,Mexico,18.0888,-100.9149,92,12,false,true
+Obed Vargas,Mexico,CONCACAF,Midfielder,Atlético Madrid,Spain,2005-08-05,Anchorage,United States,61.21666666666667,-149.8936111111111,6,0,true,true
+Gilberto Mora,Mexico,CONCACAF,Midfielder,Tijuana,Mexico,2008-10-14,Tuxtla Gutiérrez,Mexico,16.753055555556,-93.115555555556,8,0,false,true
+Mateo Chávez,Mexico,CONCACAF,Defender,AZ,Netherlands,2004-05-12,Monterrey,Mexico,25.684444444444445,-100.31805555555556,10,0,false,true
+César Huerta,Mexico,CONCACAF,Forward,Anderlecht,Belgium,2000-12-03,Guadalajara,Mexico,20.676388888888887,-103.34222222222222,26,3,false,true
+Guillermo Martínez,Mexico,CONCACAF,Forward,Pumas UNAM,Mexico,1995-03-15,Celaya,Mexico,20.528888888889,-100.815,12,3,false,true
+Jesús Gallardo,Mexico,CONCACAF,Defender,Toluca,Mexico,1994-08-15,Heroica Cárdenas,Mexico,17.98943,-93.37685555555555,121,3,false,true
+Luis Chávez,Mexico,CONCACAF,Midfielder,Dynamo Moscow,Russia,1996-01-15,Cihuatlán,Mexico,19.238343333333333,-104.56299777777778,45,5,false,true
+Roberto Alvarado,Mexico,CONCACAF,Forward,Guadalajara,Mexico,1998-09-07,Salamanca,Mexico,20.569027777777777,-101.19961111111111,67,5,false,true
+Brian Gutiérrez,Mexico,CONCACAF,Midfielder,Guadalajara,Mexico,2003-06-17,Berwyn,United States,41.8433349,-87.7909259,7,2,true,true
+Ronwen Williams,South Africa,CAF,Goalkeeper,Mamelodi Sundowns,South Africa,1992-01-21,Gqeberha,South Africa,-33.958055555556,25.6,62,0,false,true
+Thabang Matuludi,South Africa,CAF,Defender,Polokwane City,South Africa,1999-01-14,Dennilton,South Africa,-25.256,29.164,3,0,false,true
+Khulumani Ndamane,South Africa,CAF,Defender,Mamelodi Sundowns,South Africa,2004-02-05,Ladysmith,South Africa,-28.553888888889,29.7825,5,0,false,true
+Teboho Mokoena,South Africa,CAF,Midfielder,Mamelodi Sundowns,South Africa,1997-01-24,Bethlehem,South Africa,-28.233333333333,28.3,51,9,false,true
+Thalente Mbatha,South Africa,CAF,Midfielder,Orlando Pirates,South Africa,2000-03-06,KwaMashu,South Africa,-29.75,30.983333333333,15,3,false,true
+Aubrey Modiba,South Africa,CAF,Defender,Mamelodi Sundowns,South Africa,1995-07-22,Polokwane,South Africa,-23.9,29.45,44,3,false,true
+Oswin Appollis,South Africa,CAF,Forward,Orlando Pirates,South Africa,2001-08-25,Bishop Lavis,South Africa,-33.9486,18.5758,26,8,false,true
+Tshepang Moremi,South Africa,CAF,Forward,Orlando Pirates,South Africa,2000-10-02,Sharpeville,South Africa,-26.666667,27.866667,10,1,false,true
+Lyle Foster,South Africa,CAF,Forward,Burnley,England,2000-09-03,Soweto,South Africa,-26.267777777777777,27.85861111111111,27,10,false,true
+Relebohile Mofokeng,South Africa,CAF,Forward,Orlando Pirates,South Africa,2004-10-23,Sharpeville,South Africa,-26.666667,27.866667,13,0,false,true
+Themba Zwane,South Africa,CAF,Midfielder,Mamelodi Sundowns,South Africa,1989-08-03,Thembisa,South Africa,-26.0055,28.2102,54,12,false,true
+Thapelo Maseko,South Africa,CAF,Forward,AEL Limassol,Cyprus,2003-11-11,Sebokeng,South Africa,-26.576944444444,27.840555555556,10,1,false,true
+Sphephelo Sithole,South Africa,CAF,Midfielder,Tondela,Portugal,1999-03-03,Durban,South Africa,-29.858333333333,31.025,28,1,false,true
+Mbekezeli Mbokazi,South Africa,CAF,Defender,Chicago Fire FC,United States,2005-09-19,Hluhluwe,South Africa,-28.018888888889,32.2675,10,1,false,true
+Iqraam Rayners,South Africa,CAF,Forward,Mamelodi Sundowns,South Africa,1995-12-19,Cape Town,South Africa,-33.92527777777778,18.42388888888889,14,4,false,true
+Sipho Chaine,South Africa,CAF,Goalkeeper,Orlando Pirates,South Africa,1996-12-14,Bloemfontein,South Africa,-29.1,26.216666666667,4,0,false,true
+Evidence Makgopa,South Africa,CAF,Forward,Orlando Pirates,South Africa,2000-06-05,Fetakgomo Local Municipality,South Africa,-24.4167,29.9167,26,6,false,true
+Samukele Kabini,South Africa,CAF,Defender,Molde,Norway,2004-03-15,South Africa,South Africa,-29.0,24.0,6,0,false,true
+Nkosinathi Sibisi,South Africa,CAF,Defender,Orlando Pirates,South Africa,1995-09-22,Durban,South Africa,-29.858333333333,31.025,20,0,false,true
+Khuliso Mudau,South Africa,CAF,Defender,Mamelodi Sundowns,South Africa,1995-04-26,Musina,South Africa,-22.338055555556,30.041666666667,32,1,false,true
+Ime Okon,South Africa,CAF,Defender,Hannover 96,Germany,2004-02-20,South Africa,South Africa,-29.0,24.0,8,1,false,true
+Ricardo Goss,South Africa,CAF,Goalkeeper,Siwelele,South Africa,1994-04-02,Durban,South Africa,-29.858333333333,31.025,5,0,false,true
+Jayden Adams,South Africa,CAF,Midfielder,Mamelodi Sundowns,South Africa,2001-05-05,Cape Town,South Africa,-33.92527777777778,18.42388888888889,5,0,false,true
+Olwethu Makhanya,South Africa,CAF,Defender,Philadelphia Union,United States,2004-04-30,Durban,South Africa,-29.858333333333,31.025,1,0,false,true
+Kamogelo Sebelebele,South Africa,CAF,Forward,Orlando Pirates,South Africa,2002-07-21,Thembisa,South Africa,-26.0055,28.2102,3,0,false,true
+Bradley Cross,South Africa,CAF,Defender,Kaizer Chiefs,South Africa,2001-01-30,Kempton Park,South Africa,-26.1,28.2333,1,0,false,true
+Kim Seung-gyu,South Korea,AFC,Goalkeeper,FC Tokyo,Japan,1990-09-30,Ulsan,South Korea,35.55,129.31666666667,87,0,false,true
+Lee Han-beom,South Korea,AFC,Defender,Midtjylland,Denmark,2002-06-17,South Korea,South Korea,36.0,128.0,8,0,false,true
+Lee Gi-hyuk,South Korea,AFC,Midfielder,Gangwon FC,South Korea,2000-07-07,Seoul,South Korea,37.56,126.99,3,0,false,true
+Kim Min-jae,South Korea,AFC,Defender,Bayern Munich,Germany,1996-11-15,Tongyeong,South Korea,34.845833333333,128.42361111111,79,4,false,true
+Kim Tae-hyeon,South Korea,AFC,Defender,Kashima Antlers,Japan,2000-09-17,South Korea,South Korea,36.0,128.0,7,0,false,true
+Hwang In-beom,South Korea,AFC,Midfielder,Feyenoord,Netherlands,1996-09-20,Daejeon,South Korea,36.35,127.385,73,6,false,true
+Son Heung-min,South Korea,AFC,Forward,Los Angeles FC,United States,1992-07-08,Chuncheon,South Korea,37.874722222222,127.73416666667,144,56,false,true
+Paik Seung-ho,South Korea,AFC,Midfielder,Birmingham City,England,1997-03-17,Suwon,South Korea,37.285833333333,127.01,27,3,false,true
+Cho Gue-sung,South Korea,AFC,Forward,Midtjylland,Denmark,1998-01-25,Ansan,South Korea,37.323611111111,126.82194444444,44,12,false,true
+Lee Jae-sung,South Korea,AFC,Midfielder,Mainz 05,Germany,1992-08-10,Ulsan,South Korea,35.55,129.31666666667,105,15,false,true
+Hwang Hee-chan,South Korea,AFC,Midfielder,Wolverhampton Wanderers,England,1996-01-26,Chuncheon,South Korea,37.874722222222,127.73416666667,79,17,false,true
+Song Bum-keun,South Korea,AFC,Goalkeeper,Jeonbuk Hyundai Motors,South Korea,1997-10-15,Seongnam,South Korea,37.438611111111,127.13777777778,3,0,false,true
+Lee Tae-seok,South Korea,AFC,Defender,Austria Wien,Austria,2002-07-28,South Korea,South Korea,36.0,128.0,15,1,false,true
+Cho Wi-je,South Korea,AFC,Defender,Jeonbuk Hyundai Motors,South Korea,2001-08-25,"","",,,1,0,false,false
+Kim Moon-hwan,South Korea,AFC,Defender,Daejeon Hana Citizen,South Korea,1995-08-01,Hwaseong,South Korea,37.2,126.76666666667,35,0,false,true
+Park Jin-seob,South Korea,AFC,Defender,Zhejiang,"",1995-10-23,South Korea,South Korea,36.0,128.0,14,1,false,true
+Bae Jun-ho,South Korea,AFC,Midfielder,Stoke City,England,2003-08-21,Daegu,South Korea,35.87166666666667,128.60166666666666,13,2,false,true
+Oh Hyeon-gyu,South Korea,AFC,Forward,Beşiktaş,Turkey,2001-04-12,Namyangju,South Korea,37.636666666667,127.21416666667,27,6,false,true
+Lee Kang-in,South Korea,AFC,Midfielder,Paris Saint-Germain,France,2001-02-19,Incheon,South Korea,37.463888888889,126.64861111111,47,11,false,true
+Yang Hyun-jun,South Korea,AFC,Midfielder,Celtic,Scotland,2002-05-25,Busan,South Korea,35.18,129.075,9,0,false,true
+Jo Hyeon-woo,South Korea,AFC,Goalkeeper,Ulsan HD,South Korea,1991-09-25,Seoul,South Korea,37.56,126.99,48,0,false,true
+Seol Young-woo,South Korea,AFC,Defender,Red Star Belgrade,Serbia,1998-12-05,Ulsan,South Korea,35.55,129.31666666667,34,0,false,true
+Jens Castrop,South Korea,AFC,Defender,Borussia Mönchengladbach,Germany,2003-07-29,Düsseldorf,Germany,51.22555555555556,6.776666666666666,7,0,true,true
+Kim Jin-gyu,South Korea,AFC,Midfielder,Jeonbuk Hyundai Motors,South Korea,1997-02-24,Pohang,South Korea,36.032222222222,129.365,22,3,false,true
+Eom Ji-sung,South Korea,AFC,Midfielder,Swansea City,Wales,2002-05-09,Gimje,South Korea,35.801666666667,126.88888888889,9,2,false,true
+Lee Dong-gyeong,South Korea,AFC,Midfielder,Ulsan HD,South Korea,1997-09-20,South Korea,South Korea,36.0,128.0,18,4,false,true
+Nikola Vasilj,Bosnia and Herzegovina,UEFA,Goalkeeper,FC St. Pauli,Germany,1995-12-02,Mostar,Bosnia and Herzegovina,43.34361111111111,17.8075,26,0,false,true
+Nihad Mujakić,Bosnia and Herzegovina,UEFA,Defender,Gaziantep,Turkey,1998-04-15,Sarajevo,Bosnia and Herzegovina,43.85638888888889,18.413055555555555,12,1,false,true
+Dennis Hadžikadunić,Bosnia and Herzegovina,UEFA,Defender,Sampdoria,Italy,1998-07-09,Malmö,Sweden,55.583333333333336,13.0,32,0,true,true
+Tarik Muharemović,Bosnia and Herzegovina,UEFA,Defender,Sassuolo,Italy,2003-02-28,Ljubljana,Slovenia,46.05138888888889,14.50611111111111,14,1,true,true
+Sead Kolašinac,Bosnia and Herzegovina,UEFA,Defender,Atalanta,Italy,1993-06-20,Karlsruhe,Germany,49.016666666667,8.4,65,0,true,true
+Benjamin Tahirović,Bosnia and Herzegovina,UEFA,Midfielder,Brøndby,Denmark,2003-03-03,Spånga-Tensta city district,Sweden,59.39416667,17.90111111,28,2,true,true
+Amar Dedić,Bosnia and Herzegovina,UEFA,Defender,Benfica,Portugal,2002-08-18,Zell am See,Austria,47.323333333333,12.798055555556,28,1,true,true
+Armin Gigović,Bosnia and Herzegovina,UEFA,Midfielder,Young Boys,Switzerland,2002-04-06,Lund,Sweden,55.708313018551,13.199164196669,20,1,true,true
+Samed Baždar,Bosnia and Herzegovina,UEFA,Forward,Jagiellonia Białystok,Poland,2004-01-31,Novi Pazar,Serbia,43.15,20.516666666667,13,1,true,true
+Ermedin Demirović,Bosnia and Herzegovina,UEFA,Forward,VfB Stuttgart,Germany,1998-03-25,Hamburg,Holy Roman Empire,53.55,10.0,40,4,true,true
+Edin Džeko,Bosnia and Herzegovina,UEFA,Forward,Schalke 04,Germany,1986-03-17,Sarajevo,Bosnia and Herzegovina,43.85638888888889,18.413055555555555,148,73,false,true
+Mladen Jurkas,Bosnia and Herzegovina,UEFA,Goalkeeper,Borac Banja Luka,Bosnia and Herzegovina,2007-10-07,Doboj,Bosnia and Herzegovina,44.733333333333,18.133333333333,0,0,false,true
+Ivan Bašić,Bosnia and Herzegovina,UEFA,Midfielder,Astana,"",2002-04-30,Imotski,Croatia,43.45,17.216666666667,17,0,true,true
+Ivan Šunjić,Bosnia and Herzegovina,UEFA,Midfielder,Pafos,Cyprus,1996-10-09,Zenica,Bosnia and Herzegovina,44.201666666667,17.903888888889,11,0,false,true
+Amar Memić,Bosnia and Herzegovina,UEFA,Midfielder,Viktoria Plzeň,Czech Republic,2001-01-20,Sarajevo,Bosnia and Herzegovina,43.85638888888889,18.413055555555555,13,1,false,true
+Amir Hadžiahmetović,Bosnia and Herzegovina,UEFA,Midfielder,Hull City,England,1997-03-08,Nexø,Denmark,55.0625,15.131944444444,36,0,true,true
+Dženis Burnić,Bosnia and Herzegovina,UEFA,Midfielder,Karlsruher SC,Germany,1998-05-22,Hamm,Germany,51.68138888888889,7.819166666666667,20,0,true,true
+Nikola Katić,Bosnia and Herzegovina,UEFA,Defender,Schalke 04,Germany,1996-10-10,Ljubuški,Bosnia and Herzegovina,43.198055555556,17.546666666667,17,2,false,true
+Kerim Alajbegović,Bosnia and Herzegovina,UEFA,Forward,Red Bull Salzburg,Austria,2007-09-21,Cologne,Germany,50.942222222222,6.9577777777778,10,1,true,true
+Esmir Bajraktarević,Bosnia and Herzegovina,UEFA,Forward,PSV Eindhoven,Netherlands,2005-03-10,Appleton,United States,44.282222222222,-88.418333333333,16,1,true,true
+Stjepan Radeljić,Bosnia and Herzegovina,UEFA,Defender,Rijeka,Croatia,1997-09-05,Travnik,Bosnia and Herzegovina,44.22542187944831,17.666868517575132,5,0,false,true
+Martin Zlomislić,Bosnia and Herzegovina,UEFA,Goalkeeper,Rijeka,Croatia,1998-08-16,Posušje,Bosnia and Herzegovina,43.472222222222,17.326666666667,3,0,false,true
+Haris Tabaković,Bosnia and Herzegovina,UEFA,Forward,Borussia Mönchengladbach,Germany,1994-06-20,Grenchen,Switzerland,47.193055555556,7.3958333333333,10,4,true,true
+Arjan Malić,Bosnia and Herzegovina,UEFA,Defender,Sturm Graz,Austria,2005-08-28,Jesenice,Slovenia,46.436572222222,14.060172222222,8,0,true,true
+Jovo Lukić,Bosnia and Herzegovina,UEFA,Forward,Universitatea Cluj,Romania,1998-11-28,Banja Luka,Bosnia and Herzegovina,44.7725,17.1925,3,0,false,true
+Ermin Mahmić,Bosnia and Herzegovina,UEFA,Midfielder,Slovan Liberec,Czech Republic,2005-03-14,Wels,Austria,48.15,14.016666666667,2,0,true,true
+Dayne St. Clair,Canada,CONCACAF,Goalkeeper,Inter Miami CF,United States,1997-05-09,Pickering,Canada,43.906944444444,-79.130833333333,20,0,false,true
+Alistair Johnston,Canada,CONCACAF,Defender,Celtic,Scotland,1998-10-08,Vancouver,Canada,49.26083333333333,-123.1138888888889,58,1,false,true
+Alfie Jones,Canada,CONCACAF,Defender,Middlesbrough,England,1997-10-07,Bristol,United Kingdom,51.45361111111111,-2.5975,2,0,true,true
+Luc de Fougerolles,Canada,CONCACAF,Defender,Dender EH,Belgium,2005-10-12,London,Roman Empire,51.507222222222,-0.1275,13,0,false,true
+Joel Waterman,Canada,CONCACAF,Defender,Chicago Fire FC,United States,1996-01-24,Langley,Canada,49.104444,-122.582703,17,0,false,true
+Mathieu Choinière,Canada,CONCACAF,Midfielder,Los Angeles FC,United States,1999-02-07,Saint-Alexandre,Canada,45.2333,-73.1167,23,0,false,true
+Stephen Eustáquio,Canada,CONCACAF,Midfielder,Los Angeles FC,United States,1996-12-21,Leamington,Canada,42.052,-82.5999,56,4,false,true
+Ismaël Koné,Canada,CONCACAF,Midfielder,Sassuolo,Italy,2002-06-16,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,40,4,true,true
+Cyle Larin,Canada,CONCACAF,Forward,Southampton,England,1995-04-17,Brampton,Canada,43.683333333333,-79.766666666667,90,30,false,true
+Jonathan David,Canada,CONCACAF,Forward,Juventus,Italy,2000-01-14,Brooklyn,United States,40.65083333333333,-73.94972222222222,77,39,true,true
+Liam Millar,Canada,CONCACAF,Midfielder,Hull City,England,1999-09-27,Toronto,Canada,43.670277777778,-79.386666666667,41,1,false,true
+Tani Oluwaseyi,Canada,CONCACAF,Forward,Villarreal,Spain,2000-05-15,Abuja,Nigeria,9.0555555555556,7.4913888888889,24,2,true,true
+Derek Cornelius,Canada,CONCACAF,Defender,Rangers,Scotland,1997-11-25,Ajax,Canada,43.858333333333,-79.036388888889,44,1,false,true
+Jacob Shaffelburg,Canada,CONCACAF,Midfielder,Los Angeles FC,United States,1999-11-26,Port Williams,Canada,45.0978,-64.4094,31,6,false,true
+Moïse Bombito,Canada,CONCACAF,Defender,Nice,France,2000-03-30,Montreal,Canada,45.5033426,-73.5868411,20,0,false,true
+Maxime Crépeau,Canada,CONCACAF,Goalkeeper,Orlando City SC,United States,1994-05-11,Greenfield Park,Canada,45.4833,-73.45,32,0,false,true
+Tajon Buchanan,Canada,CONCACAF,Forward,Villarreal,Spain,1999-02-08,Brampton,Canada,43.683333333333,-79.766666666667,60,8,false,true
+Owen Goodman,Canada,CONCACAF,Goalkeeper,Barnsley,England,2003-11-27,Harold Wood,United Kingdom,51.592,0.2313,0,0,true,true
+Alphonso Davies,Canada,CONCACAF,Defender,Bayern Munich,Germany,2000-11-02,Buduburam,Ghana,5.5333333333333,-0.46666666666667,58,15,true,true
+Ali Ahmed,Canada,CONCACAF,Forward,Norwich City,England,2000-10-10,Toronto,Canada,43.670277777778,-79.386666666667,24,1,false,true
+Jonathan Osorio,Canada,CONCACAF,Midfielder,Toronto FC,Canada,1992-06-12,Toronto,Canada,43.670277777778,-79.386666666667,90,10,false,true
+Richie Laryea,Canada,CONCACAF,Defender,Toronto FC,Canada,1995-01-07,Toronto,Canada,43.670277777778,-79.386666666667,75,1,false,true
+Niko Sigur,Canada,CONCACAF,Defender,Hajduk Split,Croatia,2003-09-09,Burnaby,Canada,49.25,-122.949167,19,2,false,true
+Promise David,Canada,CONCACAF,Forward,Union Saint-Gilloise,Belgium,2001-07-03,Brampton,Canada,43.683333333333,-79.766666666667,10,3,false,true
+Nathan Saliba,Canada,CONCACAF,Midfielder,Anderlecht,Belgium,2004-02-07,Longueuil,Canada,45.51408333333333,-73.43802777777778,15,2,false,true
+Jayden Nelson,Canada,CONCACAF,Forward,Austin FC,United States,2002-09-26,Brampton,Canada,43.683333333333,-79.766666666667,14,3,false,true
+Mahmud Abunada,Qatar,AFC,Goalkeeper,Al-Rayyan,Qatar,2000-02-05,Doha,Qatar,25.28611111111111,51.529444444444444,6,0,false,true
+Pedro Miguel,Qatar,AFC,Defender,Al-Sadd,Qatar,1990-08-06,Algueirão - Mem Martins,Portugal,38.794113888889,-9.3451083333333,105,3,true,true
+Lucas Mendes,Qatar,AFC,Defender,Al-Wakrah,Qatar,1990-07-03,Curitiba,Brazil,-25.429722222222,-49.271944444444,25,1,true,true
+Issa Laye,Qatar,AFC,Defender,Al-Arabi,Qatar,1997-12-22,Senegal,Senegal,14.366667,-14.283333,4,0,true,true
+Jassem Gaber,Qatar,AFC,Defender,Al-Rayyan,Qatar,2002-02-20,Doha,Qatar,25.28611111111111,51.529444444444444,32,1,false,true
+Abdulaziz Hatem,Qatar,AFC,Midfielder,Al-Rayyan,Qatar,1990-01-01,Doha,Qatar,25.28611111111111,51.529444444444444,119,11,false,true
+Ahmed Alaaeldin,Qatar,AFC,Forward,Al-Rayyan,Qatar,1993-01-31,Ismailia,Egypt,30.583333333333,32.266666666667,68,9,true,true
+Edmilson Junior,Qatar,AFC,Forward,Al-Duhail,Qatar,1994-08-19,Liège,Belgium,50.639722222222225,5.570555555555556,16,0,true,true
+Mohammed Muntari,Qatar,AFC,Forward,Al-Gharafa,Qatar,1993-12-20,Kumasi,Ghana,6.7,-1.625,67,16,true,true
+Hassan Al-Haydos,Qatar,AFC,Forward,Al-Sadd,Qatar,1990-12-11,Doha,Qatar,25.28611111111111,51.529444444444444,186,41,false,true
+Akram Afif,Qatar,AFC,Forward,Al-Sadd,Qatar,1996-11-18,Doha,Qatar,25.28611111111111,51.529444444444444,125,39,false,true
+Karim Boudiaf,Qatar,AFC,Midfielder,Al-Duhail,Qatar,1990-09-16,Rueil-Malmaison,France,48.877777777778,2.1883333333333,118,5,true,true
+Ayoub Al-Oui,Qatar,AFC,Defender,Al-Gharafa,Qatar,2005-03-11,Qatar,Qatar,25.269535,51.212767,6,0,false,true
+Homam Ahmed,Qatar,AFC,Defender,Cultural Leonesa,Spain,1999-08-25,Doha,Qatar,25.28611111111111,51.529444444444444,68,3,false,true
+Yusuf Abdurisag,Qatar,AFC,Forward,Al-Wakrah,Qatar,1999-08-06,Qatar,Qatar,25.269535,51.212767,39,3,false,true
+Boualem Khoukhi,Qatar,AFC,Defender,Al-Sadd,Qatar,1990-07-09,Bou Ismaïl,Algeria,36.65,2.7,116,20,true,true
+Ahmed Al-Ganehi,Qatar,AFC,Midfielder,Al-Gharafa,Qatar,2000-09-22,Doha,Qatar,25.28611111111111,51.529444444444444,13,1,false,true
+Sultan Al-Brake,Qatar,AFC,Defender,Al-Duhail,Qatar,1996-04-07,Qatar,Qatar,25.269535,51.212767,17,0,false,true
+Almoez Ali,Qatar,AFC,Forward,Al-Duhail,Qatar,1996-08-19,Khartoum,Sudan,15.60308,32.52654,115,55,true,true
+Ahmed Fathy,Qatar,AFC,Midfielder,Al-Arabi,Qatar,1993-01-25,Doha,Qatar,25.28611111111111,51.529444444444444,48,0,false,true
+Salah Zakaria,Qatar,AFC,Goalkeeper,Al-Duhail,Qatar,1999-04-24,Qatar,Qatar,25.269535,51.212767,8,0,false,true
+Meshaal Barsham,Qatar,AFC,Goalkeeper,Al-Sadd,Qatar,1998-02-14,Doha,Qatar,25.28611111111111,51.529444444444444,52,0,false,true
+Assim Madibo,Qatar,AFC,Midfielder,Al-Wakrah,Qatar,1996-10-22,Qatar,Qatar,25.269535,51.212767,51,0,false,true
+Tahsin Jamshid,Qatar,AFC,Forward,Al-Duhail,Qatar,2006-06-16,"","",,,3,0,false,false
+Al-Hashmi Al-Hussain,Qatar,AFC,Defender,Al-Arabi,Qatar,2003-08-15,"","",,,8,0,false,false
+Mohamed Manai,Qatar,AFC,Forward,Al-Shamal,Qatar,2002-10-25,"","",,,10,0,false,false
+Gregor Kobel,Switzerland,UEFA,Goalkeeper,Borussia Dortmund,Germany,1997-12-06,Zurich,Switzerland,47.37444444444444,8.54111111111111,21,0,false,true
+Miro Muheim,Switzerland,UEFA,Defender,Hamburger SV,Germany,1998-03-24,Zurich,Switzerland,47.37444444444444,8.54111111111111,10,0,false,true
+Silvan Widmer,Switzerland,UEFA,Defender,Mainz 05,Germany,1993-03-05,Aarau,Switzerland,47.3923,8.0446,60,5,false,true
+Nico Elvedi,Switzerland,UEFA,Defender,Borussia Mönchengladbach,Germany,1996-09-30,Zurich,Switzerland,47.37444444444444,8.54111111111111,67,3,false,true
+Manuel Akanji,Switzerland,UEFA,Defender,Inter Milan,Italy,1995-07-19,Neftenbach,Switzerland,47.528333333333,8.6680555555556,81,4,false,true
+Denis Zakaria,Switzerland,UEFA,Midfielder,Monaco,France,1996-11-20,Geneva,Switzerland,46.2,6.15,65,3,false,true
+Breel Embolo,Switzerland,UEFA,Forward,Rennes,France,1997-02-14,Yaoundé,Cameroon,3.8577777777778,11.518055555556,86,24,true,true
+Remo Freuler,Switzerland,UEFA,Midfielder,Bologna,Italy,1992-04-15,Ennenda,Switzerland,47.033611111111,9.0775,88,11,false,true
+Johan Manzambi,Switzerland,UEFA,Midfielder,SC Freiburg,Germany,2005-10-14,Geneva,Switzerland,46.2,6.15,12,3,false,true
+Granit Xhaka,Switzerland,UEFA,Midfielder,Sunderland,England,1992-09-27,Basel,Switzerland,47.560555555556,7.5905555555556,146,17,false,true
+Dan Ndoye,Switzerland,UEFA,Forward,Nottingham Forest,England,2000-10-25,Nyon,Switzerland,46.38196166666667,6.23888,31,8,false,true
+Yvon Mvogo,Switzerland,UEFA,Goalkeeper,Lorient,France,1994-06-06,Yaoundé,Cameroon,3.8577777777778,11.518055555556,13,0,true,true
+Ricardo Rodriguez,Switzerland,UEFA,Defender,Real Betis,Spain,1992-08-25,Zurich,Switzerland,47.37444444444444,8.54111111111111,138,9,false,true
+Ardon Jashari,Switzerland,UEFA,Midfielder,Milan,Italy,2002-07-30,Cham,Switzerland,47.180277777778,8.4594444444444,8,0,false,true
+Djibril Sow,Switzerland,UEFA,Midfielder,Sevilla,Spain,1997-02-06,Zurich,Switzerland,47.37444444444444,8.54111111111111,52,0,false,true
+Christian Fassnacht,Switzerland,UEFA,Forward,Young Boys,Switzerland,1993-11-11,Zurich,Switzerland,47.37444444444444,8.54111111111111,23,5,false,true
+Rubén Vargas,Switzerland,UEFA,Forward,Sevilla,Spain,1998-08-05,Adligenswil,Switzerland,47.070555555556,8.365,61,11,false,true
+Eray Cömert,Switzerland,UEFA,Defender,Valencia,Spain,1998-02-04,Rheinfelden,Switzerland,47.553888888889,7.7958333333333,22,0,false,true
+Noah Okafor,Switzerland,UEFA,Forward,Leeds United,England,2000-05-24,Switzerland,Switzerland,46.798562,8.231973,25,2,false,true
+Michel Aebischer,Switzerland,UEFA,Midfielder,Pisa,Italy,1997-01-06,Switzerland,Switzerland,46.798562,8.231973,40,2,false,true
+Marvin Keller,Switzerland,UEFA,Goalkeeper,Young Boys,Switzerland,2002-07-03,London,Roman Empire,51.507222222222,-0.1275,1,0,false,true
+Fabian Rieder,Switzerland,UEFA,Midfielder,FC Augsburg,Germany,2002-02-16,Koppigen,Switzerland,47.134444444444,7.6041666666667,28,1,false,true
+Zeki Amdouni,Switzerland,UEFA,Forward,Burnley,England,2000-12-04,Geneva,Switzerland,46.2,6.15,29,11,false,true
+Aurèle Amenda,Switzerland,UEFA,Defender,Eintracht Frankfurt,Germany,2003-07-31,Biel/Bienne,Switzerland,47.137222222222,7.2472222222222,7,0,false,true
+Luca Jaquez,Switzerland,UEFA,Defender,VfB Stuttgart,Germany,2003-06-02,Lucerne,Switzerland,47.0523,8.3059,3,0,false,true
+Cedric Itten,Switzerland,UEFA,Forward,Fortuna Düsseldorf,Germany,1996-12-27,Basel,Switzerland,47.560555555556,7.5905555555556,15,5,false,true
+Alisson,Brazil,CONMEBOL,Goalkeeper,Liverpool,England,1992-10-02,Novo Hamburgo,Brazil,-29.677777777778,-51.130833333333,78,0,false,true
+Éderson Silva,Brazil,CONMEBOL,Midfielder,Atalanta,Italy,1999-07-07,Campo Grande,Brazil,-20.468611111111,-54.622222222222,3,0,false,true
+Gabriel Magalhães,Brazil,CONMEBOL,Defender,Arsenal,England,1997-12-19,São Paulo,Brazil,-23.550394444444,-46.633947222222,17,1,false,true
+Marquinhos,Brazil,CONMEBOL,Defender,Paris Saint-Germain,France,1994-05-14,São Paulo,Brazil,-23.550394444444,-46.633947222222,105,7,false,true
+Casemiro,Brazil,CONMEBOL,Midfielder,Manchester United,England,1992-02-23,São José dos Campos,Brazil,-23.178888888889,-45.886944444444,86,9,false,true
+Alex Sandro,Brazil,CONMEBOL,Defender,Flamengo,Brazil,1991-01-26,Catanduva,Brazil,-21.137777777778,-48.972777777778,45,2,false,true
+Vinícius Júnior,Brazil,CONMEBOL,Forward,Real Madrid,Spain,2000-07-12,São Gonçalo,Brazil,-22.826944444444,-43.053888888889,49,9,false,true
+Bruno Guimarães,Brazil,CONMEBOL,Midfielder,Newcastle United,England,1997-11-16,Rio de Janeiro,Brazil,-22.91111111111111,-43.205555555555556,43,3,false,true
+Matheus Cunha,Brazil,CONMEBOL,Forward,Manchester United,England,1999-05-27,João Pessoa,Brazil,-7.12,-34.88,23,1,false,true
+Neymar,Brazil,CONMEBOL,Forward,Santos,Brazil,1992-02-05,Mogi das Cruzes,Brazil,-23.522777777778,-46.193055555556,128,79,false,true
+Raphinha,Brazil,CONMEBOL,Forward,Barcelona,Spain,1996-12-14,Porto Alegre,Brazil,-30.032777777778,-51.23,39,11,false,true
+Weverton,Brazil,CONMEBOL,Goalkeeper,Grêmio,Brazil,1987-12-13,Rio Branco,Brazil,-9.9780555555556,-67.811666666667,11,0,false,true
+Danilo Luiz,Brazil,CONMEBOL,Defender,Flamengo,Brazil,1991-07-15,Bicas,Brazil,-21.725,-43.058888888889,70,1,false,true
+Bremer,Brazil,CONMEBOL,Defender,Juventus,Italy,1997-03-18,Itapitanga,Brazil,-14.422777777778,-39.565,8,1,false,true
+Léo Pereira,Brazil,CONMEBOL,Defender,Flamengo,Brazil,1996-01-31,Curitiba,Brazil,-25.429722222222,-49.271944444444,4,0,false,true
+Douglas Santos,Brazil,CONMEBOL,Defender,Zenit Saint Petersburg,Russia,1994-03-22,João Pessoa,Brazil,-7.12,-34.88,7,0,false,true
+Fabinho,Brazil,CONMEBOL,Midfielder,Al-Ittihad,Saudi Arabia,1993-10-23,Campinas,Brazil,-22.900913888889,-47.057294444444,33,0,false,true
+Danilo Santos,Brazil,CONMEBOL,Midfielder,Botafogo,Brazil,2001-04-29,Salvador,Brazil,-12.983055555555556,-38.492777777777775,4,2,false,true
+Endrick,Brazil,CONMEBOL,Forward,Lyon,France,2006-07-21,Taguatinga,Brazil,-15.833333333333,-48.056388888889,17,4,false,true
+Lucas Paquetá,Brazil,CONMEBOL,Midfielder,Flamengo,Brazil,1997-08-27,Rio de Janeiro,Brazil,-22.91111111111111,-43.205555555555556,63,13,false,true
+Luiz Henrique,Brazil,CONMEBOL,Forward,Zenit Saint Petersburg,Russia,2001-01-02,Petrópolis,Brazil,-22.505,-43.178888888889,15,2,false,true
+Gabriel Martinelli,Brazil,CONMEBOL,Forward,Arsenal,England,2001-06-18,Guarulhos,Brazil,-23.466666666667,-46.533333333333,23,4,false,true
+Ederson Moraes,Brazil,CONMEBOL,Goalkeeper,Fenerbahçe,Turkey,1993-08-17,"",Brazil,-23.532777777778,-46.791944444444,32,0,false,true
+Roger Ibañez,Brazil,CONMEBOL,Defender,Al-Ahli,Saudi Arabia,1998-11-23,Canela,Brazil,-29.365833333333,-50.815833333333,7,0,false,true
+Igor Thiago,Brazil,CONMEBOL,Forward,Brentford,England,2001-06-26,Gama,Brazil,-16.019444444444446,-48.066944444444445,4,2,false,true
+Rayan,Brazil,CONMEBOL,Forward,Bournemouth,England,2006-08-03,Rio de Janeiro,Brazil,-22.91111111111111,-43.205555555555556,2,1,false,true
+Johny Placide,Haiti,CONCACAF,Goalkeeper,Bastia,France,1988-01-29,Montfermeil,France,48.898333333333,2.5647222222222,82,0,true,true
+Carlens Arcus,Haiti,CONCACAF,Defender,Angers,France,1996-06-28,Port-au-Prince,Haiti,18.546944444444446,-72.34027777777777,56,1,false,true
+Keeto Thermoncy,Haiti,CONCACAF,Defender,Young Boys,Switzerland,2006-03-29,Fribourg,Switzerland,46.8,7.15,1,0,true,true
+Ricardo Adé,Haiti,CONCACAF,Defender,LDU Quito,Ecuador,1990-05-21,Saint-Marc,Haiti,19.116666666667,-72.7,59,2,false,true
+Hannes Delcroix,Haiti,CONCACAF,Defender,Lugano,Switzerland,1999-02-28,Petite-Rivière-de-l'Artibonite,Haiti,19.13333333,-72.48333333,7,0,false,true
+Carl Sainté,Haiti,CONCACAF,Midfielder,El Paso Locomotive FC,United States,2002-08-09,Grand-Goâve,Haiti,18.43333333,-72.76666667,26,0,false,true
+Derrick Etienne Jr.,Haiti,CONCACAF,Forward,Toronto FC,Canada,1996-11-25,Richmond,United States,37.54083333333333,-77.43666666666667,51,8,true,true
+Martin Expérience,Haiti,CONCACAF,Defender,Nancy,France,1999-03-09,Châteaubriant,France,47.716944444444,-1.3761111111111,21,0,true,true
+Duckens Nazon,Haiti,CONCACAF,Forward,Esteghlal,Iran,1994-04-07,Châtenay-Malabry,France,48.765277777778,2.2780555555556,82,44,true,true
+Jean-Ricner Bellegarde,Haiti,CONCACAF,Midfielder,Wolverhampton Wanderers,England,1998-06-27,Colombes,France,48.923611111111,2.2522222222222,10,0,true,true
+Louicius Deedson,Haiti,CONCACAF,Forward,FC Dallas,United States,2001-02-11,Tabarre,Haiti,18.583333333333,-72.266666666667,32,10,false,true
+Alexandre Pierre,Haiti,CONCACAF,Goalkeeper,Sochaux,France,2001-02-25,Aubervilliers,France,48.911111111111,2.3825,16,0,true,true
+Duke Lacroix,Haiti,CONCACAF,Defender,Colorado Springs Switchbacks FC,United States,1993-10-14,New Egypt,United States,40.0651,-74.527,16,3,true,true
+Garven Metusala,Haiti,CONCACAF,Defender,Colorado Springs Switchbacks FC,United States,1999-12-31,Terrebonne,Canada,45.7,-73.633333333333,16,0,true,true
+Ruben Providence,Haiti,CONCACAF,Forward,Almere City,Netherlands,2001-07-07,Lagny-sur-Marne,France,48.878055555556,2.7066666666667,15,3,true,true
+Lenny Joseph,Haiti,CONCACAF,Forward,Ferencváros,Hungary,2000-10-12,France,France,47.0,2.0,2,1,true,true
+Danley Jean Jacques,Haiti,CONCACAF,Midfielder,Philadelphia Union,United States,2000-05-20,Petit-Goâve,Haiti,18.431388888889,-72.866944444444,31,6,false,true
+Wilson Isidor,Haiti,CONCACAF,Forward,Sunderland,England,2000-08-27,Rennes,France,48.114166666667,-1.6808333333333,4,2,true,true
+Yassin Fortuné,Haiti,CONCACAF,Forward,Vizela,Portugal,1999-01-30,Aubervilliers,France,48.911111111111,2.3825,4,0,true,true
+Frantzdy Pierrot,Haiti,CONCACAF,Forward,Çaykur Rizespor,Turkey,1995-03-29,Port-au-Prince,Haiti,18.546944444444446,-72.34027777777777,51,34,false,true
+Josué Casimir,Haiti,CONCACAF,Forward,Auxerre,France,2001-09-24,Baie-Mahault,France,16.2675,-61.586944444444,7,0,true,true
+Jean-Kévin Duverne,Haiti,CONCACAF,Defender,Gent,Belgium,1997-07-12,Paris,France,48.85666666666667,2.352222222222222,17,1,true,true
+Josué Duverger,Haiti,CONCACAF,Goalkeeper,Cosmos Koblenz,Germany,2000-04-27,Montreal,Canada,45.5033426,-73.5868411,7,0,true,true
+Wilguens Paugain,Haiti,CONCACAF,Defender,Zulte Waregem,Belgium,2001-08-24,Thomazeau,Haiti,18.65,-72.1,8,0,false,true
+Dominique Simon,Haiti,CONCACAF,Midfielder,Tatran Prešov,Slovakia,2000-07-29,Pontoise,France,49.050833333333,2.1008333333333,2,0,true,true
+Woodensky Pierre,Haiti,CONCACAF,Midfielder,Violette,Haiti,2004-12-30,Cité Soleil,Haiti,18.577777777778,-72.331944444444,1,0,false,true
+Yassine Bounou,Morocco,CAF,Goalkeeper,Al-Hilal,Saudi Arabia,1991-04-05,Montreal,Canada,45.5033426,-73.5868411,90,0,true,true
+Achraf Hakimi,Morocco,CAF,Defender,Paris Saint-Germain,France,1998-11-04,Madrid,Spain,40.41694444444445,-3.703333333333333,96,11,true,true
+Noussair Mazraoui,Morocco,CAF,Defender,Manchester United,England,1997-11-14,Leiderdorp,Netherlands,52.16166666666666,4.528333333333333,45,2,true,true
+Sofyan Amrabat,Morocco,CAF,Midfielder,Real Betis,Spain,1996-08-21,Huizen,Netherlands,52.2994,5.2531,75,0,true,true
+Marwane Saâdane,Morocco,CAF,Defender,Al-Fateh,Saudi Arabia,1992-01-17,Morocco,Morocco,32.0,-6.0,8,0,false,true
+Ayyoub Bouaddi,Morocco,CAF,Midfielder,Lille,France,2007-10-02,Senlis,France,49.207222222222,2.5866666666667,3,0,true,true
+Chemsdine Talbi,Morocco,CAF,Midfielder,Sunderland,England,2005-05-09,Sambreville,Belgium,50.45,4.6,5,0,true,true
+Azzedine Ounahi,Morocco,CAF,Midfielder,Girona,Spain,2000-04-19,Casablanca,Morocco,33.599166666667,-7.62,49,9,false,true
+Soufiane Rahimi,Morocco,CAF,Forward,Al Ain,United Arab Emirates,1996-06-02,Casablanca,Morocco,33.599166666667,-7.62,37,12,false,true
+Brahim Díaz,Morocco,CAF,Forward,Real Madrid,Spain,1999-08-03,Málaga,Spain,36.716666666667,-4.4166666666667,26,14,true,true
+Ismael Saibari,Morocco,CAF,Midfielder,PSV Eindhoven,Netherlands,2001-01-28,Terrassa,Spain,41.561111111111,2.0080555555556,30,9,true,true
+Munir Mohamedi,Morocco,CAF,Goalkeeper,RS Berkane,Morocco,1989-05-10,Melilla,Spain,35.2825,-2.9475,52,0,true,true
+Zakaria El Ouahdi,Morocco,CAF,Defender,Genk,Belgium,2001-12-31,Hoboken,Belgium,51.1736,4.3483,3,0,true,true
+Issa Diop,Morocco,CAF,Defender,Fulham,England,1997-01-09,Toulouse,France,43.60444444444445,1.4433333333333334,4,0,true,true
+Samir El Mourabet,Morocco,CAF,Midfielder,Strasbourg,France,2005-10-06,Strasbourg,France,48.573333333333,7.7522222222222,4,0,true,true
+Gessime Yassine,Morocco,CAF,Midfielder,Strasbourg,France,2005-11-22,Salon-de-Provence,France,43.640555555556,5.0972222222222,4,0,true,true
+Amine Sbaï,Morocco,CAF,Forward,Angers,France,2000-11-05,Sidi Kacem,Morocco,34.21,-5.7,2,0,false,true
+Chadi Riad,Morocco,CAF,Defender,Crystal Palace,England,2003-06-17,Palma,Spain,39.566666666667,2.6497222222222,6,1,true,true
+Youssef Belammari,Morocco,CAF,Defender,Al Ahly,Egypt,1998-09-20,Casablanca,Morocco,33.599166666667,-7.62,18,0,false,true
+Ayoub El Kaabi,Morocco,CAF,Forward,Olympiacos,Greece,1993-06-25,Casablanca,Morocco,33.599166666667,-7.62,71,35,false,true
+Ayoube Amaimouni,Morocco,CAF,Forward,Eintracht Frankfurt,Germany,2004-11-30,Vic,Spain,41.930379,2.254575,2,0,true,true
+Ahmed Reda Tagnaouti,Morocco,CAF,Goalkeeper,AS FAR,Morocco,1996-04-05,Fez,Morocco,34.04333333333334,-5.003333333333333,3,0,false,true
+Bilal El Khannouss,Morocco,CAF,Midfielder,VfB Stuttgart,Germany,2004-05-10,Strombeek-Bever,Belgium,50.9103,4.3561,37,3,true,true
+Neil El Aynaoui,Morocco,CAF,Midfielder,Roma,Italy,2001-07-02,Nancy,Duchy of Lorraine,48.692777777778,6.1836111111111,16,2,false,true
+Redouane Halhal,Morocco,CAF,Defender,Mechelen,Belgium,2003-03-05,Montpellier,France,43.610919444444,3.8772305555556,3,0,true,true
+Anass Salah-Eddine,Morocco,CAF,Defender,PSV Eindhoven,Netherlands,2002-01-18,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,9,0,true,true
+Angus Gunn,Scotland,UEFA,Goalkeeper,Nottingham Forest,England,1996-01-22,Norwich,United Kingdom,52.62861111111111,1.2927777777777778,22,0,false,true
+Aaron Hickey,Scotland,UEFA,Defender,Brentford,England,2002-06-10,Scotland,United Kingdom,57.0,-5.0,21,0,false,true
+Andy Robertson,Scotland,UEFA,Defender,Liverpool,England,1994-03-11,Glasgow,United Kingdom,55.861111111111114,-4.25,94,4,false,true
+Scott McTominay,Scotland,UEFA,Midfielder,Napoli,Italy,1996-12-08,Lancaster,United Kingdom,54.04888888888889,-2.801388888888889,70,15,false,true
+Grant Hanley,Scotland,UEFA,Defender,Hibernian,Scotland,1991-11-20,Dumfries,United Kingdom,55.066666666667,-3.6166666666667,68,2,false,true
+Kieran Tierney,Scotland,UEFA,Defender,Celtic,Scotland,1997-06-05,Douglas,Isle of Man,54.15,-4.4775,56,2,false,true
+John McGinn,Scotland,UEFA,Midfielder,Aston Villa,England,1994-10-18,Glasgow,United Kingdom,55.861111111111114,-4.25,86,20,false,true
+Tyler Fletcher,Scotland,UEFA,Midfielder,Manchester United,England,2007-03-19,Manchester,United Kingdom,53.466666666667,-2.2333333333333,2,0,false,true
+Lyndon Dykes,Scotland,UEFA,Forward,Charlton Athletic,England,1995-10-07,Gold Coast,Australia,-28.016666666667,153.4,51,10,true,true
+Ché Adams,Scotland,UEFA,Forward,Torino,Italy,1996-07-13,Leicester,United Kingdom,52.63611111111111,-1.1330555555555555,47,13,false,true
+Ryan Christie,Scotland,UEFA,Midfielder,Bournemouth,England,1995-02-22,Inverness,United Kingdom,57.483888888889,-4.2258333333333,68,10,false,true
+Liam Kelly,Scotland,UEFA,Goalkeeper,Rangers,Scotland,1996-01-23,Glasgow,United Kingdom,55.861111111111114,-4.25,3,0,false,true
+Jack Hendry,Scotland,UEFA,Defender,Al-Ettifaq,Saudi Arabia,1995-05-07,Glasgow,United Kingdom,55.861111111111114,-4.25,38,3,false,true
+Ross Stewart,Scotland,UEFA,Forward,Southampton,England,1996-07-11,Irvine,United Kingdom,55.619444444444,-4.6611111111111,3,0,false,true
+John Souttar,Scotland,UEFA,Defender,Rangers,Scotland,1996-09-25,Aberdeen,United Kingdom,57.15,-2.1,24,2,false,true
+Dominic Hyam,Scotland,UEFA,Defender,Wrexham,Wales,1995-12-20,Leuchars,United Kingdom,56.3814,-2.8835,4,0,false,true
+Ben Gannon-Doak,Scotland,UEFA,Forward,Bournemouth,England,2005-11-11,Dalry,United Kingdom,55.711,-4.723,14,1,false,true
+George Hirst,Scotland,UEFA,Forward,Ipswich Town,England,1999-02-15,Sheffield,United Kingdom,53.380833333333335,-1.4702777777777778,10,1,false,true
+Lewis Ferguson,Scotland,UEFA,Midfielder,Bologna,Italy,1999-08-24,Hamilton,United Kingdom,55.777,-4.039,24,1,false,true
+Lawrence Shankland,Scotland,UEFA,Forward,Heart of Midlothian,Scotland,1995-08-10,Glasgow,United Kingdom,55.861111111111114,-4.25,20,7,false,true
+Craig Gordon,Scotland,UEFA,Goalkeeper,Heart of Midlothian,Scotland,1982-12-31,Edinburgh,United Kingdom,55.95333333333333,-3.1891666666666665,84,0,false,true
+Nathan Patterson,Scotland,UEFA,Defender,Everton,England,2001-10-16,Glasgow,United Kingdom,55.861111111111114,-4.25,26,1,false,true
+Kenny McLean,Scotland,UEFA,Midfielder,Norwich City,England,1992-01-08,Rutherglen,United Kingdom,55.828,-4.224,58,3,false,true
+Anthony Ralston,Scotland,UEFA,Defender,Celtic,Scotland,1998-11-16,Glasgow,United Kingdom,55.861111111111114,-4.25,27,1,false,true
+Findlay Curtis,Scotland,UEFA,Forward,Kilmarnock,Scotland,2006-06-09,Balfron,United Kingdom,56.0718,-4.33726,3,1,false,true
+Scott McKenna,Scotland,UEFA,Defender,Dinamo Zagreb,Croatia,1996-11-12,Kirriemuir,United Kingdom,56.67362,-3.00503,50,1,false,true
+Mathew Ryan,Australia,AFC,Goalkeeper,Levante,Spain,1992-04-08,Plumpton,Australia,-33.75666666666667,150.8427778,104,0,false,true
+Miloš Degenek,Australia,AFC,Defender,APOEL,Cyprus,1994-04-28,Knin,Croatia,44.033333333333,16.183333333333,57,1,true,true
+Alessandro Circati,Australia,AFC,Defender,Parma,Italy,2003-10-10,Fidenza,Italy,44.86636111111111,10.061111111111112,13,1,true,true
+Jacob Italiano,Australia,AFC,Defender,Grazer AK,Austria,2001-07-30,Australia,Australia,-25.0,133.0,5,0,false,true
+Jordan Bos,Australia,AFC,Defender,Feyenoord,Netherlands,2002-10-29,Point Cook,Australia,-37.909,144.752,27,4,false,true
+Jason Geria,Australia,AFC,Defender,Albirex Niigata,Japan,1993-05-10,Canberra,Australia,-35.293055555556,149.12694444444,14,0,false,true
+Mathew Leckie,Australia,AFC,Forward,Melbourne City,Australia,1991-02-04,Melbourne,Australia,-37.814166666666665,144.96305555555554,80,14,false,true
+Connor Metcalfe,Australia,AFC,Midfielder,FC St. Pauli,Germany,1999-11-05,Newcastle,Australia,-32.916666666667,151.75,36,1,false,true
+Mohamed Touré,Australia,AFC,Forward,Norwich City,England,2004-03-26,Conakry,Guinea,9.5091666666667,-13.712222222222,10,2,true,true
+Ajdin Hrustic,Australia,AFC,Forward,Heracles Almelo,Netherlands,1996-07-05,Dandenong,Australia,-37.981,145.215,37,4,false,true
+Awer Mabil,Australia,AFC,Forward,Castellón,Spain,1995-09-15,Kakuma,Kenya,3.70861111,34.865,38,10,true,true
+Paul Izzo,Australia,AFC,Goalkeeper,Randers,Denmark,1995-01-06,Adelaide,Australia,-34.9275,138.6,4,0,false,true
+Aiden O'Neill,Australia,AFC,Midfielder,New York City FC,United States,1998-07-04,Brisbane,Australia,-27.467777777778,153.02777777778,31,0,false,true
+Cammy Devlin,Australia,AFC,Midfielder,Heart of Midlothian,Scotland,1998-06-07,Australia,Australia,-25.0,133.0,5,0,false,true
+Kai Trewin,Australia,AFC,Defender,New York City FC,United States,2001-05-18,Canberra,Australia,-35.293055555556,149.12694444444,6,0,false,true
+Aziz Behich,Australia,AFC,Defender,Melbourne City,Australia,1990-12-16,Moonee Ponds,Australia,-37.765,144.92,84,3,false,true
+Nestory Irankunda,Australia,AFC,Forward,Watford,England,2006-02-09,Kigoma,Tanzania,-4.8833333333333,29.633333333333,15,5,true,true
+Patrick Beach,Australia,AFC,Goalkeeper,Melbourne City,Australia,2003-08-06,Sydney,Australia,-33.867777777777775,151.21,2,0,false,true
+Harry Souttar,Australia,AFC,Defender,Leicester City,England,1998-10-22,Aberdeen,United Kingdom,57.15,-2.1,38,11,true,true
+Cristian Volpato,Australia,AFC,Forward,Sassuolo,Italy,2003-11-15,Camperdown,Australia,-33.89,151.1844444,1,0,false,true
+Cameron Burgess,Australia,AFC,Defender,Swansea City,Wales,1995-10-21,Aberdeen,United Kingdom,57.15,-2.1,27,0,true,true
+Jackson Irvine,Australia,AFC,Midfielder,FC St. Pauli,Germany,1993-03-07,Melbourne,Australia,-37.814166666666665,144.96305555555554,82,14,false,true
+Nishan Velupillay,Australia,AFC,Forward,Melbourne Victory,Australia,2001-05-07,Australia,Australia,-25.0,133.0,7,3,false,true
+Paul Okon-Engstler,Australia,AFC,Midfielder,Sydney FC,Australia,2005-01-24,Ostend,Belgium,51.225833333333334,2.9194444444444443,6,0,true,true
+Lucas Herrington,Australia,AFC,Defender,Colorado Rapids,United States,2007-09-05,Brisbane,Australia,-27.467777777778,153.02777777778,4,0,false,true
+Tete Yengi,Australia,AFC,Forward,Machida Zelvia,Japan,2000-11-28,Adelaide,Australia,-34.9275,138.6,1,1,false,true
+Gatito Fernández,Paraguay,CONMEBOL,Goalkeeper,Cerro Porteño,Paraguay,1988-03-29,Asunción,Paraguay,-25.28,-57.63444444444445,31,0,false,true
+Gustavo Velázquez,Paraguay,CONMEBOL,Defender,Cerro Porteño,Paraguay,1991-04-17,Villa del Rosario,Paraguay,-24.45,-57.05,13,1,false,true
+Omar Alderete,Paraguay,CONMEBOL,Defender,Sunderland,England,1996-12-26,Asunción,Paraguay,-25.28,-57.63444444444445,36,3,false,true
+Juan José Cáceres,Paraguay,CONMEBOL,Defender,Dynamo Moscow,Russia,2000-06-01,Dock Sud,Argentina,-34.641666666667,-58.347777777778,17,0,true,true
+Fabián Balbuena,Paraguay,CONMEBOL,Defender,Grêmio,Brazil,1991-08-23,Ciudad del Este,Paraguay,-25.516666666667,-54.616666666667,48,2,false,true
+Júnior Alonso,Paraguay,CONMEBOL,Defender,Atlético Mineiro,Brazil,1993-02-09,Asunción,Paraguay,-25.28,-57.63444444444445,71,3,false,true
+Ramón Sosa,Paraguay,CONMEBOL,Midfielder,Palmeiras,Brazil,1999-08-31,Maracaná,Paraguay,-24.143654,-56.0251,29,1,false,true
+Diego Gómez,Paraguay,CONMEBOL,Midfielder,Brighton & Hove Albion,England,2003-03-27,San Juan Bautista,Paraguay,-26.633333333333,-57.166666666667,24,3,false,true
+Antonio Sanabria,Paraguay,CONMEBOL,Forward,Cremonese,Italy,1996-03-04,San Lorenzo,Paraguay,-25.343055555555555,-57.50944444444445,48,7,false,true
+Miguel Almirón,Paraguay,CONMEBOL,Midfielder,Atlanta United FC,United States,1994-02-10,Asunción,Paraguay,-25.28,-57.63444444444445,76,10,false,true
+Maurício,Paraguay,CONMEBOL,Midfielder,Palmeiras,Brazil,2001-06-22,São Paulo,Brazil,-23.550394444444,-46.633947222222,3,0,true,true
+Orlando Gill,Paraguay,CONMEBOL,Goalkeeper,San Lorenzo,Argentina,2000-06-11,San Lorenzo,Paraguay,-25.343055555555555,-57.50944444444445,6,0,false,true
+José Canale,Paraguay,CONMEBOL,Defender,Lanús,Argentina,1996-07-20,Villa monica alritmo,Paraguay,-25.383333333333,-57.333333333333,2,0,false,true
+Andrés Cubas,Paraguay,CONMEBOL,Midfielder,Vancouver Whitecaps FC,Canada,1996-05-11,Aristóbulo del Valle,Argentina,-27.0952,-54.897,33,0,true,true
+Gustavo Gómez,Paraguay,CONMEBOL,Defender,Palmeiras,Brazil,1993-05-06,San Juan Bautista,Paraguay,-26.633333333333,-57.166666666667,89,4,false,true
+Damián Bobadilla,Paraguay,CONMEBOL,Midfielder,São Paulo,Brazil,2001-07-11,Asunción,Paraguay,-25.28,-57.63444444444445,19,1,false,true
+Kaku,Paraguay,CONMEBOL,Forward,Al Ain,United Arab Emirates,1995-01-11,Ciudadela,Argentina,-34.633333333333,-58.533333333333,33,6,true,true
+Álex Arce,Paraguay,CONMEBOL,Forward,Independiente Rivadavia,Argentina,1995-06-16,Carapeguá,Paraguay,-25.768977777778,-57.247008333333,15,1,false,true
+Julio Enciso,Paraguay,CONMEBOL,Forward,Strasbourg,France,2004-01-23,Paraguay,Paraguay,-23.5,-58.0,32,4,false,true
+Braian Ojeda,Paraguay,CONMEBOL,Midfielder,Orlando City SC,United States,2000-06-27,Villa monica alritmo,Paraguay,-25.383333333333,-57.333333333333,17,0,false,true
+Gabriel Ávalos,Paraguay,CONMEBOL,Forward,Independiente,Argentina,1991-07-09,Edelira,Paraguay,-26.75,-55.27,23,2,false,true
+Gastón Olveira,Paraguay,CONMEBOL,Goalkeeper,Olimpia,Paraguay,1993-04-21,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,1,0,true,true
+Matías Galarza,Paraguay,CONMEBOL,Midfielder,Atlanta United FC,United States,2002-02-11,Asunción,Paraguay,-25.28,-57.63444444444445,15,3,false,true
+Gustavo Caballero,Paraguay,CONMEBOL,Midfielder,Portsmouth,England,2001-09-21,San Lorenzo,Paraguay,-25.343055555555555,-57.50944444444445,2,1,false,true
+Isidro Pitta,Paraguay,CONMEBOL,Forward,Red Bull Bragantino,Brazil,1999-08-14,Asunción,Paraguay,-25.28,-57.63444444444445,5,0,false,true
+Alexandro Maidana,Paraguay,CONMEBOL,Defender,Talleres,Argentina,2005-07-26,Caacupé,Paraguay,-25.386111,-57.140833,2,1,false,true
+Mert Günok,Turkey,UEFA,Goalkeeper,Fenerbahçe,Turkey,1989-03-01,Karabük,Turkey,41.2,32.633333333333,37,0,false,true
+Zeki Çelik,Turkey,UEFA,Defender,Roma,Italy,1997-02-17,Yıldırım district,Turkey,40.1900988,29.097653,61,3,false,true
+Merih Demiral,Turkey,UEFA,Defender,Al-Ahli,Saudi Arabia,1998-03-05,Karamürsel district,Turkey,40.691388888889,29.615555555556,62,6,false,true
+Çağlar Söyüncü,Turkey,UEFA,Defender,Fenerbahçe,Turkey,1996-05-23,İzmir,Turkey,38.41273,27.13838,60,2,false,true
+Salih Özcan,Turkey,UEFA,Midfielder,Borussia Dortmund,Germany,1998-01-11,Cologne,Germany,50.942222222222,6.9577777777778,30,1,true,true
+Orkun Kökçü,Turkey,UEFA,Midfielder,Beşiktaş,Turkey,2000-12-29,Haarlem,Netherlands,52.380277777778,4.6405555555556,50,4,true,true
+Kerem Aktürkoğlu,Turkey,UEFA,Forward,Fenerbahçe,Turkey,1998-10-21,İzmit,Turkey,40.7718818,29.9497846,52,15,false,true
+Arda Güler,Turkey,UEFA,Forward,Real Madrid,Spain,2005-02-25,Altındağ,Turkey,39.94583333333333,32.85611111111111,29,6,false,true
+Deniz Gül,Turkey,UEFA,Forward,Porto,Portugal,2004-07-02,Stockholm,Sweden,59.329444444444,18.068611111111,8,2,true,true
+Hakan Çalhanoğlu,Turkey,UEFA,Midfielder,Inter Milan,Italy,1994-02-08,Mannheim,Germany,49.48777777777778,8.466111111111111,105,22,true,true
+Kenan Yıldız,Turkey,UEFA,Forward,Juventus,Italy,2005-05-04,Regensburg,Germany,49.016666666666666,12.083333333333334,28,5,true,true
+Altay Bayındır,Turkey,UEFA,Goalkeeper,Manchester United,England,1998-04-14,Osmangazi,Turkey,40.219166666666666,29.04138888888889,12,0,false,true
+Eren Elmalı,Turkey,UEFA,Defender,Galatasaray,Turkey,2000-07-07,Kartal,Turkey,40.90638888888889,29.211111111111112,23,0,false,true
+Abdülkerim Bardakcı,Turkey,UEFA,Defender,Galatasaray,Turkey,1994-09-07,Meram district,Turkey,37.836388888889,32.438333333333,27,2,false,true
+Ozan Kabak,Turkey,UEFA,Defender,TSG Hoffenheim,Germany,2000-03-25,Çankaya,Turkey,39.90833333333333,32.846111111111114,30,2,false,true
+İsmail Yüksek,Turkey,UEFA,Midfielder,Fenerbahçe,Turkey,1999-01-26,İznik,Turkey,40.428888888889,29.719444444444,32,1,false,true
+İrfan Can Kahveci,Turkey,UEFA,Forward,Kasımpaşa,Turkey,1995-07-15,Bayat,Turkey,40.185,32.437,47,6,false,true
+Mert Müldür,Turkey,UEFA,Defender,Fenerbahçe,Turkey,1999-04-03,Vienna,Austria,48.208333333333336,16.3725,45,3,true,true
+Yunus Akgün,Turkey,UEFA,Forward,Galatasaray,Turkey,2000-07-07,Küçükçekmece,Turkey,41.02194444444444,28.77722222222222,19,4,false,true
+Ferdi Kadıoğlu,Turkey,UEFA,Defender,Brighton & Hove Albion,England,1999-10-07,Arnhem,Netherlands,51.983333333333,5.9166666666667,30,2,true,true
+Barış Alper Yılmaz,Turkey,UEFA,Forward,Galatasaray,Turkey,2000-05-23,İkizdere,Turkey,40.777222222222,40.560833333333,35,4,false,true
+Kaan Ayhan,Turkey,UEFA,Midfielder,Galatasaray,Turkey,1994-11-10,Gelsenkirchen,Germany,51.51027777777778,7.094166666666666,73,5,true,true
+Uğurcan Çakır,Turkey,UEFA,Goalkeeper,Galatasaray,Turkey,1996-04-05,Antalya,Turkey,36.90812,30.69556,39,0,false,true
+Oğuz Aydın,Turkey,UEFA,Forward,Fenerbahçe,Turkey,2000-10-27,The Hague,Netherlands,52.08,4.31,11,0,true,true
+Samet Akaydin,Turkey,UEFA,Defender,Çaykur Rizespor,Turkey,1994-03-13,Trabzon,Turkey,41.005,39.7225,19,1,false,true
+Can Uzun,Turkey,UEFA,Forward,Eintracht Frankfurt,Germany,2005-11-11,Regensburg,Germany,49.016666666666666,12.083333333333334,6,1,true,true
+Matt Turner,United States,CONCACAF,Goalkeeper,New England Revolution,United States,1994-06-24,Park Ridge,United States,41.0363,-74.0436,54,0,false,true
+Sergiño Dest,United States,CONCACAF,Defender,PSV Eindhoven,Netherlands,2000-11-03,Almere,Netherlands,52.375833333333,5.2255555555556,39,3,true,true
+Chris Richards,United States,CONCACAF,Defender,Crystal Palace,England,2000-03-28,Birmingham,United States,33.5175,-86.80944444444444,36,3,false,true
+Tyler Adams,United States,CONCACAF,Midfielder,Bournemouth,England,1999-02-14,Wappingers Falls,United States,41.599166666667,-73.918055555556,54,2,false,true
+Antonee Robinson,United States,CONCACAF,Defender,Fulham,England,1997-08-08,Milton Keynes,United Kingdom,52.033333333333,-0.76666666666667,54,5,true,true
+Auston Trusty,United States,CONCACAF,Defender,Celtic,Scotland,1998-08-12,Media,United States,39.91888888888889,-75.38916666666667,8,0,false,true
+Giovanni Reyna,United States,CONCACAF,Midfielder,Borussia Mönchengladbach,Germany,2002-11-13,Sunderland,United Kingdom,54.904444444444444,-1.3811111111111112,38,9,true,true
+Weston McKennie,United States,CONCACAF,Midfielder,Juventus,Italy,1998-08-28,Little Elm,United States,33.1639,-96.9303,66,12,false,true
+Ricardo Pepi,United States,CONCACAF,Forward,PSV Eindhoven,Netherlands,2003-01-09,El Paso,United States,31.759166666667,-106.48861111111,37,13,false,true
+Christian Pulisic,United States,CONCACAF,Forward,Milan,Italy,1998-09-18,Hershey,United States,40.278333333333,-76.651111111111,86,33,false,true
+Brenden Aaronson,United States,CONCACAF,Forward,Leeds United,England,2000-10-22,Medford,United States,39.8643,-74.8225,58,9,false,true
+Miles Robinson,United States,CONCACAF,Defender,FC Cincinnati,United States,1997-03-14,Arlington,United States,42.415277777778,-71.156944444444,40,3,false,true
+Tim Ream,United States,CONCACAF,Defender,Charlotte FC,United States,1987-10-05,St. Louis,United States,38.62638888888889,-90.19944444444444,82,1,false,true
+Sebastian Berhalter,United States,CONCACAF,Midfielder,Vancouver Whitecaps FC,Canada,2001-05-10,London,Roman Empire,51.507222222222,-0.1275,13,1,false,true
+Cristian Roldan,United States,CONCACAF,Midfielder,Seattle Sounders FC,United States,1995-06-03,Pico Rivera,United States,33.988888888889,-118.08916666667,47,0,false,true
+Alex Freeman,United States,CONCACAF,Defender,Villarreal,Spain,2004-08-09,Fort Lauderdale,United States,26.135833333333,-80.141944444444,17,2,false,true
+Malik Tillman,United States,CONCACAF,Midfielder,Bayer Leverkusen,Germany,2002-05-28,Nuremberg,Germany,49.45388888888889,11.0775,30,3,true,true
+Max Arfsten,United States,CONCACAF,Defender,Columbus Crew,United States,2001-04-19,Fresno,United States,29.5267,-95.4597,20,1,false,true
+Haji Wright,United States,CONCACAF,Forward,Coventry City,England,1998-03-27,Los Angeles,United States,34.05223,-118.24368,20,7,false,true
+Folarin Balogun,United States,CONCACAF,Forward,Monaco,France,2001-07-03,New York City,United States,40.71277777777778,-74.00611111111111,27,9,false,true
+Timothy Weah,United States,CONCACAF,Forward,Marseille,France,2000-02-22,Brooklyn,United States,40.65083333333333,-73.94972222222222,51,7,false,true
+Mark McKenzie,United States,CONCACAF,Defender,Toulouse,France,1999-02-25,Bear,United States,39.6203,-75.6847,29,0,false,true
+Joe Scally,United States,CONCACAF,Defender,Borussia Mönchengladbach,Germany,2002-12-31,Lake Grove,United States,40.858333333333,-73.116666666667,26,0,false,true
+Matt Freese,United States,CONCACAF,Goalkeeper,New York City FC,United States,1998-09-02,Wayne,United States,40.043888888889,-75.387777777778,15,0,false,true
+Chris Brady,United States,CONCACAF,Goalkeeper,Chicago Fire FC,United States,2004-03-03,Naperville,United States,41.74826,-88.16585,1,0,false,true
+Alejandro Zendejas,United States,CONCACAF,Forward,América,Mexico,1998-02-07,Ciudad Juárez,Mexico,31.6685,-106.42,14,2,true,true
+Eloy Room,Curaçao,CONCACAF,Goalkeeper,Miami FC,United States,1989-02-06,Nijmegen,Netherlands,51.8475,5.8625,71,0,true,true
+Shurandy Sambo,Curaçao,CONCACAF,Defender,Sparta Rotterdam,Netherlands,2001-08-19,Geldrop,Netherlands,51.4222,5.5578,8,0,true,true
+Juriën Gaari,Curaçao,CONCACAF,Defender,Abha,Saudi Arabia,1993-12-23,Kerkrade,Netherlands,50.866666666667,6.0666666666667,60,1,true,true
+Roshon van Eijma,Curaçao,CONCACAF,Defender,RKC Waalwijk,Netherlands,1998-06-09,Tilburg,Netherlands,51.5575,5.0905555555555555,28,1,true,true
+Sherel Floranus,Curaçao,CONCACAF,Defender,PEC Zwolle,Netherlands,1998-08-23,Rotterdam,Netherlands,51.92,4.48,28,0,true,true
+Godfried Roemeratoe,Curaçao,CONCACAF,Midfielder,RKC Waalwijk,Netherlands,1999-08-19,Oost-Souburg,Netherlands,51.4636,3.6008,28,1,true,true
+Juninho Bacuna,Curaçao,CONCACAF,Midfielder,Volendam,Netherlands,1997-08-07,Groningen,Netherlands,53.21888888888889,6.5675,49,15,true,true
+Livano Comenencia,Curaçao,CONCACAF,Midfielder,Zürich,Switzerland,2004-02-03,Breda,Netherlands,51.58888888888889,4.775833333333333,20,2,true,true
+Jürgen Locadia,Curaçao,CONCACAF,Forward,Miami FC,United States,1993-11-07,Emmen,Netherlands,52.783333333333,6.9,13,1,true,true
+Leandro Bacuna,Curaçao,CONCACAF,Midfielder,Iğdır,Turkey,1991-08-21,Groningen,Netherlands,53.21888888888889,6.5675,72,16,true,true
+Jeremy Antonisse,Curaçao,CONCACAF,Forward,Kifisia,Greece,2002-03-29,Rosmalen,Netherlands,51.716666666667,5.3666666666667,27,4,true,true
+Sontje Hansen,Curaçao,CONCACAF,Forward,Middlesbrough,England,2002-05-18,Hoorn,Netherlands,52.653333333333,5.0733333333333,6,1,true,true
+Tyrese Noslin,Curaçao,CONCACAF,Forward,Telstar,Netherlands,2002-09-11,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,7,1,true,true
+Kenji Gorré,Curaçao,CONCACAF,Forward,Maccabi Haifa,Israel,1994-09-29,Spijkenisse,Netherlands,51.833333333333,4.3166666666667,38,6,true,true
+Ar'jany Martha,Curaçao,CONCACAF,Midfielder,Rotherham United,England,2003-09-04,Rotterdam,Netherlands,51.92,4.48,9,2,true,true
+Jearl Margaritha,Curaçao,CONCACAF,Forward,Beveren,Belgium,2000-04-10,Groningen,Netherlands,53.21888888888889,6.5675,22,5,true,true
+Brandley Kuwas,Curaçao,CONCACAF,Forward,Volendam,Netherlands,1992-09-19,Hoorn,Netherlands,52.653333333333,5.0733333333333,35,2,true,true
+Armando Obispo,Curaçao,CONCACAF,Defender,PSV Eindhoven,Netherlands,1999-03-05,Boxtel,Netherlands,51.5911,5.3275,6,0,true,true
+Gervane Kastaneer,Curaçao,CONCACAF,Forward,Terengganu,"",1996-06-09,Rotterdam,Netherlands,51.92,4.48,29,9,true,true
+Joshua Brenet,Curaçao,CONCACAF,Defender,Kayserispor,Turkey,1994-03-20,Kerkrade,Netherlands,50.866666666667,6.0666666666667,18,2,true,true
+Tahith Chong,Curaçao,CONCACAF,Midfielder,Sheffield United,England,1999-12-04,Willemstad,Curaçao,12.108,-68.935,6,3,false,true
+Kevin Felida,Curaçao,CONCACAF,Midfielder,Den Bosch,Netherlands,1999-11-11,Spijkenisse,Netherlands,51.833333333333,4.3166666666667,19,1,true,true
+Riechedly Bazoer,Curaçao,CONCACAF,Defender,Konyaspor,Turkey,1996-10-12,Utrecht,Netherlands,52.09083,5.12222,5,0,true,true
+Deveron Fonville,Curaçao,CONCACAF,Defender,NEC,Netherlands,2003-05-16,Nieuwegein,Netherlands,52.0314,5.0919,2,0,true,true
+Tyrick Bodak,Curaçao,CONCACAF,Goalkeeper,Telstar,Netherlands,2002-05-15,Curaçao,Kingdom of the Netherlands,12.2,-69.0,4,0,false,true
+Trevor Doornbusch,Curaçao,CONCACAF,Goalkeeper,VVV-Venlo,Netherlands,1999-07-06,Haarlem,Netherlands,52.380277777778,4.6405555555556,8,0,true,true
+Hernán Galíndez,Ecuador,CONMEBOL,Goalkeeper,Huracán,Argentina,1987-03-30,Rosario,Argentina,-32.9575,-60.639444444444,35,0,true,true
+Félix Torres,Ecuador,CONMEBOL,Defender,Internacional,Brazil,1997-01-11,San Lorenzo,Ecuador,1.2863888888889,-78.835277777778,49,5,false,true
+Piero Hincapié,Ecuador,CONMEBOL,Defender,Arsenal,England,2002-01-09,Esmeraldas,Ecuador,0.95,-79.666666666667,52,3,false,true
+Joel Ordóñez,Ecuador,CONMEBOL,Defender,Club Brugge,Belgium,2004-04-21,Guayaquil,Ecuador,-2.19,-79.8875,17,0,false,true
+Jordy Alcívar,Ecuador,CONMEBOL,Midfielder,Independiente del Valle,Ecuador,1999-08-05,Manta,Ecuador,-0.95002222222222,-80.7162,11,1,false,true
+Willian Pacho,Ecuador,CONMEBOL,Defender,Paris Saint-Germain,France,2001-10-16,Rosa Zárate,Ecuador,0.3272222222222222,-79.46888888888888,34,2,false,true
+Pervis Estupiñán,Ecuador,CONMEBOL,Defender,Milan,Italy,1998-01-21,Esmeraldas,Ecuador,0.95,-79.666666666667,54,5,false,true
+Anthony Valencia,Ecuador,CONMEBOL,Midfielder,Antwerp,Belgium,2003-07-21,Guayaquil,Ecuador,-2.19,-79.8875,3,1,false,true
+John Yeboah,Ecuador,CONMEBOL,Forward,Venezia,Italy,2000-06-23,Hamburg,Holy Roman Empire,53.55,10.0,23,3,true,true
+Kendry Páez,Ecuador,CONMEBOL,Midfielder,River Plate,Argentina,2007-05-04,Guayaquil,Ecuador,-2.19,-79.8875,26,2,false,true
+Kevin Rodríguez,Ecuador,CONMEBOL,Forward,Union Saint-Gilloise,Belgium,2000-03-04,Ibarra,Ecuador,0.362778,-78.13,31,2,false,true
+Moisés Ramírez,Ecuador,CONMEBOL,Goalkeeper,Kifisia,Greece,2000-09-09,Guayaquil,Ecuador,-2.19,-79.8875,7,0,false,true
+Enner Valencia,Ecuador,CONMEBOL,Forward,Pachuca,Mexico,1989-11-04,San Lorenzo,Ecuador,1.2863888888889,-78.835277777778,105,49,false,true
+Alan Minda,Ecuador,CONMEBOL,Midfielder,Atlético Mineiro,Brazil,2003-05-14,Esmeraldas,Ecuador,0.95,-79.666666666667,20,2,false,true
+Pedro Vite,Ecuador,CONMEBOL,Midfielder,Pumas UNAM,Mexico,2002-03-09,Babahoyo,Ecuador,-1.8166666666667,-79.516666666667,17,1,false,true
+Jordy Caicedo,Ecuador,CONMEBOL,Forward,Huracán,Argentina,1997-11-18,Machala,Ecuador,-3.2666666666667,-79.966666666667,20,4,false,true
+Ángelo Preciado,Ecuador,CONMEBOL,Defender,Atlético Mineiro,Brazil,1998-02-18,Shushufindi Canton,Ecuador,-0.1871,-76.645,55,0,false,true
+Denil Castillo,Ecuador,CONMEBOL,Midfielder,Midtjylland,Denmark,2004-03-24,Eloy Alfaro Canton,Ecuador,1.24994,-78.98421,5,0,false,true
+Gonzalo Plata,Ecuador,CONMEBOL,Forward,Flamengo,Brazil,2000-11-01,Guayaquil,Ecuador,-2.19,-79.8875,50,8,false,true
+Nilson Angulo,Ecuador,CONMEBOL,Forward,Sunderland,England,2003-06-19,Quito,Ecuador,-0.22,-78.5125,14,2,false,true
+Alan Franco,Ecuador,CONMEBOL,Midfielder,Atlético Mineiro,Brazil,1998-08-21,Alfredo Baquerizo Moreno,Ecuador,-1.8916666666666666,-79.5575,58,1,false,true
+Gonzalo Valle,Ecuador,CONMEBOL,Goalkeeper,LDU Quito,Ecuador,1996-02-28,Riobamba,Ecuador,-1.6730555555555555,-78.64833333333333,4,0,false,true
+Moisés Caicedo,Ecuador,CONMEBOL,Midfielder,Chelsea,England,2001-11-02,Santo Domingo,Ecuador,-0.25416666666667,-79.171944444444,61,3,false,true
+Jeremy Arévalo,Ecuador,CONMEBOL,Forward,VfB Stuttgart,Germany,2005-03-19,Santander,Spain,43.466666666667,-3.8,4,0,true,true
+Jackson Porozo,Ecuador,CONMEBOL,Defender,Tijuana,Mexico,2000-08-04,San Lorenzo,Ecuador,1.2863888888889,-78.835277777778,10,1,false,true
+Yaimar Medina,Ecuador,CONMEBOL,Defender,Genk,Belgium,2004-11-05,Eloy Alfaro Canton,Ecuador,1.24994,-78.98421,6,0,false,true
+Manuel Neuer,Germany,UEFA,Goalkeeper,Bayern Munich,Germany,1986-03-27,Gelsenkirchen,Germany,51.51027777777778,7.094166666666666,124,0,false,true
+Antonio Rüdiger,Germany,UEFA,Defender,Real Madrid,Spain,1993-03-03,Berlin,Margraviate of Brandenburg,52.516666666667,13.383333333333,82,3,false,true
+Waldemar Anton,Germany,UEFA,Defender,Borussia Dortmund,Germany,1996-07-20,Olmaliq,Uzbekistan,40.85,69.6,13,0,true,true
+Jonathan Tah,Germany,UEFA,Defender,Bayern Munich,Germany,1996-02-11,Hamburg,Holy Roman Empire,53.55,10.0,47,1,true,true
+Aleksandar Pavlović,Germany,UEFA,Midfielder,Bayern Munich,Germany,2004-05-03,Munich,Germany,48.1375,11.575,11,1,false,true
+Joshua Kimmich,Germany,UEFA,Defender,Bayern Munich,Germany,1995-02-08,Rottweil,Germany,48.168055555556,8.6247222222222,110,10,false,true
+Kai Havertz,Germany,UEFA,Forward,Arsenal,England,1999-06-11,Aachen,Germany,50.776207,6.083788,58,22,false,true
+Leon Goretzka,Germany,UEFA,Midfielder,Bayern Munich,Germany,1995-02-06,Bochum,Germany,51.483333333333,7.2166666666667,70,15,false,true
+Jamie Leweling,Germany,UEFA,Midfielder,VfB Stuttgart,Germany,2001-02-26,Germany,Germany,51.0,10.0,5,1,false,true
+Jamal Musiala,Germany,UEFA,Midfielder,Bayern Munich,Germany,2003-02-26,Stuttgart,Germany,48.7775,9.18,42,9,false,true
+Nick Woltemade,Germany,UEFA,Forward,Newcastle United,England,2002-02-14,Bremen,Germany,53.075833333333335,8.807222222222222,11,4,false,true
+Oliver Baumann,Germany,UEFA,Goalkeeper,TSG Hoffenheim,Germany,1990-06-02,Breisach,Germany,48.028888888889,7.58,13,0,false,true
+Pascal Groß,Germany,UEFA,Midfielder,Brighton & Hove Albion,England,1991-06-15,Mannheim,Germany,49.48777777777778,8.466111111111111,18,1,false,true
+Maximilian Beier,Germany,UEFA,Forward,Borussia Dortmund,Germany,2002-10-17,Brandenburg an der Havel,Germany,52.414138888888886,12.554083333333333,9,0,false,true
+Nico Schlotterbeck,Germany,UEFA,Defender,Borussia Dortmund,Germany,1999-12-01,Waiblingen,Germany,48.830277777778,9.3169444444444,27,0,false,true
+Angelo Stiller,Germany,UEFA,Midfielder,VfB Stuttgart,Germany,2001-04-04,Munich,Germany,48.1375,11.575,8,0,false,true
+Florian Wirtz,Germany,UEFA,Midfielder,Liverpool,England,2003-05-03,Pulheim,Germany,51.0,6.8,41,11,false,true
+Nathaniel Brown,Germany,UEFA,Defender,Eintracht Frankfurt,Germany,2003-06-16,Amberg,Germany,49.444444444444,11.848333333333,5,0,false,true
+Leroy Sané,Germany,UEFA,Midfielder,Galatasaray,Turkey,1996-01-11,Essen,Germany,51.450833333333,7.0130555555556,76,17,false,true
+Nadiem Amiri,Germany,UEFA,Midfielder,Mainz 05,Germany,1996-10-27,Ludwigshafen,Germany,49.481111111111,8.4352777777778,11,1,false,true
+Alexander Nübel,Germany,UEFA,Goalkeeper,VfB Stuttgart,Germany,1996-09-30,Paderborn,Germany,51.71666666666667,8.766666666666667,3,0,false,true
+David Raum,Germany,UEFA,Defender,RB Leipzig,Germany,1998-04-22,Nuremberg,Germany,49.45388888888889,11.0775,37,1,false,true
+Felix Nmecha,Germany,UEFA,Midfielder,Borussia Dortmund,Germany,2000-10-10,Hamburg,Holy Roman Empire,53.55,10.0,8,1,true,true
+Malick Thiaw,Germany,UEFA,Defender,Newcastle United,England,2001-08-08,Düsseldorf,Germany,51.22555555555556,6.776666666666666,5,0,false,true
+Assan Ouédraogo,Germany,UEFA,Midfielder,RB Leipzig,Germany,2006-05-09,Mülheim an der Ruhr,Germany,51.4275,6.8825,1,1,false,true
+Deniz Undav,Germany,UEFA,Forward,VfB Stuttgart,Germany,1996-07-19,Varel,Germany,53.396944444444,8.1361111111111,9,6,false,true
+Yahia Fofana,Ivory Coast,CAF,Goalkeeper,Çaykur Rizespor,Turkey,2000-08-21,Paris,France,48.85666666666667,2.352222222222222,35,0,true,true
+Ousmane Diomande,Ivory Coast,CAF,Defender,Sporting CP,Portugal,2003-12-04,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,15,1,false,true
+Ghislain Konan,Ivory Coast,CAF,Defender,Gil Vicente,Portugal,1995-12-27,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,54,0,false,true
+Jean Michaël Seri,Ivory Coast,CAF,Midfielder,Maribor,Slovenia,1991-07-19,Grand-Béréby,Ivory Coast,4.65,-6.9333333333333,65,4,false,true
+Wilfried Singo,Ivory Coast,CAF,Defender,Galatasaray,Turkey,2000-12-25,Ouragahio,Ivory Coast,6.41667,-5.91667,34,1,false,true
+Seko Fofana,Ivory Coast,CAF,Midfielder,Porto,Portugal,1995-05-07,Paris,France,48.85666666666667,2.352222222222222,33,7,true,true
+Odilon Kossounou,Ivory Coast,CAF,Defender,Atalanta,Italy,2001-01-04,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,36,0,false,true
+Franck Kessié,Ivory Coast,CAF,Midfielder,Al-Ahli,Saudi Arabia,1996-12-19,Ouragahio,Ivory Coast,6.41667,-5.91667,102,15,false,true
+Ange-Yoan Bonny,Ivory Coast,CAF,Forward,Inter Milan,Italy,2003-10-25,Aubervilliers,France,48.911111111111,2.3825,1,0,true,true
+Simon Adingra,Ivory Coast,CAF,Forward,Monaco,France,2002-01-01,Yamoussoukro,Ivory Coast,6.816111111111111,-5.274166666666667,29,5,false,true
+Yan Diomande,Ivory Coast,CAF,Forward,RB Leipzig,Germany,2006-11-14,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,10,3,false,true
+Elye Wahi,Ivory Coast,CAF,Forward,Nice,France,2003-01-02,Courcouronnes,France,48.618055555556,2.4069444444444,2,0,true,true
+Christopher Opéri,Ivory Coast,CAF,Defender,İstanbul Başakşehir,Turkey,1997-04-29,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,12,0,false,true
+Oumar Diakité,Ivory Coast,CAF,Forward,Cercle Brugge,Belgium,2003-12-20,Bingerville,Ivory Coast,5.35,-3.9,30,6,false,true
+Amad Diallo,Ivory Coast,CAF,Forward,Manchester United,England,2002-07-11,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,19,6,false,true
+Mohamed Koné,Ivory Coast,CAF,Goalkeeper,Charleroi,Belgium,2002-03-07,Adjamé,Ivory Coast,5.35,-4.0333333333333,0,0,false,true
+Guéla Doué,Ivory Coast,CAF,Defender,Strasbourg,France,2002-10-17,Angers,France,47.472777777778,-0.55555555555556,20,3,true,true
+Ibrahim Sangaré,Ivory Coast,CAF,Midfielder,Nottingham Forest,England,1997-12-02,Koumassi,Ivory Coast,5.3,-3.95,57,12,false,true
+Nicolas Pépé,Ivory Coast,CAF,Forward,Villarreal,Spain,1995-05-29,Mantes-la-Jolie,France,48.990555555556,1.7166666666667,56,12,true,true
+Emmanuel Agbadou,Ivory Coast,CAF,Defender,Beşiktaş,Turkey,1997-06-17,Ivory Coast,Ivory Coast,8.0,-6.0,20,2,false,true
+Evan Ndicka,Ivory Coast,CAF,Defender,Roma,Italy,1999-08-20,20th arrondissement of Paris,France,48.865061111111,2.39905,28,0,true,true
+Evann Guessand,Ivory Coast,CAF,Forward,Crystal Palace,England,2001-07-01,Ajaccio,France,41.925555555556,8.7363888888889,21,4,true,true
+Alban Lafont,Ivory Coast,CAF,Goalkeeper,Panathinaikos,Greece,1999-01-23,Ouagadougou,Burkina Faso,12.368611111111111,-1.5274999999999999,4,0,true,true
+Bazoumana Touré,Ivory Coast,CAF,Forward,TSG Hoffenheim,Germany,2006-03-02,Bouaké,Ivory Coast,7.68333,-5.03306,6,2,false,true
+Parfait Guiagon,Ivory Coast,CAF,Midfielder,Charleroi,Belgium,2001-02-22,Logoualé,Ivory Coast,7.1166666666667,-7.55,5,0,false,true
+Christ Inao Oulaï,Ivory Coast,CAF,Midfielder,Trabzonspor,Turkey,2006-04-06,Yopougon,Ivory Coast,5.33472,-4.07,9,0,false,true
+Zion Suzuki,Japan,AFC,Goalkeeper,Parma,Italy,2002-08-21,Newark,United States,40.73555555555556,-74.17222222222222,24,0,true,true
+Yukinari Sugawara,Japan,AFC,Defender,Werder Bremen,Germany,2000-06-28,Toyokawa,Japan,34.826777777778,137.37591666667,21,2,false,true
+Shōgo Taniguchi,Japan,AFC,Defender,Sint-Truiden,Belgium,1991-07-15,Kumamoto,Japan,32.803,130.7078611111111,38,1,false,true
+Kō Itakura,Japan,AFC,Defender,Ajax,Netherlands,1997-01-27,Yokohama,Japan,35.45033333333333,139.63422222222223,40,2,false,true
+Yūto Nagatomo,Japan,AFC,Defender,FC Tokyo,Japan,1986-09-12,Saijo,Japan,33.919555555555554,133.18116666666666,145,4,false,true
+Shūto Machino,Japan,AFC,Forward,Borussia Mönchengladbach,Germany,1999-09-30,Mie Prefecture,Japan,34.73025,136.50866666666667,14,5,false,true
+Ao Tanaka,Japan,AFC,Midfielder,Leeds United,England,1998-09-10,Miyamae-ku,Japan,35.589166666667,139.57861111111,38,8,false,true
+Takefusa Kubo,Japan,AFC,Midfielder,Real Sociedad,Spain,2001-06-04,Kawasaki,Japan,35.53088888888889,139.703,49,7,false,true
+Keisuke Gotō,Japan,AFC,Forward,Sint-Truiden,Belgium,2005-06-03,Shizuoka,Japan,34.975555555556,138.3825,4,0,false,true
+Ritsu Dōan,Japan,AFC,Midfielder,Eintracht Frankfurt,Germany,1998-06-16,Amagasaki,Japan,34.73383333333334,135.40633333333332,65,11,false,true
+Daizen Maeda,Japan,AFC,Midfielder,Celtic,Scotland,1997-10-20,Taishi,Japan,34.51872222222222,135.64763888888888,27,4,false,true
+Keisuke Ōsako,Japan,AFC,Goalkeeper,Sanfrecce Hiroshima,Japan,1999-07-28,Izumi,Japan,32.090444444444444,130.35266666666666,11,0,false,true
+Keito Nakamura,Japan,AFC,Midfielder,Reims,France,2000-07-28,Abiko,Japan,35.864222222222224,140.02838888888888,25,10,false,true
+Junya Itō,Japan,AFC,Midfielder,Genk,Belgium,1993-03-09,Yokosuka,Japan,35.281305555555555,139.67208333333335,69,15,false,true
+Daichi Kamada,Japan,AFC,Midfielder,Crystal Palace,England,1996-08-05,Ehime Prefecture,Japan,33.841388888888886,132.76555555555555,49,12,false,true
+Tsuyoshi Watanabe,Japan,AFC,Defender,Feyenoord,Netherlands,1997-02-05,Saitama Prefecture,Japan,35.857166666666664,139.64919444444445,11,0,false,true
+Yuito Suzuki,Japan,AFC,Midfielder,SC Freiburg,Germany,2001-10-25,Hayama,Japan,35.27205555555555,139.58625,6,0,false,true
+Ayase Ueda,Japan,AFC,Forward,Feyenoord,Netherlands,1998-08-28,Mito,Japan,36.365833333333335,140.47125,39,16,false,true
+Kōki Ogawa,Japan,AFC,Forward,NEC,Netherlands,1997-08-08,Yokohama,Japan,35.45033333333333,139.63422222222223,15,11,false,true
+Ayumu Seko,Japan,AFC,Defender,Le Havre,France,2000-06-07,Osaka,Japan,34.69375,135.5021111111111,14,0,false,true
+Hiroki Itō,Japan,AFC,Defender,Bayern Munich,Germany,1999-05-12,Hamamatsu,Japan,34.71088888888889,137.72619444444445,24,1,false,true
+Takehiro Tomiyasu,Japan,AFC,Defender,Ajax,Netherlands,1998-11-05,Fukuoka Prefecture,Japan,33.60611111111111,130.41805555555555,43,1,false,true
+Tomoki Hayakawa,Japan,AFC,Goalkeeper,Kashima Antlers,Japan,1999-03-03,Kanagawa Prefecture,Japan,35.44775,139.6425277777778,4,0,false,true
+Kaishū Sano,Japan,AFC,Midfielder,Mainz 05,Germany,2000-12-30,Tsuyama,Japan,35.06911111111111,134.00447222222223,13,0,false,true
+Junnosuke Suzuki,Japan,AFC,Defender,Copenhagen,Denmark,2003-07-12,Gifu Prefecture,Japan,35.391194444444444,136.72219444444445,6,0,false,true
+Kento Shiogai,Japan,AFC,Forward,VfL Wolfsburg,Germany,2005-03-26,Tokyo,Japan,35.68944444444445,139.69166666666666,2,0,false,true
+Bart Verbruggen,Netherlands,UEFA,Goalkeeper,Brighton & Hove Albion,England,2002-08-18,Zwolle,Netherlands,52.516666666667,6.1,29,0,false,true
+Lutsharel Geertruida,Netherlands,UEFA,Defender,Sunderland,England,2000-07-18,Rotterdam,Netherlands,51.92,4.48,21,0,false,true
+Marten de Roon,Netherlands,UEFA,Midfielder,Atalanta,Italy,1991-03-29,Zwijndrecht,Netherlands,51.82399,4.61258,43,1,false,true
+Virgil van Dijk,Netherlands,UEFA,Defender,Liverpool,England,1991-07-08,Breda,Netherlands,51.58888888888889,4.775833333333333,92,12,false,true
+Nathan Aké,Netherlands,UEFA,Defender,Manchester City,England,1995-02-18,The Hague,Netherlands,52.08,4.31,59,5,false,true
+Jan Paul van Hecke,Netherlands,UEFA,Defender,Brighton & Hove Albion,England,2000-06-08,Arnemuiden,Netherlands,51.5,3.6666666666667,12,0,false,true
+Justin Kluivert,Netherlands,UEFA,Midfielder,Bournemouth,England,1999-05-05,Zaandam,Netherlands,52.441666666667,4.8422222222222,12,0,false,true
+Ryan Gravenberch,Netherlands,UEFA,Midfielder,Liverpool,England,2002-05-16,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,27,1,false,true
+Wout Weghorst,Netherlands,UEFA,Forward,Ajax,Netherlands,1992-08-07,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,52,14,false,true
+Memphis Depay,Netherlands,UEFA,Forward,Corinthians,Brazil,1994-02-13,Moordrecht,Netherlands,51.9861,4.6681,109,55,false,true
+Cody Gakpo,Netherlands,UEFA,Forward,Liverpool,England,1999-05-07,Eindhoven,Netherlands,51.434444444444,5.4841666666667,50,21,false,true
+Mats Wieffer,Netherlands,UEFA,Defender,Brighton & Hove Albion,England,1999-11-16,Borne,Netherlands,52.3,6.75,15,1,false,true
+Robin Roefs,Netherlands,UEFA,Goalkeeper,Sunderland,England,2003-01-17,Heeswijk-Dinther,Netherlands,51.6503,5.475,1,0,false,true
+Tijjani Reijnders,Netherlands,UEFA,Midfielder,Manchester City,England,1998-07-29,Zwolle,Netherlands,52.516666666667,6.1,32,7,false,true
+Micky van de Ven,Netherlands,UEFA,Defender,Tottenham Hotspur,England,2001-04-19,Wormer,Netherlands,52.4972,4.8089,21,1,false,true
+Guus Til,Netherlands,UEFA,Midfielder,PSV Eindhoven,Netherlands,1997-12-22,Samfya,Zambia,-11.361944444444,29.559722222222,7,1,true,true
+Noa Lang,Netherlands,UEFA,Forward,Galatasaray,Turkey,1999-06-17,Capelle aan den IJssel,Netherlands,51.93567,4.57819,15,3,false,true
+Donyell Malen,Netherlands,UEFA,Forward,Roma,Italy,1999-01-19,Wieringen,Netherlands,52.9,4.97,53,13,false,true
+Brian Brobbey,Netherlands,UEFA,Forward,Sunderland,England,2002-02-01,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,12,1,false,true
+Teun Koopmeiners,Netherlands,UEFA,Midfielder,Juventus,Italy,1998-02-28,Castricum,Netherlands,52.5517,4.6583,28,3,false,true
+Frenkie de Jong,Netherlands,UEFA,Midfielder,Barcelona,Spain,1997-05-12,Arkel,Netherlands,51.8639,4.9944,66,2,false,true
+Denzel Dumfries,Netherlands,UEFA,Defender,Inter Milan,Italy,1996-04-18,Rotterdam,Netherlands,51.92,4.48,72,11,false,true
+Mark Flekken,Netherlands,UEFA,Goalkeeper,Bayer Leverkusen,Germany,1993-06-13,Kerkrade,Netherlands,50.866666666667,6.0666666666667,12,0,false,true
+Crysencio Summerville,Netherlands,UEFA,Forward,West Ham United,England,2001-10-30,Rotterdam,Netherlands,51.92,4.48,2,0,false,true
+Jorrel Hato,Netherlands,UEFA,Defender,Chelsea,England,2006-03-07,Rotterdam,Netherlands,51.92,4.48,8,0,false,true
+Quinten Timber,Netherlands,UEFA,Midfielder,Marseille,France,2001-06-17,Utrecht,Netherlands,52.090833333333336,5.121666666666667,11,1,false,true
+Jacob Widell Zetterström,Sweden,UEFA,Goalkeeper,Derby County,England,1998-07-11,Stockholm,Sweden,59.329444444444,18.068611111111,3,0,false,true
+Gustaf Lagerbielke,Sweden,UEFA,Defender,Braga,Portugal,2000-04-10,Stockholm,Sweden,59.329444444444,18.068611111111,11,2,false,true
+Victor Lindelöf,Sweden,UEFA,Defender,Aston Villa,England,1994-07-17,Västerås,Sweden,59.617319380941,16.542157497094,76,3,false,true
+Isak Hien,Sweden,UEFA,Defender,Atalanta,Italy,1999-01-13,Kista,Sweden,59.401388888889,17.9425,29,0,false,true
+Gabriel Gudmundsson,Sweden,UEFA,Defender,Leeds United,England,1999-04-29,Malmö,Sweden,55.583333333333336,13.0,24,0,false,true
+Herman Johansson,Sweden,UEFA,Defender,FC Dallas,United States,1997-10-16,Örnsköldsvik,Sweden,63.265490487805,18.676183350641,3,0,false,true
+Lucas Bergvall,Sweden,UEFA,Midfielder,Tottenham Hotspur,England,2006-02-02,Stockholm,Sweden,59.329444444444,18.068611111111,10,0,false,true
+Daniel Svensson,Sweden,UEFA,Defender,Borussia Dortmund,Germany,2002-02-12,Stockholm,Sweden,59.329444444444,18.068611111111,13,0,false,true
+Alexander Isak,Sweden,UEFA,Forward,Liverpool,England,1999-09-21,Stockholm,Sweden,59.329444444444,18.068611111111,58,17,false,true
+Benjamin Nygren,Sweden,UEFA,Midfielder,Celtic,Scotland,2001-07-08,Gothenburg,Sweden,57.7075,11.9675,11,3,false,true
+Anthony Elanga,Sweden,UEFA,Forward,Newcastle United,England,2002-04-27,Hyllie,Sweden,55.56138889,12.97555556,30,6,false,true
+Viktor Johansson,Sweden,UEFA,Goalkeeper,Stoke City,England,1998-09-14,Stockholm,Sweden,59.329444444444,18.068611111111,12,0,false,true
+Ken Sema,Sweden,UEFA,Midfielder,Pafos,Cyprus,1993-09-30,Norrköping Matteus church parish,Sweden,58.593094444444,16.171933333333,33,5,false,true
+Hjalmar Ekdal,Sweden,UEFA,Defender,Burnley,England,1998-10-21,Stockholm,Sweden,59.329444444444,18.068611111111,13,0,false,true
+Carl Starfelt,Sweden,UEFA,Defender,Celta Vigo,Spain,1995-06-01,Stockholm,Sweden,59.329444444444,18.068611111111,18,0,false,true
+Jesper Karlström,Sweden,UEFA,Midfielder,Udinese,Italy,1995-06-21,Stockholm,Sweden,59.329444444444,18.068611111111,25,0,false,true
+Viktor Gyökeres,Sweden,UEFA,Forward,Arsenal,England,1998-06-04,Stockholm,Sweden,59.329444444444,18.068611111111,33,20,false,true
+Yasin Ayari,Sweden,UEFA,Midfielder,Brighton & Hove Albion,England,2003-10-06,Solna,Sweden,59.36004,18.00086,21,3,false,true
+Mattias Svanberg,Sweden,UEFA,Midfielder,VfL Wolfsburg,Germany,1999-01-05,Malmö,Sweden,55.583333333333336,13.0,41,2,false,true
+Eric Smith,Sweden,UEFA,Defender,FC St. Pauli,Germany,1997-01-08,Halmstad,Sweden,56.673972222222226,12.857277777777778,2,0,false,true
+Alexander Bernhardsson,Sweden,UEFA,Defender,Holstein Kiel,Germany,1998-09-08,Gothenburg,Sweden,57.7075,11.9675,11,0,false,true
+Besfort Zeneli,Sweden,UEFA,Midfielder,Union Saint-Gilloise,Belgium,2002-11-21,Säter,Sweden,60.343086946677,15.758795519301,8,0,false,true
+Kristoffer Nordfeldt,Sweden,UEFA,Goalkeeper,AIK,Sweden,1989-06-23,Stockholm,Sweden,59.329444444444,18.068611111111,21,0,false,true
+Elliot Stroud,Sweden,UEFA,Defender,Mjällby AIF,Sweden,2002-06-22,Uddevalla,Sweden,58.34916666666667,11.938055555555556,1,0,false,true
+Gustaf Nilsson,Sweden,UEFA,Forward,Club Brugge,Belgium,1997-05-23,Sweden,"",61.0,15.0,10,4,false,false
+Taha Ali,Sweden,UEFA,Forward,Malmö FF,Sweden,1998-07-01,Spånga-Kista församling,Sweden,59.391666666667,17.911666666667,2,0,false,true
+Mouhib Chamakh,Tunisia,CAF,Goalkeeper,Club Africain,Tunisia,2001-08-25,Medenine,Tunisia,33.354722222222,10.505277777778,3,0,false,true
+Ali Abdi,Tunisia,CAF,Defender,Nice,France,1993-12-20,Sfax,Tunisia,34.74,10.76,46,7,false,true
+Montassar Talbi,Tunisia,CAF,Defender,Lorient,France,1998-05-26,Paris,France,48.85666666666667,2.352222222222222,64,4,true,true
+Omar Rekik,Tunisia,CAF,Defender,Maribor,Slovenia,2001-12-20,Helmond,Netherlands,51.47968,5.65559,6,0,true,true
+Adem Arous,Tunisia,CAF,Defender,Kasımpaşa,Turkey,2004-07-17,Medina,Saudi Arabia,24.47,39.61,2,0,true,true
+Dylan Bronn,Tunisia,CAF,Defender,Servette,Switzerland,1995-06-19,Cannes,France,43.5525,7.0213888888889,52,2,true,true
+Elias Achouri,Tunisia,CAF,Forward,Copenhagen,Denmark,1999-02-10,Saint-Denis,France,-20.878888888889,55.448055555556,30,4,true,true
+Elias Saad,Tunisia,CAF,Forward,Hannover 96,Germany,1999-12-27,Hamburg,Holy Roman Empire,53.55,10.0,15,4,true,true
+Hazem Mastouri,Tunisia,CAF,Forward,Dynamo Makhachkala,Russia,1997-06-18,Tunis,Tunisia,36.800833333333,10.18,19,4,false,true
+Hannibal Mejbri,Tunisia,CAF,Midfielder,Burnley,England,2003-01-21,Ivry-sur-Seine,France,48.813888888889,2.3877777777778,45,1,true,true
+Ismaël Gharbi,Tunisia,CAF,Midfielder,FC Augsburg,Germany,2004-04-10,Paris,France,48.85666666666667,2.352222222222222,17,2,true,true
+Mortadha Ben Ouanes,Tunisia,CAF,Defender,Kasımpaşa,Turkey,1994-07-02,Sousse,Tunisia,35.833333333333,10.633333333333,18,0,false,true
+Rani Khedira,Tunisia,CAF,Midfielder,Union Berlin,Germany,1994-01-27,Stuttgart,Germany,48.7775,9.18,3,0,true,true
+Khalil Ayari,Tunisia,CAF,Midfielder,Paris Saint-Germain,France,2005-02-02,Tunis,Tunisia,36.800833333333,10.18,4,0,false,true
+Hadj Mahmoud,Tunisia,CAF,Midfielder,Lugano,Switzerland,2000-04-24,Sousse,Tunisia,35.833333333333,10.633333333333,9,0,false,true
+Aymen Dahmen,Tunisia,CAF,Goalkeeper,CS Sfaxien,Tunisia,1997-01-28,Sfax,Tunisia,34.74,10.76,37,0,false,true
+Ellyes Skhiri,Tunisia,CAF,Midfielder,Eintracht Frankfurt,Germany,1995-05-10,Lunel,France,43.676944444444,4.1352777777778,83,4,true,true
+Rayan Elloumi,Tunisia,CAF,Forward,Vancouver Whitecaps FC,Canada,2007-09-17,St. Albert,Canada,53.630277777778,-113.62583333333,4,0,true,true
+Firas Chaouat,Tunisia,CAF,Forward,Club Africain,Tunisia,1996-05-08,Sfax,Tunisia,34.74,10.76,30,6,false,true
+Yan Valery,Tunisia,CAF,Defender,Young Boys,Switzerland,1999-02-22,Champigny-sur-Marne,France,48.817222222222,2.5155555555556,22,0,true,true
+Mohamed Amine Ben Hamida,Tunisia,CAF,Defender,Espérance de Tunis,Tunisia,1995-12-15,Tunis,Tunisia,36.800833333333,10.18,13,0,false,true
+Sabri Ben Hessen,Tunisia,CAF,Goalkeeper,Étoile du Sahel,Tunisia,1996-06-13,Sfax,Tunisia,34.74,10.76,2,0,false,true
+Moutaz Neffati,Tunisia,CAF,Defender,IFK Norrköping,Sweden,2004-09-04,Norrköping,Sweden,58.579331104671,16.149318388303,5,0,true,true
+Raed Chikhaoui,Tunisia,CAF,Defender,US Monastir,Tunisia,2004-06-09,Sakiet Ezzit,Tunisia,34.8,10.77,0,0,false,true
+Anis Ben Slimane,Tunisia,CAF,Midfielder,Norwich City,England,2001-03-16,Copenhagen,Denmark,55.676111111111,12.568888888889,41,4,true,true
+Sebastian Tounekti,Tunisia,CAF,Midfielder,Celtic,Scotland,2002-07-13,Tromsø Municipality,Norway,69.64961,18.95701,12,1,true,true
+Thibaut Courtois,Belgium,UEFA,Goalkeeper,Real Madrid,Spain,1992-05-11,Bree,Belgium,51.133333333333,5.5833333333333,109,0,false,true
+Zeno Debast,Belgium,UEFA,Defender,Sporting CP,Portugal,2003-10-24,Halle,Belgium,50.736111111111114,4.237222222222222,26,1,false,true
+Arthur Theate,Belgium,UEFA,Defender,Eintracht Frankfurt,Germany,2000-05-25,Liège,Belgium,50.639722222222225,5.570555555555556,33,1,false,true
+Brandon Mechele,Belgium,UEFA,Defender,Club Brugge,Belgium,1993-01-28,Bredene,Belgium,51.2336,2.9756,9,1,false,true
+Maxim De Cuyper,Belgium,UEFA,Defender,Brighton & Hove Albion,England,2000-12-22,Knokke-Heist,Belgium,51.341388888889,3.2869444444444,19,4,false,true
+Axel Witsel,Belgium,UEFA,Midfielder,Girona,Spain,1989-01-12,Liège,Belgium,50.639722222222225,5.570555555555556,138,12,false,true
+Kevin De Bruyne,Belgium,UEFA,Midfielder,Napoli,Italy,1991-06-28,Drongen,Belgium,51.0528,3.6617,119,37,false,true
+Youri Tielemans,Belgium,UEFA,Midfielder,Aston Villa,England,1997-05-07,Sint-Pieters-Leeuw,Belgium,50.783333333333,4.25,85,13,false,true
+Romelu Lukaku,Belgium,UEFA,Forward,Napoli,Italy,1993-05-13,Antwerp,Belgium,51.221111111111114,4.3997222222222225,126,90,false,true
+Leandro Trossard,Belgium,UEFA,Forward,Arsenal,England,1994-12-04,Maasmechelen,Belgium,50.9967,5.7025,51,12,false,true
+Jérémy Doku,Belgium,UEFA,Forward,Manchester City,England,2002-05-27,Antwerp,Belgium,51.221111111111114,4.3997222222222225,43,7,false,true
+Senne Lammens,Belgium,UEFA,Goalkeeper,Manchester United,England,2002-07-07,Aaigem,Belgium,50.8892,3.9372,2,0,false,true
+Mike Penders,Belgium,UEFA,Goalkeeper,Strasbourg,France,2005-07-31,Maasmechelen,Belgium,50.9967,5.7025,0,0,false,true
+Dodi Lukébakio,Belgium,UEFA,Forward,Benfica,Portugal,1997-09-24,Asse,Belgium,50.9,4.2,30,6,false,true
+Thomas Meunier,Belgium,UEFA,Defender,Lille,France,1991-09-12,Sainte-Ode,Belgium,50.02696,5.52387,80,10,false,true
+Koni De Winter,Belgium,UEFA,Defender,Milan,Italy,2002-06-12,Antwerp,Belgium,51.221111111111114,4.3997222222222225,8,0,false,true
+Charles De Ketelaere,Belgium,UEFA,Forward,Atalanta,Italy,2001-03-10,Bruges,Belgium,51.208888888888886,3.2241666666666666,30,6,false,true
+Joaquin Seys,Belgium,UEFA,Defender,Club Brugge,Belgium,2005-03-28,Ostend,Belgium,51.225833333333334,2.9194444444444443,5,0,false,true
+Diego Moreira,Belgium,UEFA,Midfielder,Strasbourg,France,2004-08-06,Liège,Belgium,50.639722222222225,5.570555555555556,3,0,false,true
+Hans Vanaken,Belgium,UEFA,Midfielder,Club Brugge,Belgium,1992-08-24,Neerpelt,Belgium,51.227778,5.442222,34,7,false,true
+Timothy Castagne,Belgium,UEFA,Defender,Fulham,England,1995-12-05,Arlon,Belgium,49.683611111111,5.8166666666667,63,2,false,true
+Alexis Saelemaekers,Belgium,UEFA,Midfielder,Milan,Italy,1999-06-27,Berchem-Sainte-Agathe,Belgium,50.865,4.294722222222222,24,2,false,true
+Nicolas Raskin,Belgium,UEFA,Midfielder,Rangers,Scotland,2001-02-23,Waregem,Belgium,50.881078333333335,3.4000994444444443,13,2,false,true
+Amadou Onana,Belgium,UEFA,Midfielder,Aston Villa,England,2001-08-16,Dakar,Senegal,14.672555555555556,-17.432,29,1,true,true
+Nathan Ngoy,Belgium,UEFA,Defender,Lille,France,2003-06-10,Belgium,Belgium,50.641111111111,4.6680555555556,4,0,false,true
+Matias Fernandez-Pardo,Belgium,UEFA,Forward,Lille,France,2005-02-03,Brussels,Belgium,50.846666666666664,4.351666666666667,2,0,false,true
+Mohamed El Shenawy,Egypt,CAF,Goalkeeper,Al Ahly,Egypt,1988-12-18,Kafr el-Sheikh,Egypt,31.1,30.95,76,0,false,true
+Yasser Ibrahim,Egypt,CAF,Defender,Al Ahly,Egypt,1993-02-10,Mansoura,Egypt,31.05,31.383333333333,17,1,false,true
+Mohamed Hany,Egypt,CAF,Defender,Al Ahly,Egypt,1996-02-02,Cairo,Egypt,30.044444444444444,31.235833333333332,42,0,false,true
+Hossam Abdelmaguid,Egypt,CAF,Defender,Zamalek,Egypt,2001-04-30,Egypt,Egypt,27.0,29.0,13,0,false,true
+Ramy Rabia,Egypt,CAF,Defender,Al Ain,United Arab Emirates,1993-05-20,Cairo,Egypt,30.044444444444444,31.235833333333332,44,5,false,true
+Mohamed Abdelmonem,Egypt,CAF,Defender,Nice,France,1999-02-01,Zagazig,Egypt,30.566666666667,31.5,36,3,false,true
+Trézéguet,Egypt,CAF,Forward,Al Ahly,Egypt,1994-10-01,Kafr el-Sheikh,Egypt,31.1,30.95,96,23,false,true
+Emam Ashour,Egypt,CAF,Midfielder,Al Ahly,Egypt,1998-02-20,Mansoura,Egypt,31.05,31.383333333333,29,0,false,true
+Hamza Abdelkarim,Egypt,CAF,Forward,Barcelona B,Spain,2008-01-01,Mansoura,Egypt,31.05,31.383333333333,2,0,false,true
+Mohamed Salah,Egypt,CAF,Forward,Liverpool,England,1992-06-15,Nagrig,Egypt,30.9725,30.866944444444446,116,67,false,true
+Mostafa Ziko,Egypt,CAF,Midfielder,Pyramids,Egypt,1997-04-27,Monufia Governorate,Egypt,30.52,30.99,2,2,false,true
+Haissem Hassan,Egypt,CAF,Forward,Oviedo,Spain,2002-02-08,Paris,France,48.85666666666667,2.352222222222222,4,0,true,true
+Ahmed Fatouh,Egypt,CAF,Defender,Zamalek,Egypt,1998-03-22,Cairo,Egypt,30.044444444444444,31.235833333333332,39,1,false,true
+Hamdy Fathy,Egypt,CAF,Midfielder,Al-Wakrah,Qatar,1994-09-29,Beheira Governorate,Egypt,30.61,30.43,63,3,false,true
+Karim Hafez,Egypt,CAF,Defender,Pyramids,Egypt,1996-03-12,Cairo,Egypt,30.044444444444444,31.235833333333332,9,0,false,true
+El Mahdy Soliman,Egypt,CAF,Goalkeeper,Zamalek,Egypt,1987-06-08,Cairo,Egypt,30.044444444444444,31.235833333333332,0,0,false,true
+Mohanad Lasheen,Egypt,CAF,Midfielder,Pyramids,Egypt,1996-05-29,Cairo,Egypt,30.044444444444444,31.235833333333332,23,0,false,true
+Nabil Emad,Egypt,CAF,Midfielder,Al-Najma,Saudi Arabia,1996-04-06,El Mahalla El Kubra,Egypt,30.966666666667,31.166666666667,12,0,false,true
+Marwan Attia,Egypt,CAF,Midfielder,Al Ahly,Egypt,1998-08-01,Kafr el-Dawwar,Egypt,31.133888888889,30.129722222222,34,1,false,true
+Ibrahim Adel,Egypt,CAF,Forward,Nordsjælland,Denmark,2001-04-23,Port Said,Egypt,31.2625,32.306111111111115,24,3,false,true
+Mahmoud Saber,Egypt,CAF,Midfielder,ZED,Egypt,2001-07-30,"","",,,15,1,false,false
+Omar Marmoush,Egypt,CAF,Forward,Manchester City,England,1999-02-07,Cairo,Egypt,30.044444444444444,31.235833333333332,50,11,false,true
+Mostafa Shobeir,Egypt,CAF,Goalkeeper,Al Ahly,Egypt,2000-05-15,Giza,Egypt,29.987,31.2118,9,0,false,true
+Tarek Alaa,Egypt,CAF,Defender,ZED,Egypt,2002-01-05,"","",,,3,0,false,false
+Zizo,Egypt,CAF,Forward,Al Ahly,Egypt,1996-01-10,Egypt,Egypt,27.0,29.0,63,5,false,true
+Mohamed Alaa,Egypt,CAF,Goalkeeper,El Gouna,Egypt,1999-01-01,Ismailia,Egypt,30.583333333333,32.266666666667,0,0,false,true
+Alireza Beiranvand,Iran,AFC,Goalkeeper,Tractor,Iran,1992-09-21,Sarab-e Yas,Iran,33.43083333,48.34305556,86,0,false,true
+Saleh Hardani,Iran,AFC,Defender,Esteghlal,Iran,1998-12-26,Bahmai County,Iran,30.891583333333,50.091830555556,18,1,false,true
+Ehsan Hajsafi,Iran,AFC,Defender,Sepahan,Iran,1990-02-25,Kashan,Iran,33.988055555555555,51.4425,146,7,false,true
+Shojae Khalilzadeh,Iran,AFC,Defender,Tractor,Iran,1989-05-14,Bahnemir,Iran,36.66833333333334,52.76166666666667,58,2,false,true
+Milad Mohammadi,Iran,AFC,Defender,Persepolis,Iran,1993-09-29,Tehran,Iran,35.68888888888889,51.389722222222225,76,1,false,true
+Saeid Ezatolahi,Iran,AFC,Midfielder,Shabab Al Ahli,United Arab Emirates,1996-10-01,Bandar-e Anzali,Iran,37.473055555555554,49.45777777777778,83,2,false,true
+Alireza Jahanbakhsh,Iran,AFC,Midfielder,Dender EH,Belgium,1993-08-11,Qazvin,Iran,36.28543666666667,50.0041,99,17,false,true
+Mohammad Mohebi,Iran,AFC,Midfielder,Rostov,Russia,1998-12-20,Bushehr,Iran,28.968888888888888,50.836666666666666,37,14,false,true
+Mehdi Taremi,Iran,AFC,Forward,Olympiacos,Greece,1992-07-18,Bushehr,Iran,28.968888888888888,50.836666666666666,105,60,false,true
+Mehdi Ghayedi,Iran,AFC,Forward,Al Nasr,United Arab Emirates,1998-12-05,Bushehr,Iran,28.968888888888888,50.836666666666666,30,10,false,true
+Ali Alipour,Iran,AFC,Forward,Persepolis,Iran,1995-11-11,Qaem Shahr,Iran,36.463055555555556,52.86,14,1,false,true
+Payam Niazmand,Iran,AFC,Goalkeeper,Persepolis,Iran,1995-04-06,Tehran,Iran,35.68888888888889,51.389722222222225,15,0,false,true
+Hossein Kanaanizadegan,Iran,AFC,Defender,Persepolis,Iran,1994-03-23,Mahshahr,Iran,30.556666666666665,49.18861111111111,65,6,false,true
+Saman Ghoddos,Iran,AFC,Midfielder,Kalba,United Arab Emirates,1993-09-06,Piranshahr Sugar Factory,Iran,,,68,3,false,true
+Rouzbeh Cheshmi,Iran,AFC,Midfielder,Esteghlal,Iran,1993-07-24,Tehran,Iran,35.68888888888889,51.389722222222225,40,3,false,true
+Mahdi Torabi,Iran,AFC,Midfielder,Tractor,Iran,1994-09-10,Eshtehard,Iran,35.72555556,50.36611111,52,7,false,true
+Arya Yousefi,Iran,AFC,Defender,Sepahan,Iran,2002-04-22,Mahshahr,Iran,30.556666666666665,49.18861111111111,14,1,false,true
+Amirhossein Hosseinzadeh,Iran,AFC,Forward,Tractor,Iran,2000-10-30,Tehran,Iran,35.68888888888889,51.389722222222225,18,5,false,true
+Ali Nemati,Iran,AFC,Defender,Foolad,Iran,1996-02-08,Nishapur,Iran,36.21333333333333,58.795833333333334,18,0,false,true
+Shahriyar Moghanlou,Iran,AFC,Forward,Kalba,United Arab Emirates,1994-12-21,Zanjan,Iran,36.666666666667,48.483333333333,21,2,false,true
+Mohammad Ghorbani,Iran,AFC,Midfielder,Al Wahda,United Arab Emirates,2001-10-07,Arak,Iran,34.095,49.698055555555555,16,0,false,true
+Hossein Hosseini,Iran,AFC,Goalkeeper,Sepahan,Iran,1992-06-30,Shiraz,Iran,29.61,52.5425,13,0,false,true
+Ramin Rezaeian,Iran,AFC,Defender,Foolad,Iran,1990-03-21,Sari,Iran,36.565833333333,53.059722222222,74,8,false,true
+Dennis Eckert,Iran,AFC,Forward,Standard Liège,Belgium,1997-01-09,Bonn,Germany,50.735277777777775,7.102222222222222,0,0,true,true
+Danial Eiri,Iran,AFC,Defender,Malavan,Iran,2003-10-26,Gonbad-e Kavus,Iran,37.25004,55.16721,0,0,false,true
+Amirmohammad Razzaghinia,Iran,AFC,Midfielder,Esteghlal,Iran,2006-04-11,Yazd,Iran,31.897222222222222,54.3675,4,0,false,true
+Max Crocombe,New Zealand,OFC,Goalkeeper,Millwall,England,1993-08-12,Auckland,New Zealand,-36.84916666666667,174.76527777777778,24,0,false,true
+Tim Payne,New Zealand,OFC,Defender,Wellington Phoenix,New Zealand,1994-01-10,Auckland,New Zealand,-36.84916666666667,174.76527777777778,51,3,false,true
+Francis de Vries,New Zealand,OFC,Defender,Auckland FC,New Zealand,1994-11-28,Christchurch,New Zealand,-43.53111111111111,172.63611111111112,20,1,false,true
+Tyler Bindon,New Zealand,OFC,Defender,Sheffield United,England,2005-01-27,Auckland,New Zealand,-36.84916666666667,174.76527777777778,25,3,false,true
+Michael Boxall,New Zealand,OFC,Defender,Minnesota United FC,United States,1988-08-18,Auckland,New Zealand,-36.84916666666667,174.76527777777778,63,1,false,true
+Joe Bell,New Zealand,OFC,Midfielder,Viking,Norway,1999-04-27,Bristol,United Kingdom,51.45361111111111,-2.5975,32,1,true,true
+Logan Rogerson,New Zealand,OFC,Forward,Auckland FC,New Zealand,1998-05-28,New Zealand,New Zealand,-41.2,174.0,18,2,false,true
+Marko Stamenić,New Zealand,OFC,Midfielder,Swansea City,Wales,2002-02-19,Wellington,New Zealand,-41.288888888889,174.77722222222,39,3,false,true
+Chris Wood,New Zealand,OFC,Forward,Nottingham Forest,England,1991-12-07,Auckland,New Zealand,-36.84916666666667,174.76527777777778,90,45,false,true
+Sarpreet Singh,New Zealand,OFC,Midfielder,Wellington Phoenix,New Zealand,1999-02-20,Auckland,New Zealand,-36.84916666666667,174.76527777777778,28,3,false,true
+Elijah Just,New Zealand,OFC,Midfielder,Motherwell,Scotland,2000-05-01,Palmerston North,New Zealand,-40.354911,175.609511,44,9,false,true
+Alex Paulsen,New Zealand,OFC,Goalkeeper,Lechia Gdańsk,Poland,2002-07-04,Auckland,New Zealand,-36.84916666666667,174.76527777777778,8,0,false,true
+Liberato Cacace,New Zealand,OFC,Defender,Wrexham,Wales,2000-09-27,Wellington,New Zealand,-41.288888888889,174.77722222222,37,1,false,true
+Alex Rufer,New Zealand,OFC,Midfielder,Wellington Phoenix,New Zealand,1996-06-12,Wellington,New Zealand,-41.288888888889,174.77722222222,26,0,false,true
+Nando Pijnaker,New Zealand,OFC,Defender,Auckland FC,New Zealand,1999-02-25,Zutphen,Netherlands,52.14,6.195,25,0,true,true
+Finn Surman,New Zealand,OFC,Defender,Portland Timbers,United States,2003-09-23,Christchurch,New Zealand,-43.53111111111111,172.63611111111112,19,2,false,true
+Kosta Barbarouses,New Zealand,OFC,Forward,Western Sydney Wanderers,Australia,1990-02-19,Wellington,New Zealand,-41.288888888889,174.77722222222,76,10,false,true
+Ben Waine,New Zealand,OFC,Forward,Port Vale,England,2001-06-11,Wellington,New Zealand,-41.288888888889,174.77722222222,31,9,false,true
+Ben Old,New Zealand,OFC,Midfielder,Saint-Étienne,France,2002-08-13,Auckland,New Zealand,-36.84916666666667,174.76527777777778,24,2,false,true
+Callum McCowatt,New Zealand,OFC,Midfielder,Silkeborg,Denmark,1999-04-30,Auckland,New Zealand,-36.84916666666667,174.76527777777778,32,4,false,true
+Jesse Randall,New Zealand,OFC,Forward,Auckland FC,New Zealand,2002-08-19,Wellington,New Zealand,-41.288888888889,174.77722222222,11,2,false,true
+Michael Woud,New Zealand,OFC,Goalkeeper,Auckland FC,New Zealand,1999-01-16,Auckland,New Zealand,-36.84916666666667,174.76527777777778,6,0,false,true
+Ryan Thomas,New Zealand,OFC,Midfielder,PEC Zwolle,Netherlands,1994-12-20,Te Puke,New Zealand,-37.783333333333,176.31666666667,25,3,false,true
+Callan Elliot,New Zealand,OFC,Defender,Auckland FC,New Zealand,1999-07-07,Scotland,United Kingdom,57.0,-5.0,11,0,true,true
+Lachlan Bayliss,New Zealand,OFC,Midfielder,Newcastle Jets,Australia,2002-07-24,Darwin,Australia,-12.438055555556,130.84111111111,4,0,true,true
+Tommy Smith,New Zealand,OFC,Defender,Braintree Town,England,1990-03-31,Macclesfield,United Kingdom,53.2581,-2.1274,56,2,true,true
+Vozinha,Cape Verde,CAF,Goalkeeper,Chaves,Portugal,1986-06-03,Mindelo,Cape Verde,16.891352777778,-24.987983333333,90,0,false,true
+Stopira,Cape Verde,CAF,Defender,Torreense,Portugal,1988-05-20,Praia,Cape Verde,14.917719444444,-23.509155555556,61,4,false,true
+Diney,Cape Verde,CAF,Defender,Al Bataeh,United Arab Emirates,1995-01-17,Tarrafal,Cape Verde,15.266666666667,-23.75,32,2,false,true
+Pico,Cape Verde,CAF,Defender,Shamrock Rovers,"",1992-06-17,Crumlin,Ireland,53.324,-6.329,45,0,true,true
+Logan Costa,Cape Verde,CAF,Defender,Villarreal,Spain,2001-04-01,Saint-Denis,France,48.935555555556,2.3538888888889,28,0,true,true
+Kevin Pina,Cape Verde,CAF,Midfielder,Krasnodar,Russia,1997-01-27,Praia,Cape Verde,14.917719444444,-23.509155555556,31,3,false,true
+Jovane Cabral,Cape Verde,CAF,Midfielder,Estrela Amadora,Portugal,1998-06-14,Assomada,Cape Verde,15.094880555556,-23.665394444444,29,3,false,true
+João Paulo,Cape Verde,CAF,Midfielder,FCSB,Romania,1998-05-26,Ribeira Grande,Cape Verde,17.182744444444,-25.065494444444,41,1,false,true
+Gilson Benchimol,Cape Verde,CAF,Forward,Akron Tolyatti,Russia,2001-12-29,Praia,Cape Verde,14.917719444444,-23.509155555556,21,6,false,true
+Jamiro Monteiro,Cape Verde,CAF,Midfielder,PEC Zwolle,Netherlands,1993-11-23,Rotterdam,Netherlands,51.92,4.48,55,5,true,true
+Garry Rodrigues,Cape Verde,CAF,Midfielder,Apollon Limassol,Cyprus,1990-11-27,Rotterdam,Netherlands,51.92,4.48,61,10,true,true
+Márcio Rosa,Cape Verde,CAF,Goalkeeper,Montana,Bulgaria,1997-02-23,Praia,Cape Verde,14.917719444444,-23.509155555556,11,0,false,true
+Sidny Lopes Cabral,Cape Verde,CAF,Defender,Benfica,Portugal,2002-09-18,Rotterdam,Netherlands,51.92,4.48,11,3,true,true
+Deroy Duarte,Cape Verde,CAF,Midfielder,Ludogorets Razgrad,Bulgaria,1999-07-04,Rotterdam,Netherlands,51.92,4.48,33,0,true,true
+Laros Duarte,Cape Verde,CAF,Midfielder,Puskás Akadémia,Hungary,1997-02-28,Rotterdam,Netherlands,51.92,4.48,20,1,true,true
+Yannick Semedo,Cape Verde,CAF,Midfielder,Farense,Portugal,1995-12-29,Praia,Cape Verde,14.917719444444,-23.509155555556,11,1,false,true
+Willy Semedo,Cape Verde,CAF,Midfielder,Omonia,Cyprus,1994-04-27,Montfermeil,France,48.898333333333,2.5647222222222,38,3,true,true
+Telmo Arcanjo,Cape Verde,CAF,Midfielder,Vitória de Guimarães,Portugal,2001-06-21,Lisbon,Portugal,38.708042,-9.139016,16,1,true,true
+Dailon Livramento,Cape Verde,CAF,Forward,Casa Pia,Portugal,2001-05-04,Rotterdam,Netherlands,51.92,4.48,22,7,true,true
+Ryan Mendes,Cape Verde,CAF,Forward,Iğdır,Turkey,1990-01-08,Mindelo,Cape Verde,16.891352777778,-24.987983333333,96,22,false,true
+Nuno da Costa,Cape Verde,CAF,Midfielder,İstanbul Başakşehir,Turkey,1991-02-10,Praia,Cape Verde,14.917719444444,-23.509155555556,9,2,false,true
+Steven Moreira,Cape Verde,CAF,Defender,Columbus Crew,United States,1994-08-13,Noisy-le-Grand,France,48.843888888889,2.5580555555556,20,0,true,true
+CJ dos Santos,Cape Verde,CAF,Goalkeeper,San Diego FC,United States,2000-08-24,Philadelphia,United States,39.952777777778,-75.163611111111,1,0,true,true
+Wagner Pina,Cape Verde,CAF,Defender,Trabzonspor,Turkey,2002-11-03,Lisbon,Portugal,38.708042,-9.139016,14,0,true,true
+Kelvin Pires,Cape Verde,CAF,Defender,SJK,Finland,2000-06-05,Cape Verde,Cape Verde,15.3,-23.7,6,1,false,true
+Hélio Varela,Cape Verde,CAF,Midfielder,Maccabi Tel Aviv,Israel,2002-05-03,Almada,Portugal,38.68027778,-9.15833333,21,0,true,true
+Nawaf Al-Aqidi,Saudi Arabia,AFC,Goalkeeper,Al-Nassr,Saudi Arabia,2000-05-10,Riyadh,Saudi Arabia,24.65,46.71,24,0,false,true
+Ali Majrashi,Saudi Arabia,AFC,Defender,Al-Ahli,Saudi Arabia,1999-10-02,Saudi Arabia,Saudi Arabia,23.716667,44.116667,21,0,false,true
+Ali Lajami,Saudi Arabia,AFC,Defender,Al-Hilal,Saudi Arabia,1996-04-24,Qatif governorate,Saudi Arabia,26.568483,50.008851,24,1,false,true
+Abdulelah Al-Amri,Saudi Arabia,AFC,Defender,Al-Nassr,Saudi Arabia,1997-01-15,Ta'if,Saudi Arabia,21.266666666667,40.416666666667,44,1,false,true
+Hassan Al-Tambakti,Saudi Arabia,AFC,Defender,Al-Hilal,Saudi Arabia,1999-02-09,Riyadh,Saudi Arabia,24.65,46.71,54,1,false,true
+Nasser Al-Dawsari,Saudi Arabia,AFC,Midfielder,Al-Hilal,Saudi Arabia,1998-12-19,Saudi Arabia,Saudi Arabia,23.716667,44.116667,47,1,false,true
+Musab Al-Juwayr,Saudi Arabia,AFC,Midfielder,Al-Qadsiah,Saudi Arabia,2003-06-20,Riyadh,Saudi Arabia,24.65,46.71,37,6,false,true
+Ayman Yahya,Saudi Arabia,AFC,Forward,Al-Nassr,Saudi Arabia,2001-05-14,Riyadh,Saudi Arabia,24.65,46.71,26,0,false,true
+Firas Al-Buraikan,Saudi Arabia,AFC,Forward,Al-Ahli,Saudi Arabia,2000-05-14,Riyadh,Saudi Arabia,24.65,46.71,72,16,false,true
+Salem Al-Dawsari,Saudi Arabia,AFC,Forward,Al-Hilal,Saudi Arabia,1991-08-19,Riyadh,Saudi Arabia,24.65,46.71,111,27,false,true
+Saleh Al-Shehri,Saudi Arabia,AFC,Forward,Al-Ittihad,Saudi Arabia,1993-11-01,Jeddah,Saudi Arabia,21.542777777778,39.172777777778,59,17,false,true
+Saud Abdulhamid,Saudi Arabia,AFC,Defender,Lens,France,1999-07-18,Jeddah,Saudi Arabia,21.542777777778,39.172777777778,55,1,false,true
+Nawaf Boushal,Saudi Arabia,AFC,Defender,Al-Nassr,Saudi Arabia,1999-09-16,Qatif,Saudi Arabia,26.575152679065386,49.996856667284334,27,0,false,true
+Hassan Kadesh,Saudi Arabia,AFC,Defender,Al-Ittihad,Saudi Arabia,1992-09-26,Saudi Arabia,Saudi Arabia,23.716667,44.116667,21,2,false,true
+Abdullah Al-Khaibari,Saudi Arabia,AFC,Midfielder,Al-Nassr,Saudi Arabia,1996-08-16,Saudi Arabia,Saudi Arabia,23.716667,44.116667,42,0,false,true
+Ziyad Al-Johani,Saudi Arabia,AFC,Midfielder,Al-Ahli,Saudi Arabia,2001-11-11,Jeddah,Saudi Arabia,21.542777777778,39.172777777778,12,0,false,true
+Khalid Al-Ghannam,Saudi Arabia,AFC,Forward,Al-Ettifaq,Saudi Arabia,2000-11-08,Khobar,Saudi Arabia,26.3,50.216666666667,7,0,false,true
+Alaa Al-Hejji,Saudi Arabia,AFC,Midfielder,Neom,Saudi Arabia,1995-12-03,Sakakah,Saudi Arabia,29.96972222222222,40.2,3,0,false,true
+Abdullah Al-Hamdan,Saudi Arabia,AFC,Forward,Al-Nassr,Saudi Arabia,1999-09-13,Riyadh,Saudi Arabia,24.65,46.71,52,13,false,true
+Sultan Mandash,Saudi Arabia,AFC,Forward,Al-Hilal,Saudi Arabia,1994-10-17,Jeddah,Saudi Arabia,21.542777777778,39.172777777778,7,2,false,true
+Mohammed Al-Owais,Saudi Arabia,AFC,Goalkeeper,Al-Ula,Saudi Arabia,1991-10-10,Al-Ahsa Oasis,Saudi Arabia,25.429444,49.621944,65,0,false,true
+Ahmed Al-Kassar,Saudi Arabia,AFC,Goalkeeper,Al-Qadsiah,Saudi Arabia,1991-05-08,Qatif governorate,Saudi Arabia,26.568483,50.008851,9,0,false,true
+Mohamed Kanno,Saudi Arabia,AFC,Midfielder,Al-Hilal,Saudi Arabia,1994-09-22,Saudi Arabia,Saudi Arabia,23.716667,44.116667,79,8,false,true
+Moteb Al-Harbi,Saudi Arabia,AFC,Defender,Al-Hilal,Saudi Arabia,2000-02-20,Saudi Arabia,Saudi Arabia,23.716667,44.116667,13,0,false,true
+Jehad Thakri,Saudi Arabia,AFC,Defender,Al-Qadsiah,Saudi Arabia,2001-07-21,Khobar,Saudi Arabia,26.3,50.216666666667,8,0,false,true
+Mohammed Abu Al-Shamat,Saudi Arabia,AFC,Defender,Al-Qadsiah,Saudi Arabia,2002-08-11,Jeddah,Saudi Arabia,21.542777777778,39.172777777778,8,0,false,true
+David Raya,Spain,UEFA,Goalkeeper,Arsenal,England,1995-09-15,Barcelona,Spain,41.3825,2.1769444444444,13,0,false,true
+Marc Pubill,Spain,UEFA,Defender,Atlético Madrid,Spain,2003-06-20,Terrassa,Spain,41.561111111111,2.0080555555556,2,0,false,true
+Álex Grimaldo,Spain,UEFA,Defender,Bayer Leverkusen,Germany,1995-09-20,Valencia,Spain,39.47,-0.3763888888888889,14,0,false,true
+Eric García,Spain,UEFA,Defender,Barcelona,Spain,2001-01-09,Martorell,Spain,41.47402,1.93062,21,0,false,true
+Marcos Llorente,Spain,UEFA,Defender,Atlético Madrid,Spain,1995-01-30,Barcelona,Spain,41.3825,2.1769444444444,24,0,false,true
+Mikel Merino,Spain,UEFA,Midfielder,Arsenal,England,1996-06-22,Pamplona,Spain,42.816666666667,-1.65,43,10,false,true
+Ferran Torres,Spain,UEFA,Forward,Barcelona,Spain,2000-02-29,Foios,Spain,39.538611111111,-0.35666666666667,57,24,false,true
+Fabián Ruiz,Spain,UEFA,Midfielder,Paris Saint-Germain,France,1996-04-03,Los Palacios y Villafranca,Spain,37.16,-5.9236111111111,42,6,false,true
+Gavi,Spain,UEFA,Midfielder,Barcelona,Spain,2004-08-05,Los Palacios y Villafranca,Spain,37.16,-5.9236111111111,30,5,false,true
+Dani Olmo,Spain,UEFA,Forward,Barcelona,Spain,1998-05-07,Terrassa,Spain,41.561111111111,2.0080555555556,50,12,false,true
+Yéremy Pino,Spain,UEFA,Forward,Crystal Palace,England,2002-10-20,Las Palmas de Gran Canaria,Spain,28.127222222222,-15.431388888889,23,4,false,true
+Pedro Porro,Spain,UEFA,Defender,Tottenham Hotspur,England,1999-09-13,Don Benito,Spain,38.95,-5.85,18,0,false,true
+Joan Garcia,Spain,UEFA,Goalkeeper,Barcelona,Spain,2001-05-04,Sallent de Llobregat,Spain,41.8259065,1.8948758,2,0,false,true
+Aymeric Laporte,Spain,UEFA,Defender,Athletic Bilbao,Spain,1994-05-27,Agen,France,44.203055555556,0.61861111111111,46,2,true,true
+Álex Baena,Spain,UEFA,Midfielder,Atlético Madrid,Spain,2001-07-20,Roquetas de Mar,Spain,36.781388888889,-2.6147222222222,17,2,false,true
+Rodri,Spain,UEFA,Midfielder,Manchester City,England,1996-06-22,Madrid,Spain,40.41694444444445,-3.703333333333333,62,4,false,true
+Nico Williams,Spain,UEFA,Forward,Athletic Bilbao,Spain,2002-07-12,Pamplona,Spain,42.816666666667,-1.65,30,6,false,true
+Martín Zubimendi,Spain,UEFA,Midfielder,Arsenal,England,1999-02-02,San Sebastián,Spain,43.32,-1.98,26,3,false,true
+Lamine Yamal,Spain,UEFA,Forward,Barcelona,Spain,2007-07-13,Esplugues de Llobregat,Spain,41.376666666667,2.0858333333333,25,6,false,true
+Pedri,Spain,UEFA,Midfielder,Barcelona,Spain,2002-11-25,Tegueste,Spain,28.5232609,-16.3407638,41,6,false,true
+Mikel Oyarzabal,Spain,UEFA,Forward,Real Sociedad,Spain,1997-04-21,Eibar,Spain,43.1842839,-2.4732748,53,25,false,true
+Pau Cubarsí,Spain,UEFA,Defender,Barcelona,Spain,2007-01-22,Estanyol,Spain,41.9411416667,2.74058055556,12,0,false,true
+Unai Simón,Spain,UEFA,Goalkeeper,Athletic Bilbao,Spain,1997-06-11,Vitoria-Gasteiz,Spain,42.846666666667,-2.6730555555556,58,0,false,true
+Marc Cucurella,Spain,UEFA,Defender,Chelsea,England,1998-07-22,Alella,Spain,41.49527777777778,2.2958333333333334,24,1,false,true
+Víctor Muñoz,Spain,UEFA,Forward,Osasuna,Spain,2003-07-13,Barcelona,Spain,41.3825,2.1769444444444,2,1,false,true
+Borja Iglesias,Spain,UEFA,Forward,Celta Vigo,Spain,1993-01-17,Santiago de Compostela,Spain,42.883333333333,-8.5333333333333,8,0,false,true
+Sergio Rochet,Uruguay,CONMEBOL,Goalkeeper,Internacional,Brazil,1993-03-23,Nueva Palmira,Uruguay,-33.86999,-58.40796,35,0,false,true
+José María Giménez,Uruguay,CONMEBOL,Defender,Atlético Madrid,Spain,1995-01-20,Canelones,Uruguay,-34.52426388888889,-56.281752777777776,99,8,false,true
+Sebastián Cáceres,Uruguay,CONMEBOL,Defender,América,Mexico,1999-08-18,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,24,0,false,true
+Ronald Araújo,Uruguay,CONMEBOL,Defender,Barcelona,Spain,1999-03-07,Rivera,Uruguay,-30.90008611111111,-55.540816666666665,27,1,false,true
+Manuel Ugarte,Uruguay,CONMEBOL,Midfielder,Manchester United,England,2001-04-11,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,36,1,false,true
+Rodrigo Bentancur,Uruguay,CONMEBOL,Midfielder,Tottenham Hotspur,England,1997-06-25,Colonia del Sacramento,Uruguay,-34.46988611111111,-57.84336944444444,74,3,false,true
+Nicolás de la Cruz,Uruguay,CONMEBOL,Midfielder,Flamengo,Brazil,1997-06-01,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,34,5,false,true
+Federico Valverde,Uruguay,CONMEBOL,Midfielder,Real Madrid,Spain,1998-07-22,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,73,9,false,true
+Darwin Núñez,Uruguay,CONMEBOL,Forward,Al-Hilal,Saudi Arabia,1999-06-24,Artigas,Uruguay,-30.398441666666667,-56.46380833333333,38,13,false,true
+Giorgian de Arrascaeta,Uruguay,CONMEBOL,Midfielder,Flamengo,Brazil,1994-06-01,Nuevo Berlín,Uruguay,-32.979166666667,-58.052777777778,60,13,false,true
+Facundo Pellistri,Uruguay,CONMEBOL,Forward,Panathinaikos,Greece,2001-12-20,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,39,2,false,true
+Santiago Mele,Uruguay,CONMEBOL,Goalkeeper,Monterrey,Mexico,1997-09-06,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,8,0,false,true
+Guillermo Varela,Uruguay,CONMEBOL,Defender,Flamengo,Brazil,1993-03-24,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,28,0,false,true
+Agustín Canobbio,Uruguay,CONMEBOL,Midfielder,Fluminense,Brazil,1998-10-01,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,15,1,false,true
+Emiliano Martínez,Uruguay,CONMEBOL,Midfielder,Palmeiras,Brazil,1999-08-17,Punta del Este,Uruguay,-34.95573853238412,-54.93811503010452,10,0,false,true
+Mathías Olivera,Uruguay,CONMEBOL,Defender,Napoli,Italy,1997-10-31,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,35,2,false,true
+Matías Viña,Uruguay,CONMEBOL,Defender,River Plate,Argentina,1997-11-09,Empalme Olmos,Uruguay,-34.695833333333,-55.893611111111,43,1,false,true
+Brian Rodríguez,Uruguay,CONMEBOL,Forward,América,Mexico,2000-05-20,Tranqueras,Uruguay,-31.183333333333,-55.766666666667,32,4,false,true
+Rodrigo Aguirre,Uruguay,CONMEBOL,Forward,Tigres UANL,Mexico,1994-10-01,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,10,3,false,true
+Maximiliano Araújo,Uruguay,CONMEBOL,Midfielder,Sporting CP,Portugal,2000-02-15,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,28,3,false,true
+Federico Viñas,Uruguay,CONMEBOL,Forward,Oviedo,Spain,1998-06-30,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,11,2,false,true
+Joaquín Piquerez,Uruguay,CONMEBOL,Midfielder,Palmeiras,Brazil,1998-08-24,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,19,0,false,true
+Fernando Muslera,Uruguay,CONMEBOL,Goalkeeper,Estudiantes,Argentina,1986-06-16,Buenos Aires,Argentina,-34.599722222222,-58.381944444444,134,0,true,true
+Santiago Bueno,Uruguay,CONMEBOL,Defender,Wolverhampton Wanderers,England,1998-11-09,Montevideo,Uruguay,-34.90591666666667,-56.19131111111111,8,0,false,true
+Juan Manuel Sanabria,Uruguay,CONMEBOL,Midfielder,Real Salt Lake,United States,2000-03-29,Florida,United States,28.133333333333,-81.631666666667,5,1,true,true
+Rodrigo Zalazar,Uruguay,CONMEBOL,Midfielder,Braga,Portugal,1999-08-12,Albacete,Spain,38.995555555556,-1.8558333333333,8,2,true,true
+Brice Samba,France,UEFA,Goalkeeper,Rennes,France,1994-04-25,Linzolo,Republic of the Congo,-4.413611111111111,15.106944444444444,4,0,true,true
+Malo Gusto,France,UEFA,Defender,Chelsea,England,2003-05-19,Décines-Charpieu,France,45.768611111111,4.9588888888889,11,0,false,true
+Lucas Digne,France,UEFA,Defender,Aston Villa,England,1993-07-20,Meaux,France,48.959444444444,2.8877777777778,58,0,false,true
+Dayot Upamecano,France,UEFA,Defender,Bayern Munich,Germany,1998-10-27,Évreux,France,49.023333333333,1.1525,38,2,false,true
+Jules Koundé,France,UEFA,Defender,Barcelona,Spain,1998-11-12,14th arrondissement of Paris,France,48.833022222222,2.3268888888889,48,0,false,true
+Manu Koné,France,UEFA,Midfielder,Roma,Italy,2001-05-17,Colombes,France,48.923611111111,2.2522222222222,14,0,false,true
+Ousmane Dembélé,France,UEFA,Forward,Paris Saint-Germain,France,1997-05-15,Vernon,France,49.091666666667,1.485,59,7,false,true
+Aurélien Tchouaméni,France,UEFA,Midfielder,Real Madrid,Spain,2000-01-27,Rouen,France,49.443055555556,1.1025,46,3,false,true
+Marcus Thuram,France,UEFA,Forward,Inter Milan,Italy,1997-08-06,Parma,Italy,44.801472222222,10.328,34,3,true,true
+Kylian Mbappé,France,UEFA,Forward,Real Madrid,Spain,1998-12-20,Paris,France,48.85666666666667,2.352222222222222,98,56,false,true
+Michael Olise,France,UEFA,Forward,Bayern Munich,Germany,2001-12-12,London,Roman Empire,51.507222222222,-0.1275,17,7,false,true
+Bradley Barcola,France,UEFA,Forward,Paris Saint-Germain,France,2002-09-02,Villeurbanne,France,45.766111111111,4.8794444444444,20,3,false,true
+N'Golo Kanté,France,UEFA,Midfielder,Fenerbahçe,Turkey,1991-03-29,Paris,France,48.85666666666667,2.352222222222222,69,2,false,true
+Adrien Rabiot,France,UEFA,Midfielder,Milan,Italy,1995-04-03,Saint-Maurice,France,48.818333333333,2.4347222222222,59,7,false,true
+Ibrahima Konaté,France,UEFA,Defender,Liverpool,England,1999-05-25,Paris,France,48.85666666666667,2.352222222222222,28,0,false,true
+Mike Maignan,France,UEFA,Goalkeeper,Milan,Italy,1995-07-03,Cayenne,France,4.9386111111111,-52.335,40,0,false,true
+William Saliba,France,UEFA,Defender,Arsenal,England,2001-03-24,Bondy,France,48.902777777778,2.4836111111111,32,0,false,true
+Warren Zaïre-Emery,France,UEFA,Midfielder,Paris Saint-Germain,France,2006-03-08,Montreuil,France,48.860277777778,2.4430555555556,11,1,false,true
+Théo Hernandez,France,UEFA,Defender,Al-Hilal,Saudi Arabia,1997-10-06,Marseille,France,43.296666666667,5.3763888888889,44,2,false,true
+Désiré Doué,France,UEFA,Forward,Paris Saint-Germain,France,2005-06-03,Angers,France,47.472777777778,-0.55555555555556,7,2,false,true
+Lucas Hernandez,France,UEFA,Defender,Paris Saint-Germain,France,1996-02-14,Marseille,France,43.296666666667,5.3763888888889,42,0,false,true
+Jean-Philippe Mateta,France,UEFA,Forward,Crystal Palace,England,1997-06-28,Sevran,France,48.941388888889,2.5227777777778,4,2,false,true
+Robin Risser,France,UEFA,Goalkeeper,Lens,France,2004-12-02,Colmar,France,48.081111111111,7.355,0,0,false,true
+Rayan Cherki,France,UEFA,Midfielder,Manchester City,England,2003-08-17,Lyon,France,45.7675,4.835,7,2,false,true
+Maghnes Akliouche,France,UEFA,Midfielder,Monaco,France,2002-02-25,Tremblay-en-France,France,48.956111111111,2.5763888888889,9,1,false,true
+Maxence Lacroix,France,UEFA,Defender,Crystal Palace,England,2000-04-06,Villeneuve-Saint-Georges,France,48.7325,2.4497222222222,4,0,false,true
+Fahad Talib,Iraq,AFC,Goalkeeper,Al-Talaba,Iraq,1994-10-21,Baghdad,Iraq,33.31527777777778,44.36611111111111,21,0,false,true
+Rebin Sulaka,Iraq,AFC,Defender,Port,Thailand,1992-04-12,Ankawa,Iraq,36.229166666667,43.993611111111,56,1,false,true
+Hussein Ali,Iraq,AFC,Defender,Pogoń Szczecin,Poland,2002-03-01,Malmö,Sweden,55.583333333333336,13.0,27,1,true,true
+Zaid Tahseen,Iraq,AFC,Defender,Pakhtakor,Uzbekistan,2001-01-29,Najaf,Iraq,32.028951,44.339621,28,1,false,true
+Akam Hashim,Iraq,AFC,Defender,Al-Zawraa,Iraq,1998-08-16,Erbil,Iraq,36.191111111111,44.009444444444,14,1,false,true
+Manaf Younis,Iraq,AFC,Defender,Al-Shorta,Iraq,1996-11-16,Tikrit,Iraq,34.6,43.683333333333,34,1,false,true
+Youssef Amyn,Iraq,AFC,Midfielder,AEK Larnaca,Cyprus,2003-08-21,Essen,Germany,51.450833333333,7.0130555555556,27,2,true,true
+Ibrahim Bayesh,Iraq,AFC,Midfielder,Al Dhafra,United Arab Emirates,2000-05-01,Iraq,Iraq,33.0,43.0,76,8,false,true
+Ali Al-Hamadi,Iraq,AFC,Forward,Luton Town,England,2002-03-01,Maysan Governorate,Iraq,31.9,47.033333333333,20,5,false,true
+Mohanad Ali,Iraq,AFC,Forward,Dibba,United Arab Emirates,2000-06-20,Baghdad,Iraq,33.31527777777778,44.36611111111111,72,27,false,true
+Ahmed Qasem,Iraq,AFC,Forward,Nashville SC,United States,2003-07-12,Sweden,"",61.0,15.0,3,0,false,false
+Jalal Hassan,Iraq,AFC,Goalkeeper,Al-Zawraa,Iraq,1991-05-18,Al Diwaniyah,Iraq,31.989166666667,44.924722222222,102,0,false,true
+Ali Yousif,Iraq,AFC,Forward,Al-Talaba,Iraq,1996-01-19,Iraq,Iraq,33.0,43.0,7,1,false,true
+Zidane Iqbal,Iraq,AFC,Midfielder,Utrecht,Netherlands,2003-04-27,Manchester,United Kingdom,53.466666666667,-2.2333333333333,25,2,true,true
+Ahmed Maknzi,Iraq,AFC,Defender,Al-Karma,Iraq,2001-09-24,Baghdad,Iraq,33.31527777777778,44.36611111111111,7,0,false,true
+Amir Al-Ammari,Iraq,AFC,Midfielder,Cracovia,Poland,1997-07-27,Jönköping,Sweden,57.783333333333,14.166666666667,51,3,true,true
+Ali Jasim,Iraq,AFC,Forward,Al-Najma,Saudi Arabia,2004-01-20,Baghdad,Iraq,33.31527777777778,44.36611111111111,36,2,false,true
+Aymen Hussein,Iraq,AFC,Forward,Al-Karma,Iraq,1996-03-22,Hawija,Iraq,35.323249,43.7739944,95,33,false,true
+Kevin Yakob,Iraq,AFC,Midfielder,AGF,Denmark,2000-10-10,Gothenburg,Sweden,57.7075,11.9675,9,0,true,true
+Aimar Sher,Iraq,AFC,Midfielder,Sarpsborg 08,Norway,2002-12-20,Iraq,Iraq,33.0,43.0,7,0,false,true
+Marko Farji,Iraq,AFC,Forward,Venezia,Italy,2004-03-16,Grimstad,Norway,58.351944444444,8.5444444444444,12,0,true,true
+Ahmed Basil,Iraq,AFC,Goalkeeper,Al-Shorta,Iraq,1996-08-19,Baghdad,Iraq,33.31527777777778,44.36611111111111,16,0,false,true
+Merchas Doski,Iraq,AFC,Defender,Viktoria Plzeň,Czech Republic,1999-12-07,Hanover,Germany,52.374444444444,9.7386111111111,31,1,true,true
+Zaid Ismail,Iraq,AFC,Midfielder,Al-Talaba,Iraq,2002-01-03,Diyala Governorate,Iraq,33.883333333333,45.066666666667,6,0,false,true
+Mustafa Saadoon,Iraq,AFC,Defender,Al-Shorta,Iraq,2001-05-25,Iraq,Iraq,33.0,43.0,17,0,false,true
+Frans Putros,Iraq,AFC,Defender,Persib,Indonesia,1993-07-14,Aarhus,Denmark,56.156388888889,10.209722222222,28,0,true,true
+Ørjan Nyland,Norway,UEFA,Goalkeeper,Sevilla,Spain,1990-09-10,Volda Municipality,Norway,62.14678,6.068,71,0,false,true
+Morten Thorsby,Norway,UEFA,Midfielder,Cremonese,Italy,1996-05-05,Oslo,Norway,59.913333333333334,10.738888888888889,31,0,false,true
+Kristoffer Ajer,Norway,UEFA,Defender,Brentford,England,1998-04-17,Rælingen,Norway,59.889166666667,11.075277777778,52,2,false,true
+Leo Østigård,Norway,UEFA,Defender,Genoa,Italy,1999-11-28,Molde Municipality,Norway,62.733333,7.183333,38,1,false,true
+David Møller Wolfe,Norway,UEFA,Defender,Wolverhampton Wanderers,England,2002-04-23,Bergen,Norway,60.3925,5.3233333333333,22,1,false,true
+Patrick Berg,Norway,UEFA,Midfielder,Bodø/Glimt,Norway,1997-11-24,Bodø,Norway,67.28267,14.37513,43,0,false,true
+Alexander Sørloth,Norway,UEFA,Forward,Atlético Madrid,Spain,1995-12-05,Trondheim,Norway,63.44,10.4,72,26,false,true
+Sander Berge,Norway,UEFA,Midfielder,Fulham,England,1998-02-14,Bærum Municipality,Norway,59.8904,10.526,66,1,false,true
+Erling Haaland,Norway,UEFA,Forward,Manchester City,England,2000-07-21,Leeds,United Kingdom,53.7975,-1.5436111111111113,50,55,true,true
+Martin Ødegaard,Norway,UEFA,Midfielder,Arsenal,England,1998-12-17,Drammen,Norway,59.74536111111111,10.205969444444445,68,5,false,true
+Jørgen Strand Larsen,Norway,UEFA,Forward,Crystal Palace,England,2000-02-06,Halden,Norway,59.126389,11.482778,28,6,false,true
+Sander Tangvik,Norway,UEFA,Goalkeeper,Hamburger SV,Germany,2002-11-29,Trondheim,Norway,63.44,10.4,0,0,false,true
+Egil Selvik,Norway,UEFA,Goalkeeper,Watford,England,1997-07-30,Sandnes Municipality,Norway,58.845,5.829444,7,0,false,true
+Fredrik Aursnes,Norway,UEFA,Midfielder,Benfica,Portugal,1995-12-10,Hareid,Norway,62.364166666667,6.0013888888889,22,1,false,true
+Fredrik André Bjørkan,Norway,UEFA,Defender,Bodø/Glimt,Norway,1998-08-21,Bodø Municipality,Norway,67.28305555555555,14.383055555555556,21,1,false,true
+Marcus Holmgren Pedersen,Norway,UEFA,Defender,Torino,Italy,2000-07-16,Hammerfest,Norway,70.66336,23.68209,32,0,false,true
+Torbjørn Heggem,Norway,UEFA,Defender,Bologna,Italy,1999-01-12,Trondheim,Norway,63.44,10.4,15,0,false,true
+Kristian Thorstvedt,Norway,UEFA,Midfielder,Sassuolo,Italy,1999-03-13,Stavanger,Norway,58.97,5.731388888888889,37,4,false,true
+Thelo Aasgaard,Norway,UEFA,Midfielder,Rangers,Scotland,2002-05-02,Liverpool,United Kingdom,53.407222222222224,-2.9916666666666667,8,5,true,true
+Antonio Nusa,Norway,UEFA,Midfielder,RB Leipzig,Germany,2005-04-17,Langhus,Norway,59.75,10.833333333333,24,8,false,true
+Andreas Schjelderup,Norway,UEFA,Midfielder,Benfica,Portugal,2004-06-01,Bodø Municipality,Norway,67.28305555555555,14.383055555555556,12,1,false,true
+Oscar Bobb,Norway,UEFA,Midfielder,Fulham,England,2003-07-12,Oslo,Norway,59.913333333333334,10.738888888888889,20,2,false,true
+Jens Petter Hauge,Norway,UEFA,Midfielder,Bodø/Glimt,Norway,1999-10-12,Bodø,Norway,67.28267,14.37513,15,1,false,true
+Sondre Langås,Norway,UEFA,Defender,Derby County,England,2001-02-02,Namsos,Norway,64.467,11.494,3,0,false,true
+Henrik Falchener,Norway,UEFA,Defender,Viking,Norway,2003-05-08,Tønsberg,Norway,59.29805555555556,10.42361111111111,1,0,false,true
+Julian Ryerson,Norway,UEFA,Defender,Borussia Dortmund,Germany,1997-11-17,Flekkefjord Municipality,Norway,58.327222222222,6.6666666666667,43,1,false,true
+Yehvann Diouf,Senegal,CAF,Goalkeeper,Nice,France,1999-11-16,Montreuil,France,48.860277777778,2.4430555555556,2,0,true,true
+Mamadou Sarr,Senegal,CAF,Defender,Chelsea,England,2005-08-29,Martigues,France,43.405277777778,5.0475,8,0,true,true
+Kalidou Koulibaly,Senegal,CAF,Defender,Al-Hilal,Saudi Arabia,1991-06-20,Saint-Dié-des-Vosges,France,48.284166666667,6.9491666666667,104,2,true,true
+Abdoulaye Seck,Senegal,CAF,Defender,Maccabi Haifa,Israel,1992-06-04,M'Bour,Senegal,14.410444444444444,-16.964944444444445,25,4,false,true
+Idrissa Gueye,Senegal,CAF,Midfielder,Everton,England,1989-09-26,Dakar,Senegal,14.672555555555556,-17.432,132,7,false,true
+Pathé Ciss,Senegal,CAF,Midfielder,Rayo Vallecano,Spain,1994-03-16,Dakar,Senegal,14.672555555555556,-17.432,30,0,false,true
+Assane Diao,Senegal,CAF,Forward,Como,Italy,2005-09-07,Ndangane,Senegal,14.074722222222222,-16.6925,5,0,false,true
+Lamine Camara,Senegal,CAF,Midfielder,Monaco,France,2004-01-01,Diouloulou,Senegal,13.048388888888889,-16.597361111111113,45,7,false,true
+Bamba Dieng,Senegal,CAF,Forward,Lorient,France,2000-03-23,Pikine,Senegal,14.744,-17.402055555555556,23,2,false,true
+Sadio Mané,Senegal,CAF,Forward,Al-Nassr,Saudi Arabia,1992-04-10,Bambali,Senegal,12.604166666666666,-15.661388888888888,128,55,false,true
+Nicolas Jackson,Senegal,CAF,Forward,Bayern Munich,Germany,2001-06-20,Senegal,Senegal,14.366667,-14.283333,33,8,false,true
+Cherif Ndiaye,Senegal,CAF,Forward,Samsunspor,Turkey,1996-01-23,Dakar,Senegal,14.672555555555556,-17.432,19,4,false,true
+Iliman Ndiaye,Senegal,CAF,Forward,Everton,England,2000-03-06,Rouen,France,49.443055555556,1.1025,41,4,true,true
+Ismail Jakobs,Senegal,CAF,Defender,Galatasaray,Turkey,1999-08-17,Cologne,Germany,50.942222222222,6.9577777777778,31,0,true,true
+Krépin Diatta,Senegal,CAF,Defender,Monaco,France,1999-02-25,Dakar,Senegal,14.672555555555556,-17.432,61,2,false,true
+Édouard Mendy,Senegal,CAF,Goalkeeper,Al-Ahli,Saudi Arabia,1992-03-01,Montivilliers,France,49.546111111111,0.18805555555556,58,0,true,true
+Pape Matar Sarr,Senegal,CAF,Midfielder,Tottenham Hotspur,England,2002-09-14,Thiaroye,Senegal,14.733333333333,-17.35,40,4,false,true
+Ismaïla Sarr,Senegal,CAF,Forward,Crystal Palace,England,1998-02-25,Saint-Louis,Senegal,16.033333333333,-16.5,84,19,false,true
+Moussa Niakhaté,Senegal,CAF,Defender,Lyon,France,1996-03-08,Roubaix,France,50.69,3.1816666666667,32,0,true,true
+Ibrahim Mbaye,Senegal,CAF,Forward,Paris Saint-Germain,France,2008-01-24,Trappes,France,48.776666666667,2.0016666666667,11,3,true,true
+Habib Diarra,Senegal,CAF,Midfielder,Sunderland,England,2004-01-03,Guédiawaye,Senegal,14.772361111111111,-17.388444444444445,21,4,false,true
+Bara Sapoko Ndiaye,Senegal,CAF,Midfielder,Bayern Munich,Germany,2007-12-31,Meckhe,Senegal,15.113527777777778,-16.631611111111113,1,0,false,true
+Mory Diaw,Senegal,CAF,Goalkeeper,Le Havre,France,1993-06-22,Poissy,France,48.928888888889,2.0447222222222,5,0,true,true
+Antoine Mendy,Senegal,CAF,Defender,Nice,France,2004-05-27,Marseille,France,43.296666666667,5.3763888888889,7,0,true,true
+El Hadji Malick Diouf,Senegal,CAF,Defender,West Ham United,England,2004-12-29,Ziguinchor,Senegal,12.58611111111111,-16.27075,20,1,false,true
+Pape Gueye,Senegal,CAF,Midfielder,Villarreal,Spain,1999-01-24,Montreuil,France,48.860277777778,2.4430555555556,42,5,true,true
+Melvin Mastil,Algeria,CAF,Goalkeeper,Stade Nyonnais,Switzerland,2000-02-19,Thonon-les-Bains,France,46.370555555556,6.4797222222222,2,0,true,true
+Aïssa Mandi,Algeria,CAF,Defender,Lille,France,1991-10-22,Châlons-en-Champagne,France,48.956666666667,4.3644444444444,119,8,true,true
+Achref Abada,Algeria,CAF,Defender,USM Alger,Algeria,1999-06-15,Tebesbest,Algeria,33.1200129,6.0800743,9,1,false,true
+Mohamed Amine Tougai,Algeria,CAF,Defender,Espérance de Tunis,Tunisia,2000-01-22,Bourouba,Algeria,36.714722222222,3.1063888888889,30,2,false,true
+Zineddine Belaïd,Algeria,CAF,Defender,JS Kabylie,Algeria,1999-03-20,Thénia,Algeria,36.727777777778,3.5538888888889,18,1,false,true
+Ramiz Zerrouki,Algeria,CAF,Midfielder,Twente,Netherlands,1998-05-26,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,53,3,true,true
+Riyad Mahrez,Algeria,CAF,Forward,Al-Ahli,Saudi Arabia,1991-02-21,Clichy,France,48.903611111111,2.3055555555556,116,38,true,true
+Houssem Aouar,Algeria,CAF,Midfielder,Al-Ittihad,Saudi Arabia,1998-06-30,Lyon,France,45.7675,4.835,22,6,true,true
+Amine Gouiri,Algeria,CAF,Forward,Marseille,France,2000-02-16,Bourgoin-Jallieu,France,45.590833333333,5.2791666666667,23,10,true,true
+Farès Chaïbi,Algeria,CAF,Midfielder,Eintracht Frankfurt,Germany,2002-11-28,3rd arrondissement of Lyon,France,45.7586,4.8558222222222,31,3,true,true
+Anis Hadj Moussa,Algeria,CAF,Forward,Feyenoord,Netherlands,2002-02-11,Paris,France,48.85666666666667,2.352222222222222,15,2,true,true
+Nadhir Benbouali,Algeria,CAF,Forward,Győri ETO,Hungary,2000-04-17,Chlef,Algeria,36.164722222222224,1.3316666666666666,4,1,false,true
+Jaouen Hadjam,Algeria,CAF,Defender,Young Boys,Switzerland,2003-03-26,Paris,France,48.85666666666667,2.352222222222222,18,3,true,true
+Hicham Boudaoui,Algeria,CAF,Midfielder,Nice,France,1999-09-23,Béchar,Algeria,31.61638888888889,-2.2183333333333333,34,0,false,true
+Rayan Aït-Nouri,Algeria,CAF,Defender,Manchester City,England,2001-06-06,Montreuil,France,48.860277777778,2.4430555555556,30,0,true,true
+Oussama Benbot,Algeria,CAF,Goalkeeper,USM Alger,Algeria,1994-10-11,Aïn M'lila,Algeria,36.036666666667,6.5719444444444,5,0,false,true
+Rafik Belghali,Algeria,CAF,Defender,Hellas Verona,Italy,2002-06-07,Leuven,Belgium,50.8775,4.704444,13,1,true,true
+Mohamed Amoura,Algeria,CAF,Forward,VfL Wolfsburg,Germany,2000-05-09,Taher,Algeria,36.7720039,5.8982105,47,19,false,true
+Nabil Bentaleb,Algeria,CAF,Midfielder,Lille,France,1994-11-24,Lille,France,50.631944444444,3.0575,60,6,true,true
+Adil Boulbina,Algeria,CAF,Forward,Al-Duhail,Qatar,2003-05-02,El Milia,Algeria,36.75138888888889,6.274444444444445,12,6,false,true
+Ramy Bensebaini,Algeria,CAF,Defender,Borussia Dortmund,Germany,1995-04-16,Constantine,Algeria,36.365,6.6147222222222,82,9,false,true
+Ibrahim Maza,Algeria,CAF,Midfielder,Bayer Leverkusen,Germany,2005-11-24,Berlin,Margraviate of Brandenburg,52.516666666667,13.383333333333,17,2,false,true
+Luca Zidane,Algeria,CAF,Goalkeeper,Granada,Spain,1998-05-13,Marseille,France,43.296666666667,5.3763888888889,7,0,true,true
+Yacine Titraoui,Algeria,CAF,Midfielder,Charleroi,Belgium,2003-07-26,Algeria,Algeria,28.0,1.0,5,0,false,true
+Farès Ghedjemis,Algeria,CAF,Forward,Frosinone,Italy,2002-09-06,Montreuil,France,48.860277777778,2.4430555555556,1,1,true,true
+Samir Chergui,Algeria,CAF,Defender,Paris FC,France,1999-02-06,Arpajon,France,48.590277777778,2.2477777777778,5,0,true,true
+Juan Musso,Argentina,CONMEBOL,Goalkeeper,Atlético Madrid,Spain,1994-05-06,San Nicolás de los Arroyos,Argentina,-33.333333333333,-60.216666666667,4,0,false,true
+Marcos Senesi,Argentina,CONMEBOL,Defender,Bournemouth,England,1997-05-10,Concordia,Argentina,-31.392222222222,-58.016944444444,3,0,false,true
+Nicolás Tagliafico,Argentina,CONMEBOL,Defender,Lyon,France,1992-08-31,Rafael Calzada,Argentina,-34.783333333333,-58.366666666667,76,1,false,true
+Gonzalo Montiel,Argentina,CONMEBOL,Defender,River Plate,Argentina,1997-01-01,Virrey del Pino,Argentina,-34.8447,-58.6517,39,2,false,true
+Leandro Paredes,Argentina,CONMEBOL,Midfielder,Boca Juniors,Argentina,1994-06-29,San Justo,Argentina,-34.683333333333,-58.55,77,5,false,true
+Lisandro Martínez,Argentina,CONMEBOL,Defender,Manchester United,England,1998-01-18,Gualeguay,Argentina,-33.15,-59.31666667,28,1,false,true
+Rodrigo De Paul,Argentina,CONMEBOL,Midfielder,Inter Miami CF,United States,1994-05-24,Sarandí,Argentina,-34.683333333333,-58.333333333333,87,2,false,true
+Valentín Barco,Argentina,CONMEBOL,Midfielder,Strasbourg,France,2004-07-23,Buenos Aires,Argentina,-34.599722222222,-58.381944444444,4,2,false,true
+Julián Alvarez,Argentina,CONMEBOL,Forward,Atlético Madrid,Spain,2000-01-31,Calchín,Argentina,-31.666666666667,-63.2,51,14,false,true
+Lionel Messi,Argentina,CONMEBOL,Forward,Inter Miami CF,United States,1987-06-24,Rosario,Argentina,-32.9575,-60.639444444444,199,117,false,true
+Giovani Lo Celso,Argentina,CONMEBOL,Midfielder,Real Betis,Spain,1996-04-09,Rosario,Argentina,-32.9575,-60.639444444444,67,4,false,true
+Gerónimo Rulli,Argentina,CONMEBOL,Goalkeeper,Marseille,France,1992-05-20,La Plata,Argentina,-34.933333333333,-57.95,8,0,false,true
+Cristian Romero,Argentina,CONMEBOL,Defender,Tottenham Hotspur,England,1998-04-27,Córdoba,Argentina,-31.416666666667,-64.183333333333,51,3,false,true
+Exequiel Palacios,Argentina,CONMEBOL,Midfielder,Bayer Leverkusen,Germany,1998-10-05,Famaillá,Argentina,-27.054259875254008,-65.40311125998453,40,0,false,true
+Nicolás González,Argentina,CONMEBOL,Midfielder,Atlético Madrid,Spain,1998-04-06,Belén de Escobar,Argentina,-34.346147946358336,-58.7960954512912,51,6,false,true
+Thiago Almada,Argentina,CONMEBOL,Forward,Atlético Madrid,Spain,2001-04-26,Fuerte Apache,Argentina,-34.620555555556,-58.539166666667,16,5,false,true
+Giuliano Simeone,Argentina,CONMEBOL,Forward,Atlético Madrid,Spain,2002-12-18,Rome,Italy,41.893055555556,12.482777777778,13,2,true,true
+Nico Paz,Argentina,CONMEBOL,Forward,Como,Italy,2004-09-08,Santa Cruz de Tenerife,Spain,28.466666666667,-16.25,9,1,true,true
+Nicolás Otamendi,Argentina,CONMEBOL,Defender,Benfica,Portugal,1988-02-12,Buenos Aires,Argentina,-34.599722222222,-58.381944444444,132,8,false,true
+Alexis Mac Allister,Argentina,CONMEBOL,Midfielder,Liverpool,England,1998-12-24,Santa Rosa,Argentina,-36.620277777778,-64.290555555556,46,6,false,true
+José Manuel López,Argentina,CONMEBOL,Forward,Palmeiras,Brazil,2000-12-06,San Lorenzo,Argentina,-32.75,-60.733333333333,5,0,false,true
+Lautaro Martínez,Argentina,CONMEBOL,Forward,Inter Milan,Italy,1997-08-22,Bahía Blanca,Argentina,-38.71824314043608,-62.26733891061577,77,37,false,true
+Emiliano Martínez,Argentina,CONMEBOL,Goalkeeper,Aston Villa,England,1992-09-02,Mar del Plata,Argentina,-38.0,-57.55,59,0,false,true
+Enzo Fernández,Argentina,CONMEBOL,Midfielder,Chelsea,England,2001-01-17,General San Martín,Argentina,-34.57717508296699,-58.53764177922065,42,6,false,true
+Facundo Medina,Argentina,CONMEBOL,Defender,Marseille,France,1999-05-28,Buenos Aires,Argentina,-34.599722222222,-58.381944444444,9,0,false,true
+Nahuel Molina,Argentina,CONMEBOL,Defender,Atlético Madrid,Spain,1998-04-06,Embalse,Argentina,-32.20452,-64.40048,58,1,false,true
+Alexander Schlager,Austria,UEFA,Goalkeeper,Red Bull Salzburg,Austria,1996-02-01,Salzburg,Austria,47.8,13.045,26,0,false,true
+David Affengruber,Austria,UEFA,Defender,Elche,Spain,2001-03-19,Scheibbs,Austria,48.0,15.166666666667,1,0,false,true
+Kevin Danso,Austria,UEFA,Defender,Tottenham Hotspur,England,1998-09-19,Voitsberg,Austria,47.048333333333,15.150277777778,32,0,false,true
+Xaver Schlager,Austria,UEFA,Midfielder,RB Leipzig,Germany,1997-09-28,Linz,Austria,48.30583333333333,14.286388888888888,51,4,false,true
+Stefan Posch,Austria,UEFA,Defender,Mainz 05,Germany,1997-05-14,Judenburg,Austria,47.1725,14.660277777778,52,5,false,true
+Nicolas Seiwald,Austria,UEFA,Midfielder,RB Leipzig,Germany,2001-05-04,Austria,Austria,48.0,14.0,47,1,false,true
+Marko Arnautović,Austria,UEFA,Forward,Red Star Belgrade,Serbia,1989-04-19,Vienna,Austria,48.208333333333336,16.3725,133,47,false,true
+David Alaba,Austria,UEFA,Defender,Real Madrid,Spain,1992-06-24,Vienna,Austria,48.208333333333336,16.3725,113,15,false,true
+Marcel Sabitzer,Austria,UEFA,Midfielder,Borussia Dortmund,Germany,1994-03-17,Wels,Austria,48.15,14.016666666667,98,26,false,true
+Florian Grillitsch,Austria,UEFA,Midfielder,Braga,Portugal,1995-08-07,Neunkirchen,Austria,47.726944444444,16.081666666667,58,1,false,true
+Michael Gregoritsch,Austria,UEFA,Forward,FC Augsburg,Germany,1994-04-18,Graz,Austria,47.07083333333333,15.438611111111111,75,24,false,true
+Florian Wiegele,Austria,UEFA,Goalkeeper,Viktoria Plzeň,Czech Republic,2001-03-21,Graz,Austria,47.07083333333333,15.438611111111111,1,0,false,true
+Patrick Pentz,Austria,UEFA,Goalkeeper,Brøndby,Denmark,1997-01-02,Salzburg,Austria,47.8,13.045,18,0,false,true
+Saša Kalajdžić,Austria,UEFA,Forward,LASK,Austria,1997-07-07,Horn,Austria,48.665277777778,15.655833333333,22,4,false,true
+Philipp Lienhart,Austria,UEFA,Defender,SC Freiburg,Germany,1996-07-11,Lilienfeld,Austria,48.016666666667,15.6,41,3,false,true
+Phillipp Mwene,Austria,UEFA,Defender,Mainz 05,Germany,1994-01-29,Vienna,Austria,48.208333333333336,16.3725,30,0,false,true
+Carney Chukwuemeka,Austria,UEFA,Midfielder,Borussia Dortmund,Germany,2003-10-20,Eisenstadt,Austria,47.845649,16.52327,3,1,false,true
+Romano Schmid,Austria,UEFA,Midfielder,Werder Bremen,Germany,2000-01-27,Graz,Austria,47.07083333333333,15.438611111111111,34,3,false,true
+Dejan Ljubičić,Austria,UEFA,Midfielder,Schalke 04,Germany,1997-10-08,Vienna,Austria,48.208333333333336,16.3725,9,1,false,true
+Konrad Laimer,Austria,UEFA,Midfielder,Bayern Munich,Germany,1997-05-27,Salzburg,Austria,47.8,13.045,57,7,false,true
+Patrick Wimmer,Austria,UEFA,Forward,VfL Wolfsburg,Germany,2001-05-30,Tulln an der Donau,Austria,48.333333333333,16.05,30,1,false,true
+Alexander Prass,Austria,UEFA,Midfielder,TSG Hoffenheim,Germany,2001-05-26,Hellmonsödt,Austria,48.4325,14.300277777778,19,0,false,true
+Marco Friedl,Austria,UEFA,Defender,Werder Bremen,Germany,1998-03-16,Kirchbichl,Austria,47.511111,12.086389,11,0,false,true
+Paul Wanner,Austria,UEFA,Midfielder,PSV Eindhoven,Netherlands,2005-12-23,Dornbirn,Austria,47.416666666667,9.75,3,0,false,true
+Michael Svoboda,Austria,UEFA,Defender,Venezia,Italy,1998-10-15,Vienna,Austria,48.208333333333336,16.3725,4,0,false,true
+Alessandro Schöpf,Austria,UEFA,Midfielder,Wolfsberger AC,Austria,1994-02-07,Umhausen,Austria,47.116666666667,10.916666666667,35,6,false,true
+Yazeed Abulaila,Jordan,AFC,Goalkeeper,Al-Hussein,Jordan,1993-01-08,Zarqa,Jordan,32.083333333333,36.1,76,0,false,true
+Mohammad Abu Hashish,Jordan,AFC,Defender,Al-Karma,Iraq,1995-05-09,Jordan,Jordan,31.2,36.5,56,1,false,true
+Abdallah Nasib,Jordan,AFC,Defender,Al-Zawraa,Iraq,1994-02-25,Aqaba,Jordan,29.532222222222224,35.00611111111111,65,3,false,true
+Husam Abu Dahab,Jordan,AFC,Defender,Al-Faisaly,Jordan,2000-05-13,Jordan,Jordan,31.2,36.5,18,0,false,true
+Yazan Al-Arab,Jordan,AFC,Defender,FC Seoul,South Korea,1996-01-31,Amman,Jordan,31.95,35.933333333333,80,3,false,true
+Amer Jamous,Jordan,AFC,Midfielder,Al-Zawraa,Iraq,2002-07-03,Jordan,Jordan,31.2,36.5,19,1,false,true
+Mohammad Abu Zrayq,Jordan,AFC,Forward,Raja Casablanca,Morocco,1997-12-30,Ar Ramtha,Jordan,32.559166666667,36.006944444444,41,5,false,true
+Noor Al-Rawabdeh,Jordan,AFC,Midfielder,Selangor,"",1997-02-24,Amman,Jordan,31.95,35.933333333333,68,3,false,true
+Ali Olwan,Jordan,AFC,Forward,Al-Sailiya,Qatar,2000-03-26,Amman,Jordan,31.95,35.933333333333,66,29,false,true
+Musa Al-Taamari,Jordan,AFC,Forward,Rennes,France,1997-06-10,Amman,Jordan,31.95,35.933333333333,92,24,false,true
+Odeh Al-Fakhouri,Jordan,AFC,Forward,Pyramids,Egypt,2005-11-22,Amman,Jordan,31.95,35.933333333333,10,1,false,true
+Nour Bani Attiah,Jordan,AFC,Goalkeeper,Al-Faisaly,Jordan,1993-01-25,Amman,Jordan,31.95,35.933333333333,5,0,false,true
+Mahmoud Al-Mardi,Jordan,AFC,Forward,Al-Hussein,Jordan,1993-10-06,Aqaba,Jordan,29.532222222222224,35.00611111111111,89,9,false,true
+Rajaei Ayed,Jordan,AFC,Midfielder,Al-Hussein,Jordan,1993-07-25,Amman,Jordan,31.95,35.933333333333,72,0,false,true
+Ibrahim Sadeh,Jordan,AFC,Midfielder,Al-Karma,Iraq,2000-04-27,Zarqa,Jordan,32.083333333333,36.1,57,3,false,true
+Mo Abualnadi,Jordan,AFC,Defender,Selangor,"",2001-02-08,Overland Park,United States,38.940072222222,-94.680697222222,18,0,true,true
+Salim Obaid,Jordan,AFC,Defender,Al-Hussein,Jordan,1992-01-17,Amman,Jordan,31.95,35.933333333333,11,0,false,true
+Mohammad Taha,Jordan,AFC,Midfielder,Al-Hussein,Jordan,2005-07-13,"","",,,2,0,false,false
+Saed Al-Rosan,Jordan,AFC,Defender,Al-Hussein,Jordan,1997-02-01,"","",,,21,2,false,false
+Mohannad Abu Taha,Jordan,AFC,Midfielder,Al-Quwa Al-Jawiya,Iraq,2003-02-02,Amman,Jordan,31.95,35.933333333333,29,1,false,true
+Nizar Al-Rashdan,Jordan,AFC,Midfielder,Qatar SC,Qatar,1999-03-23,Irbid,Jordan,32.555555555556,35.85,47,4,false,true
+Abdallah Al-Fakhouri,Jordan,AFC,Goalkeeper,Al-Wehdat,Jordan,2000-01-22,Russeifa,Jordan,32.017777777778,36.046388888889,11,0,false,true
+Ihsan Haddad,Jordan,AFC,Defender,Al-Hussein,Jordan,1994-02-05,Irbid,Jordan,32.555555555556,35.85,92,2,false,true
+Ali Azaizeh,Jordan,AFC,Forward,Al-Shabab,Saudi Arabia,2004-04-13,Germany,Germany,51.0,10.0,4,0,true,true
+Mohammad Al-Dawoud,Jordan,AFC,Midfielder,Al-Wehdat,Jordan,1992-04-12,Ar Ramtha,Jordan,32.559166666667,36.006944444444,13,1,false,true
+Anas Badawi,Jordan,AFC,Defender,Al-Faisaly,Jordan,1997-09-13,Amman,Jordan,31.95,35.933333333333,1,0,false,true
+David Ospina,Colombia,CONMEBOL,Goalkeeper,Atlético Nacional,Colombia,1988-08-31,Medellín,Colombia,6.250200154878975,-75.56758450069736,130,0,false,true
+Daniel Muñoz,Colombia,CONMEBOL,Defender,Crystal Palace,England,1996-05-26,Amalfi,Colombia,6.9091666666667,-75.076666666667,46,3,false,true
+Jhon Lucumí,Colombia,CONMEBOL,Defender,Bologna,Italy,1998-06-26,Cali,Colombia,3.44,-76.519722222222,37,1,false,true
+Santiago Arias,Colombia,CONMEBOL,Defender,Independiente,Argentina,1992-01-13,Medellín,Colombia,6.250200154878975,-75.56758450069736,68,0,false,true
+Kevin Castaño,Colombia,CONMEBOL,Midfielder,River Plate,Argentina,2000-09-29,Itagüí,Colombia,6.1726,-75.6096,25,0,false,true
+Richard Ríos,Colombia,CONMEBOL,Midfielder,Benfica,Portugal,2000-06-02,Vegachi,Colombia,6.7730555555556,-74.799444444444,32,2,false,true
+Luis Díaz,Colombia,CONMEBOL,Forward,Bayern Munich,Germany,1997-01-13,Barrancas,Colombia,10.955833333333,-72.791944444444,74,22,false,true
+Jorge Carrascal,Colombia,CONMEBOL,Midfielder,Flamengo,Brazil,1998-05-25,Cartagena,Colombia,10.423611111111,-75.525277777778,24,2,false,true
+Jhon Córdoba,Colombia,CONMEBOL,Forward,Krasnodar,Russia,1993-05-11,Istmina,Colombia,5.1633333333333,-76.686666666667,21,6,false,true
+James Rodríguez,Colombia,CONMEBOL,Midfielder,Minnesota United FC,United States,1991-07-12,Cúcuta,Colombia,7.9075,-72.504722222222,126,31,false,true
+Jhon Arias,Colombia,CONMEBOL,Midfielder,Palmeiras,Brazil,1997-09-21,Quibdó,Colombia,5.692277,-76.658192,38,6,false,true
+Camilo Vargas,Colombia,CONMEBOL,Goalkeeper,Atlas,Mexico,1989-03-09,Bogotá,Colombia,4.60971,-74.08175,42,0,false,true
+Yerry Mina,Colombia,CONMEBOL,Defender,Cagliari,Italy,1994-09-23,Guachené,Colombia,3.1336111111111,-76.3925,54,8,false,true
+Gustavo Puerta,Colombia,CONMEBOL,Defender,Racing Santander,Spain,2003-07-23,La Victoria,Colombia,4.5213888888889,-76.036388888889,6,1,false,true
+Juan Portilla,Colombia,CONMEBOL,Midfielder,Athletico Paranaense,Brazil,1998-09-12,Cali,Colombia,3.44,-76.519722222222,10,0,false,true
+Jefferson Lerma,Colombia,CONMEBOL,Midfielder,Crystal Palace,England,1994-10-25,El Cerrito,Colombia,3.6838888888889,-76.311111111111,65,5,false,true
+Johan Mojica,Colombia,CONMEBOL,Defender,Mallorca,Spain,1992-08-21,Cali,Colombia,3.44,-76.519722222222,45,1,false,true
+Willer Ditta,Colombia,CONMEBOL,Defender,Cruz Azul,Mexico,1998-01-23,La Jagua de Ibirico,Colombia,9.5611111111111,-73.336388888889,5,0,false,true
+Cucho Hernández,Colombia,CONMEBOL,Forward,Real Betis,Spain,1999-04-20,Pereira,Colombia,4.8142777777778,-75.694558333333,9,2,false,true
+Juan Fernando Quintero,Colombia,CONMEBOL,Midfielder,River Plate,Argentina,1993-01-18,Medellín,Colombia,6.250200154878975,-75.56758450069736,49,6,false,true
+Jaminton Campaz,Colombia,CONMEBOL,Forward,Rosario Central,Argentina,2000-05-24,Tumaco,Colombia,1.8066666666667,-78.764722222222,10,1,false,true
+Deiver Machado,Colombia,CONMEBOL,Defender,Nantes,France,1993-09-02,Tadó,Colombia,5.2633333333333,-76.56,15,0,false,true
+Davinson Sánchez,Colombia,CONMEBOL,Defender,Galatasaray,Turkey,1996-06-12,Caloto,Colombia,3.0355555555556,-76.407777777778,79,4,false,true
+Álvaro Montero,Colombia,CONMEBOL,Goalkeeper,Vélez Sarsfield,Argentina,1995-03-29,El Molino,Colombia,10.653055555556,-72.925555555556,12,0,false,true
+Luis Suárez,Colombia,CONMEBOL,Forward,Sporting CP,Portugal,1997-12-02,Santa Marta,Colombia,11.236111111111,-74.201666666667,12,5,false,true
+Andrés Gómez,Colombia,CONMEBOL,Forward,Vasco da Gama,Brazil,2002-09-12,Quibdó,Colombia,5.692277,-76.658192,8,2,false,true
+Lionel Mpasi,DR Congo,CAF,Goalkeeper,Le Havre,France,1994-08-01,Meaux,France,48.959444444444,2.8877777777778,29,0,true,true
+Aaron Wan-Bissaka,DR Congo,CAF,Defender,West Ham United,England,1997-11-26,Croydon,United Kingdom,51.3727,-0.1099,12,0,true,true
+Steve Kapuadi,DR Congo,CAF,Defender,Widzew Łódź,Poland,1998-04-30,Le Mans,France,48.004166666667,0.19694444444444,4,0,true,true
+Axel Tuanzebe,DR Congo,CAF,Defender,Burnley,England,1997-11-14,Bunia,Democratic Republic of the Congo,1.5666666666667,30.25,14,1,false,true
+Dylan Batubinsika,DR Congo,CAF,Defender,AEL,Greece,1996-02-15,Cergy-Pontoise,France,49.0361,2.06306,14,1,true,true
+Ngal'ayel Mukau,DR Congo,CAF,Midfielder,Lille,France,2004-11-03,Antwerp,Belgium,51.221111111111114,4.3997222222222225,14,0,true,true
+Nathanaël Mbuku,DR Congo,CAF,Midfielder,Montpellier,France,2002-03-16,Villeneuve-Saint-Georges,France,48.7325,2.4497222222222,19,2,true,true
+Samuel Moutoussamy,DR Congo,CAF,Midfielder,Atromitos,Greece,1996-08-12,12th arrondissement of Paris,France,48.840808333333,2.3881833333333,58,0,true,true
+Brian Cipenga,DR Congo,CAF,Forward,Castellón,Spain,1998-03-11,Kinshasa,Democratic Republic of the Congo,-4.321944444444444,15.311944444444444,8,0,false,true
+Théo Bongonda,DR Congo,CAF,Midfielder,Spartak Moscow,Russia,1995-11-20,"",Belgium,50.416666666667,4.4441666666667,38,7,true,true
+Gaël Kakuta,DR Congo,CAF,Forward,AEL,Greece,1991-06-21,Lille,France,50.631944444444,3.0575,31,5,true,true
+Joris Kayembe,DR Congo,CAF,Defender,Genk,Belgium,1994-08-08,Brussels,Belgium,50.846666666666664,4.351666666666667,26,1,true,true
+Meschak Elia,DR Congo,CAF,Forward,Alanyaspor,Turkey,1997-08-06,Kinshasa,Democratic Republic of the Congo,-4.321944444444444,15.311944444444444,69,12,false,true
+Noah Sadiki,DR Congo,CAF,Midfielder,Sunderland,England,2004-12-17,Brussels-Capital Region,Belgium,50.846666666666664,4.3525,20,0,true,true
+Aaron Tshibola,DR Congo,CAF,Midfielder,Kilmarnock,Scotland,1995-01-02,London Borough of Newham,United Kingdom,51.516666666666666,0.03333333333333333,17,1,true,true
+Timothy Fayulu,DR Congo,CAF,Goalkeeper,Noah,"",1999-07-24,Geneva,Switzerland,46.2,6.15,3,0,true,true
+Cédric Bakambu,DR Congo,CAF,Forward,Real Betis,Spain,1991-04-11,Vitry-sur-Seine,France,48.7875,2.3927777777778,70,21,true,true
+Charles Pickel,DR Congo,CAF,Midfielder,Espanyol,Spain,1997-05-15,Solothurn,Switzerland,47.208055555556,7.5375,34,1,true,true
+Fiston Mayele,DR Congo,CAF,Forward,Pyramids,Egypt,1994-06-24,Mbuji-Mayi,Democratic Republic of the Congo,-6.1209,23.5967,37,6,false,true
+Yoane Wissa,DR Congo,CAF,Forward,Newcastle United,England,1996-09-03,Épinay-sous-Sénart,France,48.693055555556,2.5158333333333,38,9,true,true
+Matthieu Epolo,DR Congo,CAF,Goalkeeper,Standard Liège,Belgium,2005-01-15,Brussels,Belgium,50.846666666666664,4.351666666666667,1,0,true,true
+Chancel Mbemba,DR Congo,CAF,Defender,Lille,France,1994-08-08,Kisangani,Democratic Republic of the Congo,0.51527777777778,25.191111111111,109,7,false,true
+Simon Banza,DR Congo,CAF,Forward,Al Jazira,United Arab Emirates,1996-08-13,France,France,47.0,2.0,15,2,true,true
+Gédéon Kalulu,DR Congo,CAF,Defender,Aris Limassol,Cyprus,1997-08-29,8th arrondissement of Lyon,France,45.734822222222,4.8681388888889,28,0,true,true
+Edo Kayembe,DR Congo,CAF,Midfielder,Watford,England,1998-06-03,Kananga,Democratic Republic of the Congo,-5.8961111111111,22.416666666667,43,2,false,true
+Arthur Masuaku,DR Congo,CAF,Defender,Lens,France,1993-11-07,Lille,France,50.631944444444,3.0575,45,4,true,true
+Diogo Costa,Portugal,UEFA,Goalkeeper,Porto,Portugal,1999-09-19,Rothrist,Switzerland,47.302777777778,7.8833333333333,43,0,true,true
+Nélson Semedo,Portugal,UEFA,Defender,Fenerbahçe,Turkey,1993-11-16,Lisbon,Portugal,38.708042,-9.139016,50,0,false,true
+Rúben Dias,Portugal,UEFA,Defender,Manchester City,England,1997-05-14,Amadora,Portugal,38.75,-9.2333333333333,76,3,false,true
+Tomás Araújo,Portugal,UEFA,Defender,Benfica,Portugal,2002-05-16,Vila Nova de Famalicão,Portugal,41.416666666667,-8.5166666666667,5,0,false,true
+Diogo Dalot,Portugal,UEFA,Defender,Manchester United,England,1999-03-18,Braga,Portugal,41.533333333333,-8.4166666666667,35,3,false,true
+Matheus Nunes,Portugal,UEFA,Midfielder,Manchester City,England,1998-08-27,Rio de Janeiro,Brazil,-22.91111111111111,-43.205555555555556,20,2,true,true
+Cristiano Ronaldo,Portugal,UEFA,Forward,Al-Nassr,Saudi Arabia,1985-02-05,Funchal,Portugal,32.65,-16.916666666667,228,143,false,true
+Bruno Fernandes,Portugal,UEFA,Midfielder,Manchester United,England,1994-09-08,Maia,Portugal,41.233333333333,-8.6166666666667,89,29,false,true
+Gonçalo Ramos,Portugal,UEFA,Forward,Paris Saint-Germain,France,2001-06-20,Olhão,Portugal,37.027777777778,-7.8388888888889,25,10,false,true
+Bernardo Silva,Portugal,UEFA,Midfielder,Manchester City,England,1994-08-10,Lisbon,Portugal,38.708042,-9.139016,109,14,false,true
+João Félix,Portugal,UEFA,Forward,Al-Nassr,Saudi Arabia,1999-11-10,Viseu,Portugal,40.6575,-7.913888888888889,54,12,false,true
+José Sá,Portugal,UEFA,Goalkeeper,Wolverhampton Wanderers,England,1993-01-17,Braga,Portugal,41.533333333333,-8.4166666666667,5,0,false,true
+Renato Veiga,Portugal,UEFA,Defender,Villarreal,Spain,2003-07-29,Lisbon,Portugal,38.708042,-9.139016,13,1,false,true
+Gonçalo Inácio,Portugal,UEFA,Defender,Sporting CP,Portugal,2001-08-25,Almada,Portugal,38.68027778,-9.15833333,22,2,false,true
+João Neves,Portugal,UEFA,Midfielder,Paris Saint-Germain,France,2004-09-27,Tavira,Portugal,37.13085,-7.6506,22,3,false,true
+Francisco Trincão,Portugal,UEFA,Forward,Sporting CP,Portugal,1999-12-29,Viana do Castelo,Portugal,41.7,-8.8333333333333,18,3,false,true
+Rafael Leão,Portugal,UEFA,Forward,Milan,Italy,1999-06-10,Almada,Portugal,38.68027778,-9.15833333,44,5,false,true
+Pedro Neto,Portugal,UEFA,Forward,Chelsea,England,2000-03-09,Viana do Castelo,Portugal,41.7,-8.8333333333333,25,3,false,true
+Gonçalo Guedes,Portugal,UEFA,Forward,Real Sociedad,Spain,1996-11-29,Benavente,Portugal,38.983333333333,-8.8166666666667,34,8,false,true
+João Cancelo,Portugal,UEFA,Defender,Barcelona,Spain,1994-05-27,Barreiro,Portugal,38.660888888889,-9.0732777777778,68,12,false,true
+Rúben Neves,Portugal,UEFA,Midfielder,Al-Hilal,Saudi Arabia,1997-03-13,Mozelos,Portugal,40.999166666667,-8.5561111111111,67,1,false,true
+Rui Silva,Portugal,UEFA,Goalkeeper,Sporting CP,Portugal,1994-02-07,Maia,Portugal,41.233333333333,-8.6166666666667,3,0,false,true
+Vitinha,Portugal,UEFA,Midfielder,Paris Saint-Germain,France,2000-02-13,Faro,Portugal,37.01611111111111,-7.9350000000000005,38,0,false,true
+Samú Costa,Portugal,UEFA,Defender,Mallorca,Spain,2000-11-27,Aveiro,Portugal,40.638888888889,-8.6552777777778,6,0,false,true
+Nuno Mendes,Portugal,UEFA,Defender,Paris Saint-Germain,France,2002-06-19,Sintra,Portugal,38.797361111111,-9.3904166666667,44,1,false,true
+Francisco Conceição,Portugal,UEFA,Forward,Juventus,Italy,2002-12-14,Coimbra,Portugal,40.21111111111111,-8.428888888888888,17,4,false,true
+Utkir Yusupov,Uzbekistan,AFC,Goalkeeper,Navbahor Namangan,Uzbekistan,1991-01-04,Sayram,Kazakhstan,42.301944444444,69.770277777778,40,0,true,true
+Abdukodir Khusanov,Uzbekistan,AFC,Defender,Manchester City,England,2004-02-29,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,27,0,false,true
+Khojiakbar Alijonov,Uzbekistan,AFC,Defender,Pakhtakor,Uzbekistan,1997-04-19,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,40,2,false,true
+Farrukh Sayfiev,Uzbekistan,AFC,Defender,Neftchi Fergana,Uzbekistan,1991-01-17,Samarkand,Uzbekistan,39.65472222222222,66.97583333333333,46,1,false,true
+Rustam Ashurmatov,Uzbekistan,AFC,Defender,Esteghlal,Iran,1996-07-07,Kokand,Uzbekistan,40.528611111111,70.9425,49,1,false,true
+Akmal Mozgovoy,Uzbekistan,AFC,Midfielder,Pakhtakor,Uzbekistan,1999-04-02,Qarshi,Uzbekistan,38.866666666667,65.8,25,1,false,true
+Otabek Shukurov,Uzbekistan,AFC,Midfielder,Baniyas,United Arab Emirates,1996-06-22,Chirakchi,Uzbekistan,39.033611111111,66.573888888889,84,9,false,true
+Jamshid Iskanderov,Uzbekistan,AFC,Midfielder,Neftchi Fergana,Uzbekistan,1993-10-16,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,38,4,false,true
+Odiljon Hamrobekov,Uzbekistan,AFC,Midfielder,Tractor,Iran,1996-02-13,Uzbekistan,Uzbekistan,41.0,66.0,72,1,false,true
+Ruslanbek Jiyanov,Uzbekistan,AFC,Midfielder,Navbahor Namangan,Uzbekistan,2001-06-05,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,5,0,false,true
+Oston Urunov,Uzbekistan,AFC,Midfielder,Persepolis,Iran,2000-12-19,Navoiy,Uzbekistan,40.083333333333,65.383333333333,42,10,false,true
+Abduvohid Nematov,Uzbekistan,AFC,Goalkeeper,Nasaf,Uzbekistan,2001-03-20,Jizzakh,Uzbekistan,40.116666666667,67.85,8,0,false,true
+Sherzod Nasrullaev,Uzbekistan,AFC,Defender,Nasaf,Uzbekistan,1998-07-23,Koson,Uzbekistan,39.036388888889,65.573055555556,31,2,false,true
+Eldor Shomurodov,Uzbekistan,AFC,Forward,İstanbul Başakşehir,Turkey,1995-06-29,Jarkurghon,Uzbekistan,37.514444444444,67.420555555556,92,44,false,true
+Umar Eshmurodov,Uzbekistan,AFC,Defender,Nasaf,Uzbekistan,1992-11-30,Koson,Uzbekistan,39.036388888889,65.573055555556,29,0,false,true
+Botirali Ergashev,Uzbekistan,AFC,Goalkeeper,Neftchi Fergana,Uzbekistan,1995-06-23,Pap,Uzbekistan,40.8736,71.1089,2,0,false,true
+Dostonbek Khamdamov,Uzbekistan,AFC,Midfielder,Pakhtakor,Uzbekistan,1996-07-24,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,34,5,false,true
+Abdulla Abdullaev,Uzbekistan,AFC,Defender,Dibba,United Arab Emirates,1997-09-01,Ķürgontepa,Uzbekistan,40.733333333333,72.766666666667,17,0,false,true
+Azizjon Ganiev,Uzbekistan,AFC,Midfielder,Al Bataeh,United Arab Emirates,1998-02-22,Uzbekistan,Uzbekistan,41.0,66.0,19,0,false,true
+Azizbek Amonov,Uzbekistan,AFC,Forward,Dinamo Samarqand,Uzbekistan,1997-10-30,Zarafshon,Uzbekistan,41.566666666667,64.2,12,2,false,true
+Igor Sergeev,Uzbekistan,AFC,Forward,Persepolis,Iran,1993-04-30,Tashkent,Tashkent Khanate,41.31111111111111,69.27972222222222,83,25,false,true
+Abbosbek Fayzullaev,Uzbekistan,AFC,Midfielder,İstanbul Başakşehir,Turkey,2003-10-03,Sirdaryo,Uzbekistan,40.85,68.666666666667,32,9,false,true
+Sherzod Esanov,Uzbekistan,AFC,Midfielder,Bukhara,Uzbekistan,2003-02-01,Navoiy,Uzbekistan,40.083333333333,65.383333333333,1,0,false,true
+Bekhruz Karimov,Uzbekistan,AFC,Defender,Surkhon Termiz,Uzbekistan,2007-08-07,Kosonsoy,Uzbekistan,41.249166666667,71.545833333333,2,0,false,true
+Avazbek Ulmasaliev,Uzbekistan,AFC,Defender,AGMK,Uzbekistan,2000-03-27,Tashkent Region,Uzbekistan,41.166666666667,69.75,0,0,false,true
+Jakhongir Urozov,Uzbekistan,AFC,Defender,Dinamo Samarqand,Uzbekistan,2004-01-18,Jizzakh,Uzbekistan,40.116666666667,67.85,4,0,false,true
+Dominik Livaković,Croatia,UEFA,Goalkeeper,Dinamo Zagreb,Croatia,1995-01-09,Zadar,Croatia,44.11416666666667,15.2275,75,0,false,true
+Josip Stanišić,Croatia,UEFA,Defender,Bayern Munich,Germany,2000-04-02,Munich,Germany,48.1375,11.575,31,0,true,true
+Marin Pongračić,Croatia,UEFA,Defender,Fiorentina,Italy,1997-09-11,Landshut,Germany,48.539722222222,12.150833333333,20,0,true,true
+Joško Gvardiol,Croatia,UEFA,Defender,Manchester City,England,2002-01-23,Zagreb,Croatia,45.81305555555556,15.977222222222222,48,4,false,true
+Duje Ćaleta-Car,Croatia,UEFA,Defender,Real Sociedad,Spain,1996-09-17,Šibenik,Croatia,43.733888888889,15.895555555556,38,1,false,true
+Josip Šutalo,Croatia,UEFA,Defender,Ajax,Netherlands,2000-02-28,Čapljina,Bosnia and Herzegovina,43.11,17.7,33,0,true,true
+Nikola Moro,Croatia,UEFA,Midfielder,Bologna,Italy,1998-03-12,Solin,Croatia,43.531666666667,16.494722222222,10,0,false,true
+Mateo Kovačić,Croatia,UEFA,Midfielder,Manchester City,England,1994-05-06,Linz,Austria,48.30583333333333,14.286388888888888,113,5,true,true
+Andrej Kramarić,Croatia,UEFA,Forward,TSG Hoffenheim,Germany,1991-06-19,Zagreb,Croatia,45.81305555555556,15.977222222222222,116,36,false,true
+Luka Modrić,Croatia,UEFA,Midfielder,Milan,Italy,1985-09-09,Zadar,Croatia,44.11416666666667,15.2275,198,29,false,true
+Ante Budimir,Croatia,UEFA,Forward,Osasuna,Spain,1991-07-22,Zenica,Bosnia and Herzegovina,44.201666666667,17.903888888889,38,6,true,true
+Ivor Pandur,Croatia,UEFA,Goalkeeper,Hull City,England,2000-03-25,Rijeka,Croatia,45.333333333333336,14.433333333333334,0,0,false,true
+Nikola Vlašić,Croatia,UEFA,Midfielder,Torino,Italy,1997-10-04,Split,Croatia,43.51,16.44,63,10,false,true
+Ivan Perišić,Croatia,UEFA,Forward,PSV Eindhoven,Netherlands,1989-02-02,Split,Croatia,43.51,16.44,154,38,false,true
+Mario Pašalić,Croatia,UEFA,Midfielder,Atalanta,Italy,1995-02-09,Mainz,Germany,49.99944444444444,8.27361111111111,85,12,true,true
+Martin Baturina,Croatia,UEFA,Midfielder,Como,Italy,2003-02-16,Split,Croatia,43.51,16.44,19,1,false,true
+Petar Sučić,Croatia,UEFA,Midfielder,Inter Milan,Italy,2003-10-25,Livno,Bosnia and Herzegovina,43.826944444444,17.008055555556,17,1,true,true
+Kristijan Jakić,Croatia,UEFA,Defender,FC Augsburg,Germany,1997-05-14,Split,Croatia,43.51,16.44,17,2,false,true
+Toni Fruk,Croatia,UEFA,Midfielder,Rijeka,Croatia,2001-03-09,Našice,Croatia,45.483333333333,18.1,7,1,false,true
+Igor Matanović,Croatia,UEFA,Forward,SC Freiburg,Germany,2003-03-31,Germany,Germany,51.0,10.0,9,2,true,true
+Luka Sučić,Croatia,UEFA,Midfielder,Real Sociedad,Spain,2002-09-08,Linz,Austria,48.30583333333333,14.286388888888888,21,1,true,true
+Luka Vušković,Croatia,UEFA,Defender,Hamburger SV,Germany,2007-02-24,Split,Croatia,43.51,16.44,5,1,false,true
+Dominik Kotarski,Croatia,UEFA,Goalkeeper,Copenhagen,Denmark,2000-02-10,Zabok,Croatia,46.05,15.966666666667,4,0,false,true
+Marco Pašalić,Croatia,UEFA,Forward,Orlando City SC,United States,2000-09-14,Karlsruhe,Germany,49.016666666667,8.4,15,1,true,true
+Martin Erlić,Croatia,UEFA,Defender,Midtjylland,Denmark,1998-01-24,Zadar,Croatia,44.11416666666667,15.2275,13,1,false,true
+Petar Musa,Croatia,UEFA,Forward,FC Dallas,United States,1998-03-04,Zagreb,Croatia,45.81305555555556,15.977222222222222,11,1,false,true
+Jordan Pickford,England,UEFA,Goalkeeper,Everton,England,1994-03-07,Washington,United Kingdom,54.9,-1.52,84,0,false,true
+Ezri Konsa,England,UEFA,Defender,Aston Villa,England,1997-10-23,London Borough of Newham,United Kingdom,51.516666666666666,0.03333333333333333,20,1,false,true
+Nico O'Reilly,England,UEFA,Defender,Manchester City,England,2005-03-21,Manchester,United Kingdom,53.466666666667,-2.2333333333333,5,0,false,true
+Declan Rice,England,UEFA,Midfielder,Arsenal,England,1999-01-14,Kingston upon Thames,United Kingdom,51.4103,-0.2995,73,7,false,true
+John Stones,England,UEFA,Defender,Manchester City,England,1994-05-28,Barnsley,United Kingdom,53.553611111111,-1.4788888888889,89,3,false,true
+Marc Guéhi,England,UEFA,Defender,Manchester City,England,2000-07-13,Abidjan,Ivory Coast,5.3363888888889,-4.0266666666667,29,1,true,true
+Bukayo Saka,England,UEFA,Forward,Arsenal,England,2001-09-05,Ealing,United Kingdom,51.5111,-0.3058,49,14,false,true
+Elliot Anderson,England,UEFA,Midfielder,Nottingham Forest,England,2002-11-06,Whitley Bay,United Kingdom,55.0456,-1.4443,9,0,false,true
+Harry Kane,England,UEFA,Forward,Bayern Munich,Germany,1993-07-28,Walthamstow,United Kingdom,51.584,-0.0211,114,79,false,true
+Jude Bellingham,England,UEFA,Midfielder,Real Madrid,Spain,2003-06-29,Stourbridge,United Kingdom,52.458,-2.148,48,6,false,true
+Marcus Rashford,England,UEFA,Forward,Barcelona,Spain,1997-10-31,Manchester,United Kingdom,53.466666666667,-2.2333333333333,72,18,false,true
+Trevoh Chalobah,England,UEFA,Defender,Chelsea,England,1999-07-05,Freetown,Sierra Leone,8.487222222222222,-13.235555555555555,1,0,true,true
+Dean Henderson,England,UEFA,Goalkeeper,Crystal Palace,England,1997-03-12,Whitehaven,United Kingdom,54.548,-3.5855,5,0,false,true
+Jordan Henderson,England,UEFA,Midfielder,Brentford,England,1990-06-17,Sunderland,United Kingdom,54.904444444444444,-1.3811111111111112,90,3,false,true
+Dan Burn,England,UEFA,Defender,Newcastle United,England,1992-05-09,Blyth,United Kingdom,55.126,-1.514,8,0,false,true
+Kobbie Mainoo,England,UEFA,Midfielder,Manchester United,England,2005-04-19,Stockport,United Kingdom,53.408333333333,-2.1494444444444,14,0,false,true
+Morgan Rogers,England,UEFA,Midfielder,Aston Villa,England,2002-07-26,Halesowen,United Kingdom,52.450163888889,-2.0509361111111,15,1,false,true
+Anthony Gordon,England,UEFA,Forward,Newcastle United,England,2001-02-24,Liverpool,United Kingdom,53.407222222222224,-2.9916666666666667,19,3,false,true
+Ollie Watkins,England,UEFA,Forward,Aston Villa,England,1995-12-30,Torquay,United Kingdom,50.4625,-3.5280555555556,22,7,false,true
+Noni Madueke,England,UEFA,Forward,Arsenal,England,2002-03-10,Barnet,United Kingdom,51.6444,-0.1997,11,1,false,true
+Eberechi Eze,England,UEFA,Midfielder,Arsenal,England,1998-06-29,Greenwich,United Kingdom,51.48,0.0,17,3,false,true
+Ivan Toney,England,UEFA,Forward,Al-Ahli,Saudi Arabia,1996-03-16,Northampton,United Kingdom,52.233333333333,-0.9,8,1,false,true
+James Trafford,England,UEFA,Goalkeeper,Manchester City,England,2002-10-10,Cockermouth,United Kingdom,54.6613,-3.362,2,0,false,true
+Reece James,England,UEFA,Defender,Chelsea,England,1999-12-08,Redbridge,United Kingdom,51.576,0.052,24,1,false,true
+Djed Spence,England,UEFA,Defender,Tottenham Hotspur,England,2000-08-09,London,Roman Empire,51.507222222222,-0.1275,6,0,false,true
+Jarell Quansah,England,UEFA,Defender,Bayer Leverkusen,Germany,2003-01-29,Warrington,United Kingdom,53.38732,-2.60288,3,0,false,true
+Lawrence Ati-Zigi,Ghana,CAF,Goalkeeper,St. Gallen,Switzerland,1996-11-29,Ghana,Portuguese Empire,7.9465,-1.0232,29,0,false,true
+Alidu Seidu,Ghana,CAF,Defender,Rennes,France,2000-06-04,Accra,Ghana,5.55602,-0.1969,24,1,false,true
+Caleb Yirenkyi,Ghana,CAF,Midfielder,Nordsjælland,Denmark,2006-01-15,Ghana,Portuguese Empire,7.9465,-1.0232,11,1,false,true
+Jonas Adjetey,Ghana,CAF,Defender,VfL Wolfsburg,Germany,2003-12-13,Accra,Ghana,5.55602,-0.1969,10,0,false,true
+Thomas Partey,Ghana,CAF,Midfielder,Villarreal,Spain,1993-06-13,Odumase Krobo,Ghana,7.54561,-1.73781,57,15,false,true
+Abdul Mumin,Ghana,CAF,Defender,Rayo Vallecano,Spain,1998-06-06,Ghana,Portuguese Empire,7.9465,-1.0232,5,0,false,true
+Abdul Fatawu,Ghana,CAF,Forward,Leicester City,England,2004-03-08,Tamale,Ghana,9.4075,-0.85333333333333,28,3,false,true
+Kwasi Sibo,Ghana,CAF,Midfielder,Oviedo,Spain,1998-06-24,Wa,Ghana,10.0667,-2.5,8,0,false,true
+Jordan Ayew,Ghana,CAF,Forward,Leicester City,England,1991-09-11,Marseille,France,43.296666666667,5.3763888888889,120,34,true,true
+Brandon Thomas-Asante,Ghana,CAF,Forward,Coventry City,England,1998-12-29,Milton Keynes,United Kingdom,52.033333333333,-0.76666666666667,8,1,true,true
+Antoine Semenyo,Ghana,CAF,Midfielder,Manchester City,England,2000-01-07,London,Roman Empire,51.507222222222,-0.1275,34,3,false,true
+Joseph Anang,Ghana,CAF,Goalkeeper,St Patrick's Athletic,"",2000-06-08,Teshie,Ghana,5.5833333333333,-0.1,1,0,false,true
+Christopher Bonsu Baah,Ghana,CAF,Forward,Al-Qadsiah,Saudi Arabia,2004-12-14,Accra,Ghana,5.55602,-0.1969,9,0,false,true
+Gideon Mensah,Ghana,CAF,Defender,Auxerre,France,1998-07-18,Ghana,Portuguese Empire,7.9465,-1.0232,40,0,false,true
+Elisha Owusu,Ghana,CAF,Midfielder,Auxerre,France,1997-11-07,Montreuil,France,48.860277777778,2.4430555555556,20,0,true,true
+Benjamin Asare,Ghana,CAF,Goalkeeper,Hearts of Oak,Ghana,1992-07-13,"","",,,11,0,false,false
+Abdul Rahman Baba,Ghana,CAF,Defender,PAOK,Greece,1994-07-02,Tamale,Ghana,9.4075,-0.85333333333333,51,1,false,true
+Jerome Opoku,Ghana,CAF,Defender,İstanbul Başakşehir,Turkey,1998-10-14,Mitcham,United Kingdom,51.4009,-0.1517,11,1,true,true
+Iñaki Williams,Ghana,CAF,Forward,Athletic Bilbao,Spain,1994-06-15,Bilbao,Spain,43.26305555555555,-2.935,26,2,true,true
+Augustine Boakye,Ghana,CAF,Midfielder,Saint-Étienne,France,2000-11-03,Bompata,Ghana,6.63333,-1.06667,0,0,false,true
+Kojo Peprah Oppong,Ghana,CAF,Defender,Nice,France,2004-06-04,Accra,Ghana,5.55602,-0.1969,4,0,false,true
+Kamaldeen Sulemana,Ghana,CAF,Forward,Atalanta,Italy,2002-02-15,Ghana,Portuguese Empire,7.9465,-1.0232,28,1,false,true
+Derrick Luckassen,Ghana,CAF,Defender,Pafos,Cyprus,1995-07-03,Amsterdam,Netherlands,52.36666666666667,4.883333333333333,1,0,true,true
+Ernest Nuamah,Ghana,CAF,Forward,Lyon,France,2003-11-01,Ghana,Portuguese Empire,7.9465,-1.0232,18,4,false,true
+Prince Kwabena Adu,Ghana,CAF,Forward,Viktoria Plzeň,Czech Republic,2003-09-23,Sunyani,Ghana,7.3333333333333,-2.3333333333333,5,0,false,true
+Marvin Senaya,Ghana,CAF,Defender,Auxerre,France,2001-01-28,Saint-Maurice,France,48.818333333333,2.4347222222222,2,0,true,true
+Luis Mejía,Panama,CONCACAF,Goalkeeper,Nacional,Uruguay,1991-03-16,Panama City,Panama,8.971111111111112,-79.53472222222223,56,0,false,true
+César Blackman,Panama,CONCACAF,Defender,Slovan Bratislava,Slovakia,1998-04-02,Panama City,Panama,8.971111111111112,-79.53472222222223,40,3,false,true
+José Córdoba,Panama,CONCACAF,Defender,Norwich City,England,2001-06-03,Panama City,Panama,8.971111111111112,-79.53472222222223,32,1,false,true
+Fidel Escobar,Panama,CONCACAF,Defender,Saprissa,Costa Rica,1995-01-09,Panama City,Panama,8.971111111111112,-79.53472222222223,99,4,false,true
+Edgardo Fariña,Panama,CONCACAF,Defender,Pari Nizhny Novgorod,Russia,2001-10-19,Panama City,Panama,8.971111111111112,-79.53472222222223,18,0,false,true
+Cristian Martínez,Panama,CONCACAF,Midfielder,Ironi Kiryat Shmona,Israel,1997-02-06,Panama City,Panama,8.971111111111112,-79.53472222222223,66,2,false,true
+José Luis Rodríguez,Panama,CONCACAF,Midfielder,Juárez,Mexico,1998-06-19,Panama City,Panama,8.971111111111112,-79.53472222222223,70,8,false,true
+Adalberto Carrasquilla,Panama,CONCACAF,Midfielder,Pumas UNAM,Mexico,1998-11-28,Panama City,Panama,8.971111111111112,-79.53472222222223,73,3,false,true
+Tomás Rodríguez,Panama,CONCACAF,Forward,Saprissa,Costa Rica,1999-03-09,Panama City,Panama,8.971111111111112,-79.53472222222223,13,4,false,true
+Ismael Díaz,Panama,CONCACAF,Midfielder,León,Mexico,1997-05-12,Panama City,Panama,8.971111111111112,-79.53472222222223,57,17,false,true
+Yoel Bárcenas,Panama,CONCACAF,Midfielder,Mazatlán,Mexico,1993-10-23,Colón City,Panama,9.3597527777778,-79.900419444444,104,10,false,true
+César Samudio,Panama,CONCACAF,Goalkeeper,Marathón,Honduras,1994-02-23,Panama City,Panama,8.971111111111112,-79.53472222222223,5,0,false,true
+Jiovany Ramos,Panama,CONCACAF,Defender,Puerto Cabello,Venezuela,1997-01-26,Panama City,Panama,8.971111111111112,-79.53472222222223,23,2,false,true
+Carlos Harvey,Panama,CONCACAF,Defender,Minnesota United FC,United States,2000-02-03,Panama City,Panama,8.971111111111112,-79.53472222222223,28,3,false,true
+Eric Davis,Panama,CONCACAF,Defender,Plaza Amador,Panama,1991-03-31,Colón City,Panama,9.3597527777778,-79.900419444444,107,9,false,true
+Andrés Andrade,Panama,CONCACAF,Defender,LASK,Austria,1998-10-16,Panama City,Panama,8.971111111111112,-79.53472222222223,50,1,false,true
+José Fajardo,Panama,CONCACAF,Forward,Universidad Católica,Ecuador,1993-08-18,Colón City,Panama,9.3597527777778,-79.900419444444,68,17,false,true
+Cecilio Waterman,Panama,CONCACAF,Forward,Universidad de Concepción,Chile,1991-04-13,Panama City,Panama,8.971111111111112,-79.53472222222223,55,15,false,true
+Alberto Quintero,Panama,CONCACAF,Midfielder,Plaza Amador,Panama,1987-12-18,Panama City,Panama,8.971111111111112,-79.53472222222223,141,7,false,true
+Aníbal Godoy,Panama,CONCACAF,Midfielder,San Diego FC,United States,1990-02-10,Panama City,Panama,8.971111111111112,-79.53472222222223,159,4,false,true
+César Yanis,Panama,CONCACAF,Midfielder,Cobresal,Chile,1996-01-28,Panama City,Panama,8.971111111111112,-79.53472222222223,56,5,false,true
+Orlando Mosquera,Panama,CONCACAF,Goalkeeper,Al-Fayha,Saudi Arabia,1994-12-25,Panama City,Panama,8.971111111111112,-79.53472222222223,48,0,false,true
+Michael Amir Murillo,Panama,CONCACAF,Defender,Beşiktaş,Turkey,1996-02-11,Panama City,Panama,8.971111111111112,-79.53472222222223,94,9,false,true
+Azarias Londoño,Panama,CONCACAF,Forward,Universidad Católica,Ecuador,2001-06-21,Panama City,Panama,8.971111111111112,-79.53472222222223,11,0,false,true
+Roderick Miller,Panama,CONCACAF,Defender,Turan Tovuz,"",1992-04-03,Panama City,Panama,8.971111111111112,-79.53472222222223,50,2,false,true
+Jorge Gutiérrez,Panama,CONCACAF,Defender,Deportivo La Guaira,Venezuela,1998-09-01,Panama City,Panama,8.971111111111112,-79.53472222222223,18,0,false,true
