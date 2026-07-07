@@ -51,7 +51,7 @@ def is_home_born(team: str, birth_country: str) -> tuple[bool, bool]:
     return birth_country == team, True
 
 
-def load_raw_data() -> tuple[list[dict], dict[str, dict]]:
+def load_raw_data() -> tuple[list[dict], dict[str, dict], dict[str, dict]]:
     squads_path = RAW_DIR / "squads_raw.json"
     if not squads_path.exists():
         raise FileNotFoundError(
@@ -64,11 +64,19 @@ def load_raw_data() -> tuple[list[dict], dict[str, dict]]:
         )
     squads = json.loads(squads_path.read_text(encoding="utf-8"))
     birthplace = json.loads(birthplace_path.read_text(encoding="utf-8"))
-    return squads, birthplace
+
+    club_coords_path = RAW_DIR / "club_coords_cache.json"
+    club_coords: dict[str, dict] = {}
+    if club_coords_path.exists():
+        club_coords = json.loads(club_coords_path.read_text(encoding="utf-8"))
+
+    return squads, birthplace, club_coords
 
 
 def build_player_records(
-    squads: list[dict], birthplace_map: dict[str, dict]
+    squads: list[dict],
+    birthplace_map: dict[str, dict],
+    club_coords_map: dict[str, dict],
 ) -> list[dict]:
     records = []
 
@@ -83,6 +91,8 @@ def build_player_records(
             birth_country = bp.get("birth_country", "")
             is_home, bc_known = is_home_born(team, birth_country)
 
+            coords = club_coords_map.get(player["club"], {})
+
             records.append({
                 "name": player["name"],
                 "team_country": team,
@@ -90,6 +100,8 @@ def build_player_records(
                 "position": player["position"],
                 "club": player["club"],
                 "club_country": player["club_country"],
+                "club_lat": coords.get("club_lat"),
+                "club_lon": coords.get("club_lon"),
                 "birth_date": player["birth_date"],
                 "birth_city": bp.get("birth_city", ""),
                 "birth_country": birth_country,
@@ -106,8 +118,8 @@ def build_player_records(
 
 def run() -> Path:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    squads, birthplace_map = load_raw_data()
-    records = build_player_records(squads, birthplace_map)
+    squads, birthplace_map, club_coords_map = load_raw_data()
+    records = build_player_records(squads, birthplace_map, club_coords_map)
 
     df = pl.DataFrame(records)
 
@@ -173,6 +185,9 @@ def build_summary(df: pl.DataFrame) -> dict:
     clubs = df.filter(pl.col("club") != "").group_by("club").agg(
         pl.len().alias("player_count"),
         pl.col("team_country").n_unique().alias("teams_represented"),
+        pl.col("club_country").first().alias("club_country"),
+        pl.col("club_lat").drop_nulls().first().alias("club_lat"),
+        pl.col("club_lon").drop_nulls().first().alias("club_lon"),
     ).sort("player_count", descending=True).head(50)
 
     foreign_born_total = known_df.filter(pl.col("is_foreign_born")).height

@@ -227,6 +227,137 @@ def enrich_birthplace(wiki_titles: list[str]) -> dict[str, dict]:
     return birthplace_map
 
 
+def _search_club_entity(
+    client: httpx.Client, club_names: list[str]
+) -> dict[str, str]:
+    """Search Wikidata for each club name, return {club_name: QID} for football clubs."""
+    FOOTBALL_KEYWORDS = {"football", "soccer", "association football", "football club", "soccer club"}
+    club_to_qid: dict[str, str] = {}
+
+    for name in club_names:
+        found = False
+        search_terms = [name, f"{name} football club", f"{name} FC"]
+        for term in search_terms:
+            if found:
+                break
+            try:
+                resp = client.get(WIKIDATA_API, params={
+                    "action": "wbsearchentities",
+                    "search": term,
+                    "language": "en",
+                    "type": "item",
+                    "limit": "5",
+                    "format": "json",
+                })
+                resp.raise_for_status()
+                results = resp.json().get("search", [])
+
+                for result in results:
+                    desc = result.get("description", "").lower()
+                    if any(kw in desc for kw in FOOTBALL_KEYWORDS):
+                        club_to_qid[name] = result["id"]
+                        found = True
+                        break
+            except httpx.HTTPError:
+                pass
+            time.sleep(0.15)
+
+        if not found:
+            print(f"  Warning: no Wikidata match for club '{name}'")
+
+    return club_to_qid
+
+
+def _resolve_club_coords(
+    client: httpx.Client, entities: dict
+) -> dict[str, tuple[float, float]]:
+    """Extract coordinates from club entities, falling back to home venue (P115) or HQ (P159)."""
+    qid_to_coords: dict[str, tuple[float, float]] = {}
+    venue_qids: dict[str, list[str]] = {}
+
+    for qid, entity in entities.items():
+        claims = entity.get("claims", {})
+        coords = _claim_coords(claims)
+        if coords:
+            qid_to_coords[qid] = coords
+            continue
+        venue_id = _claim_entity_id(claims, "P115")
+        if not venue_id:
+            venue_id = _claim_entity_id(claims, "P159")
+        if venue_id:
+            venue_qids.setdefault(venue_id, []).append(qid)
+
+    if venue_qids:
+        venue_entities = _fetch_entities(client, list(venue_qids.keys()), "claims")
+        for venue_qid, venue_entity in venue_entities.items():
+            coords = _claim_coords(venue_entity.get("claims", {}))
+            if coords:
+                for club_qid in venue_qids.get(venue_qid, []):
+                    if club_qid not in qid_to_coords:
+                        qid_to_coords[club_qid] = coords
+
+    return qid_to_coords
+
+
+def enrich_club_coords(
+    club_names: list[str], cache_path: Path | None = None
+) -> dict[str, dict]:
+    """Enrich club names with Wikidata coordinates.
+
+    Returns {club_name: {"club_lat": float|None, "club_lon": float|None}}.
+    Loads/saves cache at *cache_path* (defaults to RAW_DIR / "club_coords_cache.json").
+    """
+    if cache_path is None:
+        cache_path = RAW_DIR / "club_coords_cache.json"
+
+    club_map: dict[str, dict] = {}
+    if cache_path.exists():
+        cached = json.loads(cache_path.read_text(encoding="utf-8"))
+        if cached:
+            club_map = cached
+            print(f"  Loaded {len(club_map)} cached club coordinates")
+
+    remaining = [n for n in club_names if n not in club_map]
+    if not remaining:
+        print("  All clubs already cached")
+        return club_map
+
+    print(f"  {len(remaining)} clubs to query...")
+
+    with httpx.Client(
+        headers={"User-Agent": USER_AGENT},
+        timeout=30,
+        verify=truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT),
+    ) as client:
+        club_to_qid = _search_club_entity(client, remaining)
+        print(f"  Found QIDs for {len(club_to_qid)}/{len(remaining)} clubs")
+
+        if club_to_qid:
+            qids = list(set(club_to_qid.values()))
+            entities = _fetch_entities(client, qids, "claims")
+            qid_to_coords = _resolve_club_coords(client, entities)
+
+            qid_to_name = {qid: name for name, qid in club_to_qid.items()}
+            for name, qid in club_to_qid.items():
+                coords = qid_to_coords.get(qid)
+                if coords:
+                    club_map[name] = {"club_lat": coords[1], "club_lon": coords[0]}
+                else:
+                    club_map[name] = {"club_lat": None, "club_lon": None}
+
+        for name in remaining:
+            if name not in club_map:
+                club_map[name] = {"club_lat": None, "club_lon": None}
+
+    cache_path.write_text(
+        json.dumps(club_map, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    matched = sum(1 for v in club_map.values() if v.get("club_lat") is not None)
+    print(f"  {matched}/{len(club_map)} clubs with coordinates")
+
+    return club_map
+
+
 def run() -> Path:
     squads_path = RAW_DIR / "squads_raw.json"
     if not squads_path.exists():

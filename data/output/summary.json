@@ -384,14 +384,14 @@
       "teams_represented": 4
     },
     {
-      "birth_country": "United States",
-      "player_count": 30,
-      "teams_represented": 9
-    },
-    {
       "birth_country": "Argentina",
       "player_count": 30,
       "teams_represented": 5
+    },
+    {
+      "birth_country": "United States",
+      "player_count": 30,
+      "teams_represented": 9
     },
     {
       "birth_country": "Brazil",
@@ -399,22 +399,22 @@
       "teams_represented": 4
     },
     {
-      "birth_country": "Switzerland",
-      "player_count": 28,
-      "teams_represented": 5
-    },
-    {
       "birth_country": "Portugal",
       "player_count": 28,
       "teams_represented": 3
     },
     {
-      "birth_country": "Colombia",
+      "birth_country": "Switzerland",
+      "player_count": 28,
+      "teams_represented": 5
+    },
+    {
+      "birth_country": "Saudi Arabia",
       "player_count": 27,
       "teams_represented": 2
     },
     {
-      "birth_country": "Saudi Arabia",
+      "birth_country": "Colombia",
       "player_count": 27,
       "teams_represented": 2
     },
@@ -424,22 +424,22 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Panama",
-      "player_count": 26,
-      "teams_represented": 1
-    },
-    {
       "birth_country": "Norway",
       "player_count": 26,
       "teams_represented": 3
     },
     {
-      "birth_country": "Japan",
-      "player_count": 25,
+      "birth_country": "Panama",
+      "player_count": 26,
       "teams_represented": 1
     },
     {
       "birth_country": "Czech Republic",
+      "player_count": 25,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Japan",
       "player_count": 25,
       "teams_represented": 1
     },
@@ -454,12 +454,12 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Uruguay",
+      "birth_country": "Egypt",
       "player_count": 24,
       "teams_represented": 2
     },
     {
-      "birth_country": "Egypt",
+      "birth_country": "Uruguay",
       "player_count": 24,
       "teams_represented": 2
     },
@@ -484,24 +484,24 @@
       "teams_represented": 2
     },
     {
-      "birth_country": "Paraguay",
-      "player_count": 21,
-      "teams_represented": 1
-    },
-    {
       "birth_country": "New Zealand",
       "player_count": 21,
       "teams_represented": 1
     },
     {
-      "birth_country": "Australia",
-      "player_count": 20,
-      "teams_represented": 3
+      "birth_country": "Paraguay",
+      "player_count": 21,
+      "teams_represented": 1
     },
     {
       "birth_country": "Uzbekistan",
       "player_count": 20,
       "teams_represented": 2
+    },
+    {
+      "birth_country": "Australia",
+      "player_count": 20,
+      "teams_represented": 3
     },
     {
       "birth_country": "Ivory Coast",
@@ -534,14 +534,14 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Bosnia and Herzegovina",
-      "player_count": 13,
-      "teams_represented": 2
-    },
-    {
       "birth_country": "Ghana",
       "player_count": 13,
       "teams_represented": 3
+    },
+    {
+      "birth_country": "Bosnia and Herzegovina",
+      "player_count": 13,
+      "teams_represented": 2
     },
     {
       "birth_country": "Cape Verde",
@@ -569,17 +569,17 @@
       "teams_represented": 1
     },
     {
+      "birth_country": "Tashkent Khanate",
+      "player_count": 6,
+      "teams_represented": 1
+    },
+    {
       "birth_country": "Roman Empire",
       "player_count": 6,
       "teams_represented": 6
     },
     {
       "birth_country": "Democratic Republic of the Congo",
-      "player_count": 6,
-      "teams_represented": 1
-    },
-    {
-      "birth_country": "Tashkent Khanate",
       "player_count": 6,
       "teams_represented": 1
     },
@@ -594,12 +594,12 @@
       "teams_represented": 4
     },
     {
-      "birth_country": "Denmark",
+      "birth_country": "Italy",
       "player_count": 3,
       "teams_represented": 3
     },
     {
-      "birth_country": "Italy",
+      "birth_country": "Denmark",
       "player_count": 3,
       "teams_represented": 3
     },
@@ -609,32 +609,17 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Margraviate of Brandenburg",
-      "player_count": 2,
-      "teams_represented": 2
-    },
-    {
       "birth_country": "Slovenia",
       "player_count": 2,
       "teams_represented": 1
     },
     {
-      "birth_country": "Serbia",
-      "player_count": 1,
-      "teams_represented": 1
+      "birth_country": "Margraviate of Brandenburg",
+      "player_count": 2,
+      "teams_represented": 2
     },
     {
-      "birth_country": "Republic of the Congo",
-      "player_count": 1,
-      "teams_represented": 1
-    },
-    {
-      "birth_country": "Tanzania",
-      "player_count": 1,
-      "teams_represented": 1
-    },
-    {
-      "birth_country": "Kenya",
+      "birth_country": "Guinea",
       "player_count": 1,
       "teams_represented": 1
     },
@@ -644,22 +629,12 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Guinea",
+      "birth_country": "Kenya",
       "player_count": 1,
       "teams_represented": 1
     },
     {
-      "birth_country": "Kazakhstan",
-      "player_count": 1,
-      "teams_represented": 1
-    },
-    {
-      "birth_country": "Duchy of Lorraine",
-      "player_count": 1,
-      "teams_represented": 1
-    },
-    {
-      "birth_country": "Ireland",
+      "birth_country": "Serbia",
       "player_count": 1,
       "teams_represented": 1
     },
@@ -669,12 +644,12 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Kingdom of the Netherlands",
+      "birth_country": "Tanzania",
       "player_count": 1,
       "teams_represented": 1
     },
     {
-      "birth_country": "Nigeria",
+      "birth_country": "Kazakhstan",
       "player_count": 1,
       "teams_represented": 1
     },
@@ -684,12 +659,12 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Zambia",
+      "birth_country": "Austria–Hungary",
       "player_count": 1,
       "teams_represented": 1
     },
     {
-      "birth_country": "Sudan",
+      "birth_country": "Zambia",
       "player_count": 1,
       "teams_represented": 1
     },
@@ -699,7 +674,32 @@
       "teams_represented": 1
     },
     {
-      "birth_country": "Austria–Hungary",
+      "birth_country": "Republic of the Congo",
+      "player_count": 1,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Ireland",
+      "player_count": 1,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Kingdom of the Netherlands",
+      "player_count": 1,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Sudan",
+      "player_count": 1,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Duchy of Lorraine",
+      "player_count": 1,
+      "teams_represented": 1
+    },
+    {
+      "birth_country": "Nigeria",
       "player_count": 1,
       "teams_represented": 1
     }
@@ -752,252 +752,402 @@
     {
       "club": "Manchester City",
       "player_count": 19,
-      "teams_represented": 12
+      "teams_represented": 12,
+      "club_country": "England",
+      "club_lat": 53.483055555556,
+      "club_lon": -2.2002777777778
     },
     {
       "club": "Bayern Munich",
       "player_count": 17,
-      "teams_represented": 10
+      "teams_represented": 10,
+      "club_country": "Germany",
+      "club_lat": 48.110833,
+      "club_lon": 11.574444
     },
     {
       "club": "Paris Saint-Germain",
       "player_count": 16,
-      "teams_represented": 9
+      "teams_represented": 9,
+      "club_country": "France",
+      "club_lat": 48.84145,
+      "club_lon": 2.25305
     },
     {
       "club": "Arsenal",
       "player_count": 15,
-      "teams_represented": 9
+      "teams_represented": 9,
+      "club_country": "England",
+      "club_lat": 51.555,
+      "club_lon": -0.10833333333333334
     },
     {
       "club": "Barcelona",
       "player_count": 14,
-      "teams_represented": 7
-    },
-    {
-      "club": "Atlético Madrid",
-      "player_count": 12,
-      "teams_represented": 5
-    },
-    {
-      "club": "Manchester United",
-      "player_count": 12,
-      "teams_represented": 10
-    },
-    {
-      "club": "Al-Hilal",
-      "player_count": 12,
-      "teams_represented": 6
+      "teams_represented": 7,
+      "club_country": "Spain",
+      "club_lat": 41.364722,
+      "club_lon": 2.155556
     },
     {
       "club": "Crystal Palace",
       "player_count": 12,
-      "teams_represented": 10
+      "teams_represented": 10,
+      "club_country": "England",
+      "club_lat": 51.398333333333,
+      "club_lon": -0.085555555555556
+    },
+    {
+      "club": "Al-Hilal",
+      "player_count": 12,
+      "teams_represented": 6,
+      "club_country": "Saudi Arabia",
+      "club_lat": 15.64722222,
+      "club_lon": 32.475
+    },
+    {
+      "club": "Manchester United",
+      "player_count": 12,
+      "teams_represented": 10,
+      "club_country": "England",
+      "club_lat": 53.463055555556,
+      "club_lon": -2.2913888888889
+    },
+    {
+      "club": "Atlético Madrid",
+      "player_count": 12,
+      "teams_represented": 5,
+      "club_country": "Spain",
+      "club_lat": 40.447527,
+      "club_lon": -3.716147
     },
     {
       "club": "Galatasaray",
       "player_count": 11,
-      "teams_represented": 6
+      "teams_represented": 6,
+      "club_country": "Turkey",
+      "club_lat": 41.10338888888889,
+      "club_lon": 28.991
     },
     {
       "club": "Borussia Dortmund",
       "player_count": 11,
-      "teams_represented": 7
-    },
-    {
-      "club": "Real Madrid",
-      "player_count": 10,
-      "teams_represented": 9
-    },
-    {
-      "club": "Fenerbahçe",
-      "player_count": 10,
-      "teams_represented": 5
+      "teams_represented": 7,
+      "club_country": "Germany",
+      "club_lat": 51.4925,
+      "club_lon": 7.454444
     },
     {
       "club": "Milan",
       "player_count": 10,
-      "teams_represented": 8
-    },
-    {
-      "club": "PSV Eindhoven",
-      "player_count": 10,
-      "teams_represented": 8
-    },
-    {
-      "club": "Slavia Prague",
-      "player_count": 10,
-      "teams_represented": 1
-    },
-    {
-      "club": "Sunderland",
-      "player_count": 10,
-      "teams_represented": 8
+      "teams_represented": 8,
+      "club_country": "Italy",
+      "club_lat": 45.47805555555556,
+      "club_lon": 9.123888888888889
     },
     {
       "club": "Liverpool",
       "player_count": 10,
-      "teams_represented": 8
+      "teams_represented": 8,
+      "club_country": "England",
+      "club_lat": 53.43083333333333,
+      "club_lon": -2.9608333333333334
     },
     {
-      "club": "Aston Villa",
-      "player_count": 9,
-      "teams_represented": 6
+      "club": "Real Madrid",
+      "player_count": 10,
+      "teams_represented": 9,
+      "club_country": "Spain",
+      "club_lat": 40.45306,
+      "club_lon": -3.68835
     },
     {
-      "club": "Al-Nassr",
-      "player_count": 9,
-      "teams_represented": 3
+      "club": "PSV Eindhoven",
+      "player_count": 10,
+      "teams_represented": 8,
+      "club_country": "Netherlands",
+      "club_lat": null,
+      "club_lon": null
+    },
+    {
+      "club": "Fenerbahçe",
+      "player_count": 10,
+      "teams_represented": 5,
+      "club_country": "Turkey",
+      "club_lat": 40.9875,
+      "club_lon": 29.036666666666665
+    },
+    {
+      "club": "Slavia Prague",
+      "player_count": 10,
+      "teams_represented": 1,
+      "club_country": "Czech Republic",
+      "club_lat": 50.0675,
+      "club_lon": 14.4715
+    },
+    {
+      "club": "Sunderland",
+      "player_count": 10,
+      "teams_represented": 8,
+      "club_country": "England",
+      "club_lat": 54.91442906893247,
+      "club_lon": -1.388172971350196
     },
     {
       "club": "Flamengo",
       "player_count": 9,
-      "teams_represented": 4
+      "teams_represented": 4,
+      "club_country": "Brazil",
+      "club_lat": null,
+      "club_lon": null
     },
     {
       "club": "Chelsea",
       "player_count": 9,
-      "teams_represented": 8
+      "teams_represented": 8,
+      "club_country": "England",
+      "club_lat": 51.48166666666667,
+      "club_lon": -0.19083333333333333
     },
     {
       "club": "Al Ahly",
       "player_count": 9,
-      "teams_represented": 2
+      "teams_represented": 2,
+      "club_country": "Egypt",
+      "club_lat": 30.1745,
+      "club_lon": 31.435
     },
     {
       "club": "Al-Ahli",
       "player_count": 9,
-      "teams_represented": 7
+      "teams_represented": 7,
+      "club_country": "Saudi Arabia",
+      "club_lat": 21.762627,
+      "club_lon": 39.165096
     },
     {
-      "club": "VfB Stuttgart",
-      "player_count": 8,
-      "teams_represented": 5
+      "club": "Aston Villa",
+      "player_count": 9,
+      "teams_represented": 6,
+      "club_country": "England",
+      "club_lat": 52.509166666667,
+      "club_lon": -1.8847222222222
     },
     {
-      "club": "Mamelodi Sundowns",
-      "player_count": 8,
-      "teams_represented": 1
-    },
-    {
-      "club": "Lille",
-      "player_count": 8,
-      "teams_represented": 4
-    },
-    {
-      "club": "Villarreal",
-      "player_count": 8,
-      "teams_represented": 7
-    },
-    {
-      "club": "Tottenham Hotspur",
-      "player_count": 8,
-      "teams_represented": 8
-    },
-    {
-      "club": "TSG Hoffenheim",
-      "player_count": 8,
-      "teams_represented": 6
+      "club": "Al-Nassr",
+      "player_count": 9,
+      "teams_represented": 3,
+      "club_country": "Saudi Arabia",
+      "club_lat": 24.72930556,
+      "club_lon": 46.62369444
     },
     {
       "club": "Celtic",
       "player_count": 8,
-      "teams_represented": 7
+      "teams_represented": 7,
+      "club_country": "Scotland",
+      "club_lat": 55.849711111111,
+      "club_lon": -4.2055888888889
     },
     {
-      "club": "Eintracht Frankfurt",
+      "club": "Lille",
       "player_count": 8,
-      "teams_represented": 8
+      "teams_represented": 4,
+      "club_country": "France",
+      "club_lat": 50.611962,
+      "club_lon": 3.130631
     },
     {
-      "club": "Orlando Pirates",
+      "club": "TSG Hoffenheim",
       "player_count": 8,
-      "teams_represented": 1
-    },
-    {
-      "club": "Brighton & Hove Albion",
-      "player_count": 8,
-      "teams_represented": 6
-    },
-    {
-      "club": "Atalanta",
-      "player_count": 8,
-      "teams_represented": 8
-    },
-    {
-      "club": "Benfica",
-      "player_count": 8,
-      "teams_represented": 7
+      "teams_represented": 6,
+      "club_country": "Germany",
+      "club_lat": 49.239,
+      "club_lon": 8.888278
     },
     {
       "club": "Nice",
       "player_count": 8,
-      "teams_represented": 7
+      "teams_represented": 7,
+      "club_country": "France",
+      "club_lat": null,
+      "club_lon": null
     },
     {
-      "club": "Strasbourg",
-      "player_count": 7,
-      "teams_represented": 5
+      "club": "Atalanta",
+      "player_count": 8,
+      "teams_represented": 8,
+      "club_country": "Italy",
+      "club_lat": 45.708889,
+      "club_lon": 9.680833
     },
     {
-      "club": "Al-Hussein",
-      "player_count": 7,
-      "teams_represented": 1
+      "club": "Villarreal",
+      "player_count": 8,
+      "teams_represented": 7,
+      "club_country": "Spain",
+      "club_lat": 39.944167,
+      "club_lon": -0.103611
     },
     {
-      "club": "Newcastle United",
-      "player_count": 7,
-      "teams_represented": 5
+      "club": "VfB Stuttgart",
+      "player_count": 8,
+      "teams_represented": 5,
+      "club_country": "Germany",
+      "club_lat": 48.792222,
+      "club_lon": 9.231944
     },
     {
-      "club": "Sporting CP",
-      "player_count": 7,
-      "teams_represented": 5
+      "club": "Orlando Pirates",
+      "player_count": 8,
+      "teams_represented": 1,
+      "club_country": "South Africa",
+      "club_lat": -26.231894,
+      "club_lon": 27.922892
     },
     {
-      "club": "Palmeiras",
-      "player_count": 7,
-      "teams_represented": 4
+      "club": "Mamelodi Sundowns",
+      "player_count": 8,
+      "teams_represented": 1,
+      "club_country": "South Africa",
+      "club_lat": -25.753189,
+      "club_lon": 28.223014
+    },
+    {
+      "club": "Tottenham Hotspur",
+      "player_count": 8,
+      "teams_represented": 8,
+      "club_country": "England",
+      "club_lat": 51.604444444444,
+      "club_lon": -0.066388888888889
+    },
+    {
+      "club": "Benfica",
+      "player_count": 8,
+      "teams_represented": 7,
+      "club_country": "Portugal",
+      "club_lat": 38.75277777777778,
+      "club_lon": -9.184722222222222
+    },
+    {
+      "club": "Brighton & Hove Albion",
+      "player_count": 8,
+      "teams_represented": 6,
+      "club_country": "England",
+      "club_lat": 50.861822222222,
+      "club_lon": -0.083277777777778
+    },
+    {
+      "club": "Eintracht Frankfurt",
+      "player_count": 8,
+      "teams_represented": 8,
+      "club_country": "Germany",
+      "club_lat": 50.11055555555556,
+      "club_lon": 8.682222222222222
     },
     {
       "club": "Viktoria Plzeň",
       "player_count": 7,
-      "teams_represented": 5
+      "teams_represented": 5,
+      "club_country": "Czech Republic",
+      "club_lat": 49.75,
+      "club_lon": 13.385556
     },
     {
-      "club": "Inter Milan",
+      "club": "Newcastle United",
       "player_count": 7,
-      "teams_represented": 7
+      "teams_represented": 5,
+      "club_country": "England",
+      "club_lat": 54.975555555556,
+      "club_lon": -1.6216666666667
+    },
+    {
+      "club": "Palmeiras",
+      "player_count": 7,
+      "teams_represented": 4,
+      "club_country": "Brazil",
+      "club_lat": null,
+      "club_lon": null
     },
     {
       "club": "Al-Duhail",
       "player_count": 7,
-      "teams_represented": 2
+      "teams_represented": 2,
+      "club_country": "Qatar",
+      "club_lat": null,
+      "club_lon": null
+    },
+    {
+      "club": "Sporting CP",
+      "player_count": 7,
+      "teams_represented": 5,
+      "club_country": "Portugal",
+      "club_lat": 38.761194444444,
+      "club_lon": -9.1607833333333
     },
     {
       "club": "Bayer Leverkusen",
       "player_count": 7,
-      "teams_represented": 7
+      "teams_represented": 7,
+      "club_country": "Germany",
+      "club_lat": 51.038255555556,
+      "club_lon": 7.0022055555556
     },
     {
-      "club": "Juventus",
-      "player_count": 6,
-      "teams_represented": 6
+      "club": "Al-Hussein",
+      "player_count": 7,
+      "teams_represented": 1,
+      "club_country": "Jordan",
+      "club_lat": 32.5375,
+      "club_lon": 35.860278
     },
     {
-      "club": "Persepolis",
+      "club": "Inter Milan",
+      "player_count": 7,
+      "teams_represented": 7,
+      "club_country": "Italy",
+      "club_lat": 45.47805555555556,
+      "club_lon": 9.123888888888889
+    },
+    {
+      "club": "Strasbourg",
+      "player_count": 7,
+      "teams_represented": 5,
+      "club_country": "France",
+      "club_lat": 48.55942,
+      "club_lon": 7.75738
+    },
+    {
+      "club": "Mainz 05",
       "player_count": 6,
-      "teams_represented": 2
+      "teams_represented": 5,
+      "club_country": "Germany",
+      "club_lat": 49.984167,
+      "club_lon": 8.224167
     },
     {
       "club": "Al-Qadsiah",
       "player_count": 6,
-      "teams_represented": 3
+      "teams_represented": 3,
+      "club_country": "Saudi Arabia",
+      "club_lat": 26.3699,
+      "club_lon": 50.2052
+    },
+    {
+      "club": "Bournemouth",
+      "player_count": 6,
+      "teams_represented": 5,
+      "club_country": "England",
+      "club_lat": 50.735278,
+      "club_lon": -1.838333
     },
     {
       "club": "Real Betis",
       "player_count": 6,
-      "teams_represented": 6
+      "teams_represented": 6,
+      "club_country": "Spain",
+      "club_lat": 37.356403,
+      "club_lon": -5.981611
     }
   ]
 }

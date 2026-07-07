@@ -1,4 +1,4 @@
-export type ViewMode = "diaspora" | "squad" | "factories" | "bracket";
+export type ViewMode = "diaspora" | "squad" | "factories" | "bracket" | "clubs";
 
 export interface Match {
   round: string;
@@ -20,6 +20,8 @@ export interface Player {
   position: string;
   club: string;
   club_country: string;
+  club_lat: number | null;
+  club_lon: number | null;
   birth_date: string;
   birth_city: string;
   birth_country: string;
@@ -54,6 +56,9 @@ export interface ConfederationSummary {
 
 export interface ClubSummary {
   club: string;
+  club_country: string;
+  club_lat: number | null;
+  club_lon: number | null;
   player_count: number;
   teams_represented: number;
 }

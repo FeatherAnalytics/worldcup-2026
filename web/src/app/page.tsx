@@ -13,10 +13,13 @@ import { PlayerCard } from "@/components/PlayerCard";
 import { ColorLegend } from "@/components/ColorLegend";
 import { CountryDetail } from "@/components/CountryDetail";
 import { BracketPanel } from "@/components/BracketPanel";
+import { ClubCombobox } from "@/components/ClubCombobox";
+import { ClubDetail } from "@/components/ClubDetail";
 import { createDiasporaLayers } from "@/components/DiasporaLayer";
 import { createSquadLayer } from "@/components/SquadLayer";
 import { createFactoriesLayer } from "@/components/FactoriesLayer";
 import { createBracketLayers, geoNameToTeam } from "@/components/BracketLayer";
+import { createClubLayers } from "@/components/ClubLayer";
 import { computeCentroids, type CountryCentroid } from "@/lib/geo";
 import { participatingTeams, type StageKey } from "@/lib/bracket";
 import {
@@ -26,6 +29,7 @@ import {
   uniqueTeams,
   uniqueConfederations,
   uniqueBirthCountries,
+  uniqueClubs,
 } from "@/lib/data";
 import type { Player, Match, Summary, ViewMode, TooltipInfo } from "@/lib/types";
 import type { FeatureCollection, Feature } from "geojson";
@@ -67,6 +71,9 @@ export default function Home() {
   const [selectedStage, setSelectedStage] = useState<StageKey>("r16");
   const [bracketTeam, setBracketTeam] = useState<string | null>(null);
 
+  /* Clubs state */
+  const [filterClub, setFilterClub] = useState("");
+
   /* ------------------------------------------------------------------ */
   /*  Data loading                                                       */
   /* ------------------------------------------------------------------ */
@@ -97,6 +104,13 @@ export default function Home() {
   const allTeams = useMemo(() => uniqueTeams(players), [players]);
   const allConfederations = useMemo(() => uniqueConfederations(players), [players]);
   const allBirthCountries = useMemo(() => uniqueBirthCountries(players), [players]);
+
+  const allClubs = useMemo(() => uniqueClubs(players), [players]);
+
+  const clubPlayers = useMemo(
+    () => filterClub ? players.filter((p) => p.club === filterClub) : [],
+    [players, filterClub]
+  );
 
   const filteredTeams = useMemo(() => {
     let pool = players;
@@ -142,6 +156,7 @@ export default function Home() {
       setSelectedPlayer(null);
       setSelectedCountry(null);
       setBracketTeam(null);
+      setFilterClub("");
       // Reset squad selection to first team when entering squad view
       if (v === "squad" && selectedTeam === "" && allTeams.length > 0) {
         setSelectedTeam(allTeams[0]);
@@ -194,8 +209,11 @@ export default function Home() {
     if (activeView === "bracket" && geojson && players.length > 0 && centroids.size > 0) {
       return createBracketLayers(geojson, players, activeTeams, centroids, bracketTeam, getConfederation);
     }
+    if (activeView === "clubs" && clubPlayers.length > 0 && centroids.size > 0) {
+      return createClubLayers(clubPlayers, centroids);
+    }
     return [];
-  }, [activeView, diasporaPlayers, centroids, squadPlayers, selectedPlayer, geojson, players, activeTeams, bracketTeam, getConfederation]);
+  }, [activeView, diasporaPlayers, centroids, squadPlayers, selectedPlayer, geojson, players, activeTeams, bracketTeam, getConfederation, clubPlayers]);
 
   /* ------------------------------------------------------------------ */
   /*  Hover handler                                                      */
@@ -274,9 +292,27 @@ export default function Home() {
             </div>
           ),
         });
+      } else if (activeView === "clubs") {
+        const arc = info.object as { teamCountry?: string; playerCount?: number };
+        if (arc?.teamCountry) {
+          const teamPlayers = clubPlayers.filter((p) => p.team_country === arc.teamCountry);
+          setTooltip({
+            x: info.x,
+            y: info.y,
+            content: (
+              <div>
+                <p className="font-medium">{arc.teamCountry}</p>
+                <p className="text-stone-500">{arc.playerCount} {arc.playerCount === 1 ? "player" : "players"}</p>
+                <p className="text-xs text-stone-400">{teamPlayers.map((p) => p.name).join(", ")}</p>
+              </div>
+            ),
+          });
+        } else {
+          setTooltip(null);
+        }
       }
     },
-    [activeView, players]
+    [activeView, players, clubPlayers]
   );
 
   /* ------------------------------------------------------------------ */
@@ -394,6 +430,23 @@ export default function Home() {
           onTeamClick={(team) => setBracketTeam((prev) => prev === team ? null : team)}
           teamPlayers={bracketTeamPlayers}
         />
+      );
+    }
+    if (activeView === "clubs") {
+      return (
+        <div className="flex flex-col gap-4">
+          <ClubCombobox clubs={allClubs} selected={filterClub} onChange={setFilterClub} />
+          {filterClub && clubPlayers.length > 0 && (
+            <ClubDetail club={filterClub} players={clubPlayers} />
+          )}
+          {!filterClub && (
+            <div className="rounded-r-lg border-l-[3px] border-[#4A7FB5] bg-stone-50 px-3.5 py-3">
+              <p className="font-display text-sm italic text-stone-600 leading-relaxed">
+                Search for a club to see which national teams its players represent.
+              </p>
+            </div>
+          )}
+        </div>
       );
     }
     return null;
