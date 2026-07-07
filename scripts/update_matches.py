@@ -193,6 +193,14 @@ def main() -> None:
     if OUTPUT_PATH.exists():
         existing = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
 
+    if len(all_matches) == 0 and len(existing) > 0:
+        print("ERROR: Scraper returned 0 matches but existing data has matches. Aborting to avoid data loss.")
+        sys.exit(1)
+
+    if len(all_matches) < len(existing) * 0.5:
+        print(f"WARNING: Scraper returned {len(all_matches)} matches vs {len(existing)} existing. Aborting to avoid data loss.")
+        sys.exit(1)
+
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(
         json.dumps(all_matches, indent=2, ensure_ascii=False) + "\n",
