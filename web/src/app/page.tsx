@@ -75,6 +75,11 @@ export default function Home() {
   const [filterClub, setFilterClub] = useState("");
 
   /* ------------------------------------------------------------------ */
+  /*  URL state                                                          */
+  /* ------------------------------------------------------------------ */
+  const [urlApplied, setUrlApplied] = useState(false);
+
+  /* ------------------------------------------------------------------ */
   /*  Data loading                                                       */
   /* ------------------------------------------------------------------ */
   useEffect(() => {
@@ -90,7 +95,58 @@ export default function Home() {
       });
   }, []);
 
-  // Set default selectedTeam once players load
+  // Read URL params once data loads
+  useEffect(() => {
+    if (urlApplied || players.length === 0) return;
+    const params = new URLSearchParams(window.location.search);
+
+    const viewParam = params.get("view") as ViewMode | null;
+    const VALID_VIEWS: ViewMode[] = ["diaspora", "squad", "factories", "bracket", "clubs"];
+    if (viewParam && VALID_VIEWS.includes(viewParam)) setActiveView(viewParam);
+
+    const teamParam = params.get("team");
+    if (teamParam) setSelectedTeam(teamParam);
+
+    const clubParam = params.get("club");
+    if (clubParam) setFilterClub(clubParam);
+
+    const confParam = params.get("conf");
+    if (confParam) setFilterConf(confParam);
+
+    const birthParam = params.get("birth");
+    if (birthParam) setFilterBirth(birthParam);
+
+    const stageParam = params.get("stage") as StageKey | null;
+    if (stageParam) setSelectedStage(stageParam);
+
+    const countryParam = params.get("country");
+    if (countryParam) setSelectedCountry(countryParam);
+
+    const filterTeamParam = params.get("filterTeam");
+    if (filterTeamParam) setFilterTeam(filterTeamParam);
+
+    setUrlApplied(true);
+  }, [players, urlApplied]);
+
+  // Write URL params on state change
+  useEffect(() => {
+    if (!urlApplied) return;
+    const params = new URLSearchParams();
+    if (activeView !== "diaspora") params.set("view", activeView);
+    if (activeView === "squad" && selectedTeam) params.set("team", selectedTeam);
+    if (activeView === "clubs" && filterClub) params.set("club", filterClub);
+    if (activeView === "diaspora" && filterConf) params.set("conf", filterConf);
+    if (activeView === "diaspora" && filterTeam) params.set("filterTeam", filterTeam);
+    if (activeView === "diaspora" && filterBirth) params.set("birth", filterBirth);
+    if (activeView === "bracket" && selectedStage !== "r16") params.set("stage", selectedStage);
+    if (activeView === "factories" && selectedCountry) params.set("country", selectedCountry);
+
+    const qs = params.toString();
+    const url = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+    window.history.replaceState(null, "", url);
+  }, [urlApplied, activeView, selectedTeam, filterClub, filterConf, filterTeam, filterBirth, selectedStage, selectedCountry]);
+
+  // Set default selectedTeam once players load (only if URL didn't set one)
   useEffect(() => {
     if (players.length > 0 && selectedTeam === "") {
       const teams = uniqueTeams(players);
