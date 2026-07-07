@@ -29,6 +29,17 @@ def main() -> None:
     coverage = len(bp_data) / total_players * 100 if total_players else 0
     print(f"  Birthplace coverage: {len(bp_data)}/{total_players} ({coverage:.0f}%)")
 
+    print("\n=== Step 2.5: Enrich with Wikidata club coordinates ===")
+    squads_path_2 = RAW_DIR / "squads_raw.json"
+    teams_2 = json.loads(squads_path_2.read_text(encoding="utf-8"))
+    club_names = list({p["club"] for t in teams_2 for p in t["players"] if p.get("club")})
+    print(f"  Found {len(club_names)} unique clubs")
+    from worldcup.extract.wikidata import enrich_club_coords
+    club_cache_path = RAW_DIR / "club_coords_cache.json"
+    club_coords = enrich_club_coords(club_names, cache_path=club_cache_path)
+    found = sum(1 for v in club_coords.values() if v.get("club_lat") is not None)
+    print(f"  Club coordinate coverage: {found}/{len(club_names)}")
+
     print("\n=== Step 3: Build final dataset ===")
     build_dataset.run()
 
