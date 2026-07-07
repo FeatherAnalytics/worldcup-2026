@@ -50,3 +50,19 @@ export function uniqueConfederations(players: Player[]): string[] {
 export function uniqueBirthCountries(players: Player[]): string[] {
   return [...new Set(players.filter((p) => p.birth_country).map((p) => p.birth_country))].sort();
 }
+
+export function uniqueClubs(
+  players: Player[]
+): { club: string; count: number; teams: number }[] {
+  const map = new Map<string, { count: number; teams: Set<string> }>();
+  for (const p of players) {
+    if (!p.club) continue;
+    const entry = map.get(p.club) ?? { count: 0, teams: new Set<string>() };
+    entry.count++;
+    entry.teams.add(p.team_country);
+    map.set(p.club, entry);
+  }
+  return [...map.entries()]
+    .map(([club, { count, teams }]) => ({ club, count, teams: teams.size }))
+    .sort((a, b) => b.count - a.count);
+}
