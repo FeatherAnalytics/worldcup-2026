@@ -33,3 +33,6 @@ web/tsconfig.tsbuildinfo
 
 # Thoughts (internal notes)
 thoughts/
+
+# Superpowers brainstorming
+.superpowers/
