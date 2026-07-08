@@ -4,6 +4,7 @@ import json
 import re
 import ssl
 import sys
+import time
 from datetime import date
 from pathlib import Path
 
@@ -34,12 +35,37 @@ HEADING_TO_ROUND: dict[str, str] = {
 }
 
 
+# Wikimedia's User-Agent policy requires a descriptive agent with a real contact.
+# https://meta.wikimedia.org/wiki/User-Agent_policy
+USER_AGENT = (
+    "WorldCup2026MatchUpdater/0.1 "
+    "(https://github.com/FeatherAnalytics/worldcup-2026; featheranalytics@proton.me)"
+)
+
+
 def _client() -> httpx.Client:
     return httpx.Client(
-        headers={"User-Agent": "WorldCup2026MatchUpdater/0.1 (github.com/featheranalytics)"},
+        headers={"User-Agent": USER_AGENT},
         timeout=30,
         verify=truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT),
     )
+
+
+def fetch(client: httpx.Client, url: str, *, retries: int = 4) -> httpx.Response:
+    """GET with exponential backoff. Wikipedia intermittently 403/429s requests
+    from datacenter IPs (e.g. GitHub Actions runners); retrying usually clears it."""
+    last_exc: httpx.HTTPError | None = None
+    for attempt in range(retries):
+        try:
+            resp = client.get(url)
+            resp.raise_for_status()
+            return resp
+        except httpx.HTTPError as exc:
+            last_exc = exc
+            if attempt < retries - 1:
+                time.sleep(2**attempt)  # 1s, 2s, 4s
+    assert last_exc is not None
+    raise last_exc
 
 
 def parse_score(text: str) -> tuple[int | None, int | None, int | None, int | None]:
@@ -122,8 +148,7 @@ def scrape_group_matches(client: httpx.Client) -> list[dict]:
         print(f"  {group_name}...", end=" ", flush=True)
 
         try:
-            resp = client.get(url)
-            resp.raise_for_status()
+            resp = fetch(client, url)
         except httpx.HTTPError as e:
             print(f"FAILED ({e})")
             continue
@@ -146,8 +171,7 @@ def scrape_knockout_matches(client: httpx.Client) -> list[dict]:
     matches = []
 
     try:
-        resp = client.get(KNOCKOUT_URL)
-        resp.raise_for_status()
+        resp = fetch(client, KNOCKOUT_URL)
     except httpx.HTTPError as e:
         print(f"FAILED ({e})")
         return matches
