@@ -4,6 +4,7 @@ import json
 import re
 import ssl
 import sys
+import time
 from datetime import date
 from pathlib import Path
 
@@ -34,12 +35,37 @@ HEADING_TO_ROUND: dict[str, str] = {
 }
 
 
+# Wikimedia's User-Agent policy requires a descriptive agent with a real contact.
+# https://meta.wikimedia.org/wiki/User-Agent_policy
+USER_AGENT = (
+    "WorldCup2026MatchUpdater/0.1 "
+    "(https://github.com/FeatherAnalytics/worldcup-2026; hardage.david93@gmail.com)"
+)
+
+
 def _client() -> httpx.Client:
     return httpx.Client(
-        headers={"User-Agent": "WorldCup2026MatchUpdater/0.1 (github.com/featheranalytics)"},
+        headers={"User-Agent": USER_AGENT},
         timeout=30,
         verify=truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT),
     )
+
+
+def fetch(client: httpx.Client, url: str, *, retries: int = 4) -> httpx.Response:
+    """GET with exponential backoff. Wikipedia intermittently 403/429s requests
+    from datacenter IPs (e.g. GitHub Actions runners); retrying usually clears it."""
+    last_exc: httpx.HTTPError | None = None
+    for attempt in range(retries):
+        try:
+            resp = client.get(url)
+            resp.raise_for_status()
+            return resp
+        except httpx.HTTPError as exc:
+            last_exc = exc
+            if attempt < retries - 1:
+                time.sleep(2**attempt)  # 1s, 2s, 4s
+    assert last_exc is not None
+    raise last_exc
 
 
 def parse_score(text: str) -> tuple[int | None, int | None, int | None, int | None]:
@@ -114,18 +140,19 @@ def extract_match(table: Tag, round_name: str, stage: str) -> dict | None:
     return match
 
 
-def scrape_group_matches(client: httpx.Client) -> list[dict]:
+def scrape_group_matches(client: httpx.Client) -> tuple[list[dict], int]:
     matches = []
+    fetch_errors = 0
     for url in GROUP_URLS:
         letter = url.split("_")[-1]
         group_name = f"Group {letter}"
         print(f"  {group_name}...", end=" ", flush=True)
 
         try:
-            resp = client.get(url)
-            resp.raise_for_status()
+            resp = fetch(client, url)
         except httpx.HTTPError as e:
             print(f"FAILED ({e})")
+            fetch_errors += 1
             continue
 
         soup = BeautifulSoup(resp.text, "lxml")
@@ -138,19 +165,18 @@ def scrape_group_matches(client: httpx.Client) -> list[dict]:
 
         print(f"{count} matches")
 
-    return matches
+    return matches, fetch_errors
 
 
-def scrape_knockout_matches(client: httpx.Client) -> list[dict]:
+def scrape_knockout_matches(client: httpx.Client) -> tuple[list[dict], int]:
     print("  Knockout stage...", end=" ", flush=True)
     matches = []
 
     try:
-        resp = client.get(KNOCKOUT_URL)
-        resp.raise_for_status()
+        resp = fetch(client, KNOCKOUT_URL)
     except httpx.HTTPError as e:
         print(f"FAILED ({e})")
-        return matches
+        return matches, 1
 
     soup = BeautifulSoup(resp.text, "lxml")
 
@@ -169,7 +195,7 @@ def scrape_knockout_matches(client: httpx.Client) -> list[dict]:
             matches.append(match)
 
     print(f"{len(matches)} matches")
-    return matches
+    return matches, 0
 
 
 def main() -> None:
@@ -180,10 +206,11 @@ def main() -> None:
     print("Updating match data from Wikipedia...\n")
 
     with _client() as client:
-        group_matches = scrape_group_matches(client)
+        group_matches, group_errors = scrape_group_matches(client)
         print()
-        knockout_matches = scrape_knockout_matches(client)
+        knockout_matches, knockout_errors = scrape_knockout_matches(client)
 
+    fetch_errors = group_errors + knockout_errors
     all_matches = group_matches + knockout_matches
     completed = sum(1 for m in all_matches if m["score_a"] is not None)
 
@@ -193,11 +220,26 @@ def main() -> None:
     if OUTPUT_PATH.exists():
         existing = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
 
+    # Distinguish a transient upstream fetch failure (Wikipedia blocking the runner
+    # IP with 403/429) from a genuine parser regression. Fetch failures should not
+    # fail the run or overwrite good data — the next scheduled run will retry.
     if len(all_matches) == 0 and len(existing) > 0:
+        if fetch_errors > 0:
+            print(
+                f"SKIP: all source fetches failed ({fetch_errors} errors) — likely a "
+                "transient upstream block. Leaving existing data unchanged."
+            )
+            sys.exit(0)
         print("ERROR: Scraper returned 0 matches but existing data has matches. Aborting to avoid data loss.")
         sys.exit(1)
 
     if len(all_matches) < len(existing) * 0.5:
+        if fetch_errors > 0:
+            print(
+                f"SKIP: only {len(all_matches)} matches vs {len(existing)} existing, with "
+                f"{fetch_errors} fetch failures — leaving existing data unchanged."
+            )
+            sys.exit(0)
         print(f"WARNING: Scraper returned {len(all_matches)} matches vs {len(existing)} existing. Aborting to avoid data loss.")
         sys.exit(1)
 
