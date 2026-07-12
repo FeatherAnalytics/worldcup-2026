@@ -993,9 +993,9 @@
     "date": "2026-07-11",
     "team_a": "Norway",
     "team_b": "England",
-    "score_a": null,
-    "score_b": null,
-    "winner": null
+    "score_a": 1,
+    "score_b": 2,
+    "winner": "England"
   },
   {
     "round": "Quarter-finals",
@@ -1003,9 +1003,9 @@
     "date": "2026-07-11",
     "team_a": "Argentina",
     "team_b": "Switzerland",
-    "score_a": null,
-    "score_b": null,
-    "winner": null
+    "score_a": 3,
+    "score_b": 1,
+    "winner": "Argentina"
   },
   {
     "round": "Semi-finals",
@@ -1021,14 +1021,14 @@
     "round": "Semi-finals",
     "stage": "knockout",
     "date": "2026-07-15",
-    "team_a": "Winner Match 99",
-    "team_b": "Winner Match 100",
+    "team_a": "England",
+    "team_b": "Argentina",
     "score_a": null,
     "score_b": null,
     "winner": null
   },
   {
-    "round": "Final",
+    "round": "Third place",
     "stage": "knockout",
     "date": "2026-07-18",
     "team_a": "Loser Match 101",
