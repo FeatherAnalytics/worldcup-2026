@@ -1013,9 +1013,9 @@
     "date": "2026-07-14",
     "team_a": "France",
     "team_b": "Spain",
-    "score_a": null,
-    "score_b": null,
-    "winner": null
+    "score_a": 0,
+    "score_b": 2,
+    "winner": "Spain"
   },
   {
     "round": "Semi-finals",
@@ -1031,7 +1031,7 @@
     "round": "Third place",
     "stage": "knockout",
     "date": "2026-07-18",
-    "team_a": "Loser Match 101",
+    "team_a": "France",
     "team_b": "Loser Match 102",
     "score_a": null,
     "score_b": null,
@@ -1041,7 +1041,7 @@
     "round": "Final",
     "stage": "knockout",
     "date": "2026-07-19",
-    "team_a": "Winner Match 101",
+    "team_a": "Spain",
     "team_b": "Winner Match 102",
     "score_a": null,
     "score_b": null,
