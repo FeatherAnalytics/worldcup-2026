@@ -1033,9 +1033,9 @@
     "date": "2026-07-18",
     "team_a": "France",
     "team_b": "England",
-    "score_a": null,
-    "score_b": null,
-    "winner": null
+    "score_a": 4,
+    "score_b": 6,
+    "winner": "England"
   },
   {
     "round": "Final",
