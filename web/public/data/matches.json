@@ -1043,8 +1043,8 @@
     "date": "2026-07-19",
     "team_a": "Spain",
     "team_b": "Argentina",
-    "score_a": null,
-    "score_b": null,
-    "winner": null
+    "score_a": 1,
+    "score_b": 0,
+    "winner": "Spain"
   }
 ]
