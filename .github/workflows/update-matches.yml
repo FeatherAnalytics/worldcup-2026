@@ -1,8 +1,8 @@
 name: Update Match Data
 
 on:
-  schedule:
-    - cron: "17 */4 * * *"  # Every 4 hours at :17
+  # Scheduled scraping disabled — 2026 World Cup ended Jul 19, 2026.
+  # Retained as manual-only (workflow_dispatch) in case a re-run is ever needed.
   workflow_dispatch:         # Manual trigger
 
 permissions:
